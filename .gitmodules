@@ -1,5 +1,5 @@
 [submodule "annotation-tool"]
-	path = annotation-tool
+	path = manual-annotation/annotation-tool
 	url = https://github.com/ufal/imgmt-annot-webapp.git
 [submodule "anytrans-extended"]
 	path = anytrans-extended
