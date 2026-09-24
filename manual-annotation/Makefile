@@ -1,5 +1,5 @@
-IMGMT_DATA_DIR=
-MANUAL_ANNOT_DIR=annots
+IMGMT_DATA_DIR ?=
+MANUAL_ANNOT_DIR ?= annots
 
 .PHONY: manual-eval distribute-svgs check-svgs
 
