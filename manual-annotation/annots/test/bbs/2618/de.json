@@ -1,0 +1,51 @@
+{
+  "image_id": "2618",
+  "language": "de",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Chemical_precipitation_diagram_multilang.svg&lang=de",
+    "size": {
+      "width": 871.64,
+      "height": 799
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "ZooFari"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 559.0,
+      "y": 27.0,
+      "w": 210.0,
+      "h": 46.0,
+      "text": "Überstand"
+    },
+    {
+      "id": "1",
+      "x": 62.0,
+      "y": 31.0,
+      "w": 153.0,
+      "h": 46.0,
+      "text": "Lösung"
+    },
+    {
+      "id": "2",
+      "x": 82.0,
+      "y": 680.0,
+      "w": 248.0,
+      "h": 47.0,
+      "text": "Suspension"
+    },
+    {
+      "id": "4",
+      "x": 503.0,
+      "y": 687.0,
+      "w": 286.0,
+      "h": 99.0,
+      "text": "Präzipitat (Niederschlag)"
+    }
+  ],
+  "comment": ""
+}

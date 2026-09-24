@@ -1,0 +1,30 @@
+{
+  "image_id": "1502",
+  "src_lang": "es",
+  "tgt_lang": "ja",
+  "alignment_method": "ambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "5",
+      "tgt_box": "1"
+    },
+    {
+      "src_box": "1",
+      "tgt_box": "2"
+    },
+    {
+      "src_box": "6",
+      "tgt_box": "4"
+    },
+    {
+      "src_box": "7",
+      "tgt_box": "5"
+    },
+    {
+      "src_box": "2",
+      "tgt_box": "3"
+    }
+  ],
+  "images_identical": "different",
+  "comment": ""
+}

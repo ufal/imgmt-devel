@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "cs",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-cs.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 439.85,
+      "y": 23.67,
+      "w": 182.01,
+      "h": 37.09,
+      "text": "Vejcovody"
+    },
+    {
+      "id": "1",
+      "x": 445.8,
+      "y": 74.46,
+      "w": 170.09,
+      "h": 37.24,
+      "text": "Vaječníky"
+    },
+    {
+      "id": "5",
+      "x": 469.0,
+      "y": 125.08,
+      "w": 122.1,
+      "h": 29.28,
+      "text": "Děloha"
+    },
+    {
+      "id": "2",
+      "x": 292.0,
+      "y": 297.0,
+      "w": 138.0,
+      "h": 75.0,
+      "text": "Děložní hrdlo"
+    },
+    {
+      "id": "3",
+      "x": 312.4,
+      "y": 414.87,
+      "w": 128.76,
+      "h": 29.13,
+      "text": "Pochva"
+    },
+    {
+      "id": "6",
+      "x": 323.78,
+      "y": 553.52,
+      "w": 96.8,
+      "h": 29.13,
+      "text": "Vulva"
+    }
+  ],
+  "comment": ""
+}

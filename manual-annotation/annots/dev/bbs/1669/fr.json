@@ -1,0 +1,27 @@
+{
+  "image_id": "1669",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 388.0,
+      "height": 234
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Thyroid_gland-fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 261.48,
+      "y": 145.92,
+      "w": 120.39,
+      "h": 15.02,
+      "text": "Glande thyroïde"
+    }
+  ],
+  "comment": ""
+}

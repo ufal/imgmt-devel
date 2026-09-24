@@ -1,0 +1,67 @@
+{
+  "image_id": "433",
+  "language": "da",
+  "png": {
+    "size": {
+      "width": 473.22,
+      "height": 388
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Course_Channeltunnel_da.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY 2.5",
+      "author": "Hejsa"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": -1.32,
+      "y": 28.28,
+      "w": 147.46,
+      "h": 47.6,
+      "text": "Stor- britannien"
+    },
+    {
+      "id": "3",
+      "x": 114.1,
+      "y": 102.62,
+      "w": 39.75,
+      "h": 11.11,
+      "text": "Dover"
+    },
+    {
+      "id": "4",
+      "x": 41.38,
+      "y": 155.68,
+      "w": 72.8,
+      "h": 11.11,
+      "text": "Folkestone"
+    },
+    {
+      "id": "6",
+      "x": 129.45,
+      "y": 166.84,
+      "w": 114.14,
+      "h": 77.67,
+      "text": "Eurotunnelen"
+    },
+    {
+      "id": "5",
+      "x": 373.42,
+      "y": 229.64,
+      "w": 41.08,
+      "h": 11.3,
+      "text": "Calais"
+    },
+    {
+      "id": "1",
+      "x": 330.55,
+      "y": 316.11,
+      "w": 105.37,
+      "h": 22.16,
+      "text": "Frankrig"
+    }
+  ],
+  "comment": ""
+}

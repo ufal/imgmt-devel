@@ -1,0 +1,51 @@
+{
+  "image_id": "32",
+  "language": "de",
+  "png": {
+    "size": {
+      "width": 592,
+      "height": 722
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:6x19_wire_rope_construction-de.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Tachymètre (talk)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 332.07,
+      "y": 23.27,
+      "w": 179.21,
+      "h": 51.65,
+      "text": "Draht"
+    },
+    {
+      "id": "2",
+      "x": 338.81,
+      "y": 162.49,
+      "w": 146.22,
+      "h": 49.63,
+      "text": "Litze"
+    },
+    {
+      "id": "3",
+      "x": 338.09,
+      "y": 322.3,
+      "w": 232.39,
+      "h": 64.4,
+      "text": "Einlage"
+    },
+    {
+      "id": "4",
+      "x": 332.72,
+      "y": 547.29,
+      "w": 111.39,
+      "h": 51.51,
+      "text": "Seil"
+    }
+  ],
+  "comment": ""
+}

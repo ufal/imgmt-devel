@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "eo",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-eo.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 423.8,
+      "y": 21.92,
+      "w": 218.65,
+      "h": 46.81,
+      "text": "Ovoduktoj"
+    },
+    {
+      "id": "2",
+      "x": 457.08,
+      "y": 71.44,
+      "w": 152.09,
+      "h": 46.81,
+      "text": "Ovarioj"
+    },
+    {
+      "id": "3",
+      "x": 475.21,
+      "y": 119.77,
+      "w": 116.15,
+      "h": 36.3,
+      "text": "Utero"
+    },
+    {
+      "id": "4",
+      "x": 239.77,
+      "y": 315.86,
+      "w": 179.89,
+      "h": 36.3,
+      "text": "Uterkolo"
+    },
+    {
+      "id": "5",
+      "x": 293.2,
+      "y": 411.36,
+      "w": 149.48,
+      "h": 46.19,
+      "text": "Vagino"
+    },
+    {
+      "id": "6",
+      "x": 302.1,
+      "y": 552.24,
+      "w": 120.8,
+      "h": 36.28,
+      "text": "Vulvo"
+    }
+  ],
+  "comment": ""
+}

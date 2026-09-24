@@ -1,0 +1,59 @@
+{
+  "image_id": "889",
+  "language": "sk",
+  "png": {
+    "size": {
+      "width": 358.03,
+      "height": 321
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Interferometer_slk.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "~~helix84"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 77.81,
+      "y": 15.71,
+      "w": 41.68,
+      "h": 9.09,
+      "text": "zrkadlo"
+    },
+    {
+      "id": "3",
+      "x": 168.5,
+      "y": 139.69,
+      "w": 65.95,
+      "h": 38.43,
+      "text": "zrkadlo so striebornou vrstvou"
+    },
+    {
+      "id": "2",
+      "x": 9.12,
+      "y": 158.53,
+      "w": 81.24,
+      "h": 26.69,
+      "text": "koherentný svetelný zdroj"
+    },
+    {
+      "id": "4",
+      "x": 301.86,
+      "y": 221.35,
+      "w": 41.68,
+      "h": 9.09,
+      "text": "zrkadlo"
+    },
+    {
+      "id": "5",
+      "x": 177.11,
+      "y": 290.13,
+      "w": 49.03,
+      "h": 9.09,
+      "text": "detektor"
+    }
+  ],
+  "comment": ""
+}

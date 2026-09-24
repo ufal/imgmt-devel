@@ -1,0 +1,51 @@
+{
+  "image_id": "1115",
+  "language": "bn",
+  "png": {
+    "size": {
+      "width": 715.27,
+      "height": 544.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Masses_of_gas_giants-bn.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "Sumita Roy Dutta"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 392.01,
+      "y": 70.27,
+      "w": 139.55,
+      "h": 83.43,
+      "text": "শনি"
+    },
+    {
+      "id": "2",
+      "x": 237.07,
+      "y": 289.81,
+      "w": 291.68,
+      "h": 102.48,
+      "text": "বৃহস্পতি"
+    },
+    {
+      "id": "3",
+      "x": 591.4,
+      "y": 194.17,
+      "w": 80.52,
+      "h": 25.7,
+      "text": "নেপচুন"
+    },
+    {
+      "id": "4",
+      "x": 588.25,
+      "y": 230.21,
+      "w": 104.98,
+      "h": 26.11,
+      "text": "ইউরেনাস"
+    }
+  ],
+  "comment": ""
+}

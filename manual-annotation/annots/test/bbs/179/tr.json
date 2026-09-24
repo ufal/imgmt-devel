@@ -1,0 +1,83 @@
+{
+  "image_id": "179",
+  "language": "tr",
+  "png": {
+    "size": {
+      "width": 687,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Prokaryote_cell_diagram_tr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "tr:User:infoCan"
+    }
+  },
+  "boxes": [
+    {
+      "id": "7",
+      "x": 365.0,
+      "y": 8.0,
+      "w": 86.0,
+      "h": 20.0,
+      "text": "Sitoplazma"
+    },
+    {
+      "id": "2",
+      "x": 255.48,
+      "y": 22.1,
+      "w": 85.07,
+      "h": 28.79,
+      "text": "Ribozomlar"
+    },
+    {
+      "id": "6",
+      "x": 35.0,
+      "y": 28.0,
+      "w": 100.0,
+      "h": 19.0,
+      "text": ""
+    },
+    {
+      "id": "8",
+      "x": 542.0,
+      "y": 45.0,
+      "w": 76.0,
+      "h": 21.0,
+      "text": "Flagellum"
+    },
+    {
+      "id": "5",
+      "x": 196.38,
+      "y": 55.3,
+      "w": 70.39,
+      "h": 12.21,
+      "text": "Mezozom"
+    },
+    {
+      "id": "3",
+      "x": 87.58,
+      "y": 68.92,
+      "w": 48.89,
+      "h": 15.42,
+      "text": "Kapsül"
+    },
+    {
+      "id": "1",
+      "x": 25.76,
+      "y": 104.38,
+      "w": 110.93,
+      "h": 15.75,
+      "text": "DNA (nükleoid)"
+    },
+    {
+      "id": "4",
+      "x": 21.5,
+      "y": 129.96,
+      "w": 85.71,
+      "h": 12.21,
+      "text": "Plazma zarı"
+    }
+  ],
+  "comment": ""
+}

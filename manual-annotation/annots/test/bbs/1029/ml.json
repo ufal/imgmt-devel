@@ -1,0 +1,59 @@
+{
+  "image_id": "1029",
+  "language": "ml",
+  "png": {
+    "size": {
+      "width": 367.5,
+      "height": 402
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Loudspeaker_side_ml.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Enciclopedia Libre"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 19.11,
+      "y": 10.18,
+      "w": 196.42,
+      "h": 20.84,
+      "text": "കണക്ഷൻ ധ്രുവങ്ങള്‍"
+    },
+    {
+      "id": "1",
+      "x": 17.7,
+      "y": 108.14,
+      "w": 90.06,
+      "h": 19.99,
+      "text": "ഇൻഡക്ടർ"
+    },
+    {
+      "id": "5",
+      "x": 250.68,
+      "y": 222.3,
+      "w": 78.41,
+      "h": 14.3,
+      "text": "ഡയഫ്രം"
+    },
+    {
+      "id": "3",
+      "x": 12.96,
+      "y": 300.98,
+      "w": 63.4,
+      "h": 12.39,
+      "text": "കാന്തം"
+    },
+    {
+      "id": "4",
+      "x": 14.41,
+      "y": 367.0,
+      "w": 86.2,
+      "h": 17.58,
+      "text": "ഷാസിസ്"
+    }
+  ],
+  "comment": ""
+}

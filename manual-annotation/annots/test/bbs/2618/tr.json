@@ -1,0 +1,50 @@
+{
+  "image_id": "2618",
+  "language": "tr",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Chemical_precipitation_diagram_multilang.svg&lang=tr",
+    "size": {
+      "width": 871.64,
+      "height": 799
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "ZooFari"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 38.77,
+      "y": 49.69,
+      "w": 140.41,
+      "h": 42.11,
+      "text": "Çözelti"
+    },
+    {
+      "id": "3",
+      "x": 574.49,
+      "y": 50.54,
+      "w": 267.19,
+      "h": 41.03,
+      "text": "Süpernatant"
+    },
+    {
+      "id": "4",
+      "x": 695.73,
+      "y": 719.4,
+      "w": 143.13,
+      "h": 42.11,
+      "text": "Çökelti"
+    },
+    {
+      "id": "2",
+      "x": 39.17,
+      "y": 720.25,
+      "w": 268.47,
+      "h": 41.03,
+      "text": "Süspansiyon"
+    }
+  ]
+}

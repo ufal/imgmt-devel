@@ -1,0 +1,35 @@
+{
+  "image_id": "90",
+  "language": "az",
+  "png": {
+    "size": {
+      "width": 868.5,
+      "height": 864
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Aldebaran-Sun_comparison-az.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Judithhh 11"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 552.99,
+      "y": 123.36,
+      "w": 141.16,
+      "h": 43.67,
+      "text": "Günəş"
+    },
+    {
+      "id": "1",
+      "x": 179.01,
+      "y": 431.83,
+      "w": 229.32,
+      "h": 35.74,
+      "text": "Əldebaran"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,90 @@
+{
+  "image_id": "248",
+  "language": "sk",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=sk",
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 419.21,
+      "y": 96.97,
+      "w": 130.44,
+      "h": 42.91,
+      "text": "život"
+    },
+    {
+      "id": "2",
+      "x": 375.49,
+      "y": 279.67,
+      "w": 218.04,
+      "h": 42.91,
+      "text": "doména"
+    },
+    {
+      "id": "3",
+      "x": 436.52,
+      "y": 465.27,
+      "w": 97.42,
+      "h": 42.91,
+      "text": "ríša"
+    },
+    {
+      "id": "4",
+      "x": 412.42,
+      "y": 647.97,
+      "w": 143.73,
+      "h": 42.91,
+      "text": "kmeň"
+    },
+    {
+      "id": "5",
+      "x": 406.21,
+      "y": 834.28,
+      "w": 155.11,
+      "h": 42.2,
+      "text": "trieda"
+    },
+    {
+      "id": "6",
+      "x": 443.0,
+      "y": 1019.88,
+      "w": 82.75,
+      "h": 42.2,
+      "text": "rad"
+    },
+    {
+      "id": "7",
+      "x": 406.3,
+      "y": 1196.07,
+      "w": 158.4,
+      "h": 42.91,
+      "text": "čeľaď"
+    },
+    {
+      "id": "8",
+      "x": 441.41,
+      "y": 1382.38,
+      "w": 85.92,
+      "h": 42.2,
+      "text": "rod"
+    },
+    {
+      "id": "9",
+      "x": 422.25,
+      "y": 1565.81,
+      "w": 122.57,
+      "h": 42.2,
+      "text": "druh"
+    }
+  ]
+}

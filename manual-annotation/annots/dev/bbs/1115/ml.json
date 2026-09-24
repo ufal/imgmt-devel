@@ -1,0 +1,51 @@
+{
+  "image_id": "1115",
+  "language": "ml",
+  "png": {
+    "size": {
+      "width": 714.66669,
+      "height": 544.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Masses_of_gas_giants-ml.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Path slopu"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 413.28,
+      "y": 66.36,
+      "w": 192.47,
+      "h": 79.61,
+      "text": "ശനി"
+    },
+    {
+      "id": "3",
+      "x": 562.0,
+      "y": 182.0,
+      "w": 158.0,
+      "h": 42.0,
+      "text": ""
+    },
+    {
+      "id": "4",
+      "x": 587.0,
+      "y": 229.0,
+      "w": 138.0,
+      "h": 29.0,
+      "text": ""
+    },
+    {
+      "id": "1",
+      "x": 175.98,
+      "y": 241.44,
+      "w": 408.3,
+      "h": 141.45,
+      "text": "വ്യാഴം"
+    }
+  ],
+  "comment": ""
+}

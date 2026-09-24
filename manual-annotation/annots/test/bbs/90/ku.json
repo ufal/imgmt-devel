@@ -1,0 +1,35 @@
+{
+  "image_id": "90",
+  "language": "ku",
+  "png": {
+    "size": {
+      "width": 868.5,
+      "height": 864
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Aldebaran-Sun_comparison-ku.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Judithhh 11"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 537.0,
+      "y": 122.0,
+      "w": 68.0,
+      "h": 45.0,
+      "text": "Roj"
+    },
+    {
+      "id": "1",
+      "x": 155.25,
+      "y": 431.83,
+      "w": 186.5,
+      "h": 35.74,
+      "text": "Deberan"
+    }
+  ],
+  "comment": ""
+}

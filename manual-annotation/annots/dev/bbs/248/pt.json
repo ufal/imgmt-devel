@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "pt",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip-pt.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 340.36,
+      "y": 1389.67,
+      "w": 279.02,
+      "h": 59.13,
+      "text": "Género"
+    },
+    {
+      "id": "2",
+      "x": 340.1,
+      "y": 1187.95,
+      "w": 275.92,
+      "h": 58.95,
+      "text": "Família"
+    },
+    {
+      "id": "3",
+      "x": 347.77,
+      "y": 1019.32,
+      "w": 257.61,
+      "h": 54.85,
+      "text": "Ordem"
+    },
+    {
+      "id": "4",
+      "x": 356.35,
+      "y": 832.07,
+      "w": 247.2,
+      "h": 54.85,
+      "text": "Classe"
+    },
+    {
+      "id": "5",
+      "x": 356.17,
+      "y": 609.77,
+      "w": 248.14,
+      "h": 110.89,
+      "text": "Filo ou Divisão"
+    },
+    {
+      "id": "6",
+      "x": 372.98,
+      "y": 443.11,
+      "w": 215.97,
+      "h": 54.97,
+      "text": "Reino"
+    },
+    {
+      "id": "7",
+      "x": 321.17,
+      "y": 265.78,
+      "w": 320.04,
+      "h": 59.13,
+      "text": "Domínio"
+    },
+    {
+      "id": "8",
+      "x": 391.53,
+      "y": 83.11,
+      "w": 168.63,
+      "h": 54.85,
+      "text": "Vida"
+    },
+    {
+      "id": "9",
+      "x": 336.77,
+      "y": 1563.38,
+      "w": 290.2,
+      "h": 72.17,
+      "text": "Espécie"
+    }
+  ],
+  "comment": ""
+}

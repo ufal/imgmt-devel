@@ -1,0 +1,51 @@
+{
+  "image_id": "2618",
+  "language": "fr",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Chemical_precipitation_diagram_multilang.svg&lang=fr",
+    "size": {
+      "width": 871.64,
+      "height": 799
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "ZooFari"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 39.17,
+      "y": 49.69,
+      "w": 172.33,
+      "h": 33.77,
+      "text": "Solution"
+    },
+    {
+      "id": "3",
+      "x": 591.67,
+      "y": 50.54,
+      "w": 250.02,
+      "h": 41.26,
+      "text": "Surnageant"
+    },
+    {
+      "id": "4",
+      "x": 659.08,
+      "y": 716.85,
+      "w": 181.37,
+      "h": 44.43,
+      "text": "Précipité"
+    },
+    {
+      "id": "2",
+      "x": 39.17,
+      "y": 720.25,
+      "w": 242.85,
+      "h": 41.03,
+      "text": "Suspension"
+    }
+  ],
+  "comment": "Image missing"
+}

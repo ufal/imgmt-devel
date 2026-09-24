@@ -1,0 +1,91 @@
+{
+  "image_id": "65",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 1572.52,
+      "height": 794
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Structure_administrative_territoriale_allemande.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.0 de",
+      "author": "glglgl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 707.11,
+      "y": 160.9,
+      "w": 148.35,
+      "h": 27.13,
+      "text": "État fédéral"
+    },
+    {
+      "id": "2",
+      "x": 739.47,
+      "y": 211.6,
+      "w": 91.25,
+      "h": 21.87,
+      "text": "Länder"
+    },
+    {
+      "id": "7",
+      "x": 648.51,
+      "y": 421.04,
+      "w": 102.77,
+      "h": 21.74,
+      "text": "Districts"
+    },
+    {
+      "id": "6",
+      "x": 1046.54,
+      "y": 479.38,
+      "w": 147.62,
+      "h": 27.13,
+      "text": "Villes-États"
+    },
+    {
+      "id": "5",
+      "x": 463.97,
+      "y": 502.1,
+      "w": 223.08,
+      "h": 21.74,
+      "text": "Arrondissements"
+    },
+    {
+      "id": "4",
+      "x": 238.48,
+      "y": 582.85,
+      "w": 202.07,
+      "h": 65.39,
+      "text": "(Communautés de communes)"
+    },
+    {
+      "id": "9",
+      "x": 787.0,
+      "y": 653.0,
+      "w": 310.0,
+      "h": 39.0,
+      "text": "Villes-arrondissements"
+    },
+    {
+      "id": "3",
+      "x": 588.69,
+      "y": 660.56,
+      "w": 69.57,
+      "h": 21.74,
+      "text": "Villes"
+    },
+    {
+      "id": "8",
+      "x": 122.1,
+      "y": 701.87,
+      "w": 283.0,
+      "h": 28.04,
+      "text": "Communes et bourgs"
+    }
+  ],
+  "comment": ""
+}

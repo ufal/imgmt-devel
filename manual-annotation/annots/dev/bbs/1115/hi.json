@@ -1,0 +1,51 @@
+{
+  "image_id": "1115",
+  "language": "hi",
+  "png": {
+    "size": {
+      "width": 715.27,
+      "height": 544.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Masses_of_gas_giants-hi.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "sushma"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 405.23,
+      "y": 73.94,
+      "w": 155.29,
+      "h": 61.01,
+      "text": "शनीग्रह"
+    },
+    {
+      "id": "2",
+      "x": 199.76,
+      "y": 252.02,
+      "w": 234.71,
+      "h": 98.24,
+      "text": "बृहस्पति"
+    },
+    {
+      "id": "3",
+      "x": 610.59,
+      "y": 185.64,
+      "w": 96.09,
+      "h": 29.64,
+      "text": "वरूण"
+    },
+    {
+      "id": "4",
+      "x": 595.79,
+      "y": 230.89,
+      "w": 122.11,
+      "h": 32.01,
+      "text": "अरुण ग्रह"
+    }
+  ],
+  "comment": ""
+}

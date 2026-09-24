@@ -1,0 +1,59 @@
+{
+  "image_id": "747",
+  "language": "af",
+  "png": {
+    "size": {
+      "width": 1383.62,
+      "height": 1196
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hair_follicle-af.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "علي سمسم"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 226.0,
+      "y": 78.0,
+      "w": 122.0,
+      "h": 46.0,
+      "text": ""
+    },
+    {
+      "id": "4",
+      "x": 94.0,
+      "y": 214.0,
+      "w": 261.0,
+      "h": 141.0,
+      "text": ""
+    },
+    {
+      "id": "1",
+      "x": 133.81,
+      "y": 512.83,
+      "w": 200.27,
+      "h": 52.09,
+      "text": "sébum"
+    },
+    {
+      "id": "5",
+      "x": 171.0,
+      "y": 637.0,
+      "w": 176.0,
+      "h": 55.0,
+      "text": ""
+    },
+    {
+      "id": "2",
+      "x": 98.0,
+      "y": 764.0,
+      "w": 248.0,
+      "h": 128.0,
+      "text": "glande sébacée"
+    }
+  ],
+  "comment": ""
+}

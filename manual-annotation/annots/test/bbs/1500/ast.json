@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "ast",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-ast.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 329.11,
+      "y": 21.42,
+      "w": 410.33,
+      "h": 42.66,
+      "text": "Trompes de Falopio"
+    },
+    {
+      "id": "2",
+      "x": 455.75,
+      "y": 77.13,
+      "w": 156.67,
+      "h": 34.56,
+      "text": "Ovarios"
+    },
+    {
+      "id": "3",
+      "x": 480.51,
+      "y": 124.29,
+      "w": 107.06,
+      "h": 42.4,
+      "text": "Úteru"
+    },
+    {
+      "id": "4",
+      "x": 306.0,
+      "y": 302.0,
+      "w": 122.0,
+      "h": 76.0,
+      "text": "Cérvix uterín"
+    },
+    {
+      "id": "5",
+      "x": 310.81,
+      "y": 417.76,
+      "w": 134.49,
+      "h": 33.94,
+      "text": "Natura"
+    },
+    {
+      "id": "6",
+      "x": 314.73,
+      "y": 557.18,
+      "w": 112.79,
+      "h": 33.94,
+      "text": "Vulva"
+    }
+  ],
+  "comment": ""
+}

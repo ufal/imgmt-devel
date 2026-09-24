@@ -1,0 +1,163 @@
+{
+  "image_id": "767",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 1206,
+      "height": 817
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hercynian_structures_Europe-fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "User:Woudloper (English original); User:toony (French translation)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 983.87,
+      "y": 759.55,
+      "w": 205.26,
+      "h": 36.18,
+      "text": "Même chose reprise par les déformations alpines"
+    },
+    {
+      "id": "2",
+      "x": 981.82,
+      "y": 717.11,
+      "w": 126.82,
+      "h": 36.51,
+      "text": "Affleurement du massif Hercynien"
+    },
+    {
+      "id": "3",
+      "x": 983.88,
+      "y": 662.7,
+      "w": 145.4,
+      "h": 12.35,
+      "text": "Faille Calédonienne"
+    },
+    {
+      "id": "4",
+      "x": 982.66,
+      "y": 591.25,
+      "w": 195.51,
+      "h": 53.77,
+      "text": "Zone de faille hercynienne faille transformante chevauchement"
+    },
+    {
+      "id": "5",
+      "x": 983.78,
+      "y": 562.95,
+      "w": 66.66,
+      "h": 15.66,
+      "text": "Légende"
+    },
+    {
+      "id": "6",
+      "x": 983.73,
+      "y": 690.91,
+      "w": 192.22,
+      "h": 15.47,
+      "text": "Front de déformation alpin"
+    },
+    {
+      "id": "7",
+      "x": 1018.21,
+      "y": 364.05,
+      "w": 146.31,
+      "h": 122.4,
+      "text": "zone Moravo-Silésienne"
+    },
+    {
+      "id": "8",
+      "x": 891.31,
+      "y": 386.55,
+      "w": 187.49,
+      "h": 79.03,
+      "text": "Zone moldanubienne"
+    },
+    {
+      "id": "9",
+      "x": 784.92,
+      "y": 315.03,
+      "w": 206.96,
+      "h": 92.93,
+      "text": "zone Saxo-thuringienne"
+    },
+    {
+      "id": "10",
+      "x": 713.56,
+      "y": 262.12,
+      "w": 212.53,
+      "h": 102.11,
+      "text": "Zone rhéno-hercynienne"
+    },
+    {
+      "id": "11",
+      "x": 538.21,
+      "y": 178.71,
+      "w": 225.1,
+      "h": 116.13,
+      "text": "Massif de Lonfres Brabant"
+    },
+    {
+      "id": "12",
+      "x": 411.56,
+      "y": 345.87,
+      "w": 152.79,
+      "h": 46.95,
+      "text": "Massif Armoricain"
+    },
+    {
+      "id": "13",
+      "x": 31.14,
+      "y": 462.6,
+      "w": 39.49,
+      "h": 194.78,
+      "text": "Zone Sud Portugaise"
+    },
+    {
+      "id": "14",
+      "x": 98.43,
+      "y": 391.62,
+      "w": 43.53,
+      "h": 164.5,
+      "text": "Zone de Ossa-Morena"
+    },
+    {
+      "id": "15",
+      "x": 153.53,
+      "y": 367.12,
+      "w": 77.46,
+      "h": 199.74,
+      "text": "Zone centrale ibérique"
+    },
+    {
+      "id": "16",
+      "x": 565.98,
+      "y": 485.15,
+      "w": 124.25,
+      "h": 14.73,
+      "text": "Massif Central"
+    },
+    {
+      "id": "17",
+      "x": 926.51,
+      "y": 128.76,
+      "w": 157.93,
+      "h": 69.54,
+      "text": "Ligne de Tornquist"
+    },
+    {
+      "id": "18",
+      "x": 396.0,
+      "y": 33.1,
+      "w": 155.28,
+      "h": 43.35,
+      "text": "Suture du Iapetus"
+    }
+  ],
+  "comment": ""
+}

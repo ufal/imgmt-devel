@@ -1,0 +1,59 @@
+{
+  "image_id": "1008",
+  "language": "gu",
+  "png": {
+    "size": {
+      "width": 332.68,
+      "height": 514
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Light_cone_gu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Sakurambo\nderivative work (translation): Exmak"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 179.51,
+      "y": 33.65,
+      "w": 54.7,
+      "h": 19.52,
+      "text": "સમય"
+    },
+    {
+      "id": "5",
+      "x": 193.52,
+      "y": 91.29,
+      "w": 23.89,
+      "h": 31.99,
+      "text": "B"
+    },
+    {
+      "id": "7",
+      "x": 237.37,
+      "y": 212.52,
+      "w": 28.52,
+      "h": 33.29,
+      "text": "C"
+    },
+    {
+      "id": "3",
+      "x": 113.83,
+      "y": 248.14,
+      "w": 31.63,
+      "h": 31.99,
+      "text": "A"
+    },
+    {
+      "id": "2",
+      "x": 212.25,
+      "y": 280.62,
+      "w": 88.36,
+      "h": 19.66,
+      "text": "અવકાશ"
+    }
+  ],
+  "comment": ""
+}

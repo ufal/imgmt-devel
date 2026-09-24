@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "br",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-br.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 365.9,
+      "y": 29.06,
+      "w": 331.53,
+      "h": 36.77,
+      "text": "Korzennoù Fallope"
+    },
+    {
+      "id": "1",
+      "x": 462.26,
+      "y": 81.74,
+      "w": 138.71,
+      "h": 37.24,
+      "text": "Vigelloù"
+    },
+    {
+      "id": "5",
+      "x": 475.12,
+      "y": 132.66,
+      "w": 113.24,
+      "h": 29.15,
+      "text": "Uterus"
+    },
+    {
+      "id": "2",
+      "x": 248.0,
+      "y": 297.0,
+      "w": 175.0,
+      "h": 82.0,
+      "text": "Gouzoug an uterus"
+    },
+    {
+      "id": "3",
+      "x": 349.53,
+      "y": 418.55,
+      "w": 96.35,
+      "h": 29.13,
+      "text": "Forzh"
+    },
+    {
+      "id": "6",
+      "x": 303.13,
+      "y": 559.08,
+      "w": 121.22,
+      "h": 29.13,
+      "text": "Kourzh"
+    }
+  ],
+  "comment": ""
+}

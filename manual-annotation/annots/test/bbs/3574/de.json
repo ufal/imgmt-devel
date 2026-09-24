@@ -1,0 +1,115 @@
+{
+  "image_id": "3574",
+  "language": "de",
+  "png": {
+    "size": {
+      "width": 548,
+      "height": 620
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Aistulf%27s_Italy-de.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Castagna"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 216.03,
+      "y": 42.79,
+      "w": 108.19,
+      "h": 10.11,
+      "text": "BAJUWAREN"
+    },
+    {
+      "id": "3",
+      "x": 354.48,
+      "y": 56.42,
+      "w": 58.25,
+      "h": 9.91,
+      "text": "AWAREN"
+    },
+    {
+      "id": "1",
+      "x": 52.21,
+      "y": 71.86,
+      "w": 62.43,
+      "h": 9.91,
+      "text": "FRANKEN"
+    },
+    {
+      "id": "4",
+      "x": 403.34,
+      "y": 118.01,
+      "w": 55.97,
+      "h": 10.27,
+      "text": "SLAWEN"
+    },
+    {
+      "id": "9",
+      "x": 127.89,
+      "y": 124.27,
+      "w": 43.23,
+      "h": 9.15,
+      "text": "Mailand"
+    },
+    {
+      "id": "8",
+      "x": 128.34,
+      "y": 149.58,
+      "w": 28.98,
+      "h": 8.82,
+      "text": "Pavia"
+    },
+    {
+      "id": "5",
+      "x": 281.87,
+      "y": 181.59,
+      "w": 48.77,
+      "h": 8.76,
+      "text": "Ravenna"
+    },
+    {
+      "id": "6",
+      "x": 284.92,
+      "y": 283.65,
+      "w": 43.31,
+      "h": 11.35,
+      "text": "Spoleto"
+    },
+    {
+      "id": "12",
+      "x": 288.54,
+      "y": 316.04,
+      "w": 24.4,
+      "h": 8.76,
+      "text": "Rom"
+    },
+    {
+      "id": "7",
+      "x": 367.87,
+      "y": 362.22,
+      "w": 61.09,
+      "h": 8.76,
+      "text": "Benevento"
+    },
+    {
+      "id": "10",
+      "x": 90.91,
+      "y": 539.06,
+      "w": 119.17,
+      "h": 10.32,
+      "text": "LANGOBARDISCH"
+    },
+    {
+      "id": "11",
+      "x": 90.91,
+      "y": 566.34,
+      "w": 103.04,
+      "h": 10.27,
+      "text": "BYZANTINISCH"
+    }
+  ],
+  "comment": ""
+}

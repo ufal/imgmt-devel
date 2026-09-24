@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "br",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip-br.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 374.25,
+      "y": 261.83,
+      "w": 215.82,
+      "h": 45.71,
+      "text": "Riezad"
+    },
+    {
+      "id": "2",
+      "x": 380.71,
+      "y": 449.1,
+      "w": 197.59,
+      "h": 45.71,
+      "text": "Renad"
+    },
+    {
+      "id": "3",
+      "x": 330.78,
+      "y": 636.34,
+      "w": 295.24,
+      "h": 45.83,
+      "text": "Skourrad"
+    },
+    {
+      "id": "4",
+      "x": 307.04,
+      "y": 823.93,
+      "w": 345.79,
+      "h": 45.71,
+      "text": "Kevrennad"
+    },
+    {
+      "id": "5",
+      "x": 354.82,
+      "y": 1011.21,
+      "w": 245.46,
+      "h": 45.71,
+      "text": "Urzhiad"
+    },
+    {
+      "id": "6",
+      "x": 321.61,
+      "y": 1198.09,
+      "w": 312.46,
+      "h": 45.71,
+      "text": "Kerentiad"
+    },
+    {
+      "id": "7",
+      "x": 377.76,
+      "y": 1385.69,
+      "w": 201.81,
+      "h": 45.71,
+      "text": "Genad"
+    },
+    {
+      "id": "8",
+      "x": 364.19,
+      "y": 1572.96,
+      "w": 229.92,
+      "h": 56.68,
+      "text": "Spesad"
+    },
+    {
+      "id": "9",
+      "x": 381.62,
+      "y": 74.94,
+      "w": 195.47,
+      "h": 45.71,
+      "text": "Buhez"
+    }
+  ],
+  "comment": ""
+}

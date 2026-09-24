@@ -1,0 +1,91 @@
+{
+  "image_id": "1895",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 700.2,
+      "height": 389
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Isolator-metal.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Pieter Kuiper"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 96.84,
+      "y": 349.85,
+      "w": 68.87,
+      "h": 20.09,
+      "text": "metal"
+    },
+    {
+      "id": "2",
+      "x": 212.7,
+      "y": 349.85,
+      "w": 188.78,
+      "h": 20.09,
+      "text": "semiconductor"
+    },
+    {
+      "id": "3",
+      "x": 427.02,
+      "y": 349.85,
+      "w": 111.05,
+      "h": 20.09,
+      "text": "insulator"
+    },
+    {
+      "id": "4",
+      "x": 431.73,
+      "y": 252.6,
+      "w": 98.38,
+      "h": 20.09,
+      "text": "Valence"
+    },
+    {
+      "id": "5",
+      "x": 409.93,
+      "y": 87.27,
+      "w": 142.13,
+      "h": 20.09,
+      "text": "Conduction"
+    },
+    {
+      "id": "6",
+      "x": 19.2,
+      "y": 83.09,
+      "w": 25.06,
+      "h": 201.61,
+      "text": "Electron energy"
+    },
+    {
+      "id": "7",
+      "x": 156.94,
+      "y": 19.2,
+      "w": 93.32,
+      "h": 24.92,
+      "text": "overlap"
+    },
+    {
+      "id": "8",
+      "x": 586.03,
+      "y": 184.52,
+      "w": 109.91,
+      "h": 25.06,
+      "text": "Bandgap"
+    },
+    {
+      "id": "9",
+      "x": 391.53,
+      "y": 190.36,
+      "w": 137.59,
+      "h": 20.03,
+      "text": "Fermi level"
+    }
+  ],
+  "comment": ""
+}

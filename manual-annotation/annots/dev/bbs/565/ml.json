@@ -1,0 +1,43 @@
+{
+  "image_id": "565",
+  "language": "ml",
+  "png": {
+    "size": {
+      "width": 619.92,
+      "height": 710.64
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Einstein%27s_light_box_ml.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "derivative work by Adithyak1997"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 291.12,
+      "y": 246.08,
+      "w": 142.59,
+      "h": 59.59,
+      "text": "ഫോട്ടോണിന്റെ ഉറവിടം"
+    },
+    {
+      "id": "2",
+      "x": 457.63,
+      "y": 244.71,
+      "w": 67.51,
+      "h": 29.37,
+      "text": "ഷട്ടർ"
+    },
+    {
+      "id": "3",
+      "x": 395.17,
+      "y": 406.08,
+      "w": 93.04,
+      "h": 30.49,
+      "text": "ക്ലോക്ക്"
+    }
+  ],
+  "comment": ""
+}

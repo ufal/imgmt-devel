@@ -1,0 +1,139 @@
+{
+  "image_id": "1250",
+  "language": "nl",
+  "png": {
+    "size": {
+      "width": 530.58,
+      "height": 478
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Orbit1.svg&lang=nl",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Lasunncty"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 105.48,
+      "y": 15.16,
+      "w": 116.4,
+      "h": 16.59,
+      "text": "Celestial body"
+    },
+    {
+      "id": "3",
+      "x": 66.21,
+      "y": 163.8,
+      "w": 113.67,
+      "h": 16.59,
+      "text": "True anomaly"
+    },
+    {
+      "id": "9",
+      "x": 199.9,
+      "y": 173.98,
+      "w": 12.18,
+      "h": 12.68,
+      "text": "ν"
+    },
+    {
+      "id": "2",
+      "x": 242.99,
+      "y": 191.67,
+      "w": 184.7,
+      "h": 17.0,
+      "text": "Argument of periapsis"
+    },
+    {
+      "id": "8",
+      "x": 225.02,
+      "y": 216.37,
+      "w": 18.86,
+      "h": 12.96,
+      "text": "ω"
+    },
+    {
+      "id": "7",
+      "x": 115.89,
+      "y": 232.58,
+      "w": 17.27,
+      "h": 17.71,
+      "text": "Ω"
+    },
+    {
+      "id": "12",
+      "x": 483.65,
+      "y": 252.04,
+      "w": 18.7,
+      "h": 17.18,
+      "text": "♈︎"
+    },
+    {
+      "id": "15",
+      "x": 439.71,
+      "y": 280.03,
+      "w": 79.28,
+      "h": 36.63,
+      "text": "Reference direction"
+    },
+    {
+      "id": "1",
+      "x": 18.16,
+      "y": 280.78,
+      "w": 240.32,
+      "h": 17.0,
+      "text": "Longitude of ascending node"
+    },
+    {
+      "id": "14",
+      "x": 22.78,
+      "y": 343.43,
+      "w": 147.24,
+      "h": 34.32,
+      "text": "Plane of reference"
+    },
+    {
+      "id": "10",
+      "x": 261.81,
+      "y": 355.15,
+      "w": 2.29,
+      "h": 17.27,
+      "text": "i"
+    },
+    {
+      "id": "4",
+      "x": 272.82,
+      "y": 381.2,
+      "w": 84.08,
+      "h": 13.48,
+      "text": "Inclination"
+    },
+    {
+      "id": "11",
+      "x": 225.64,
+      "y": 390.07,
+      "w": 18.54,
+      "h": 16.62,
+      "text": "☊"
+    },
+    {
+      "id": "13",
+      "x": 200.28,
+      "y": 417.11,
+      "w": 132.7,
+      "h": 16.79,
+      "text": "Ascending node"
+    },
+    {
+      "id": "6",
+      "x": 81.11,
+      "y": 429.23,
+      "w": 43.01,
+      "h": 25.31,
+      "text": "Orbit"
+    }
+  ],
+  "comment": "BBs do not fit exactly"
+}

@@ -1,0 +1,83 @@
+{
+  "image_id": "821",
+  "language": "hu",
+  "png": {
+    "size": {
+      "width": 232,
+      "height": 299
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_conducting_passages_hu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Lord Akryl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 20.17,
+      "y": 17.48,
+      "w": 98.1,
+      "h": 11.03,
+      "text": "Felső légúti traktus"
+    },
+    {
+      "id": "2",
+      "x": 25.72,
+      "y": 42.9,
+      "w": 39.49,
+      "h": 11.13,
+      "text": "Orrüreg"
+    },
+    {
+      "id": "3",
+      "x": 25.41,
+      "y": 80.39,
+      "w": 28.94,
+      "h": 8.78,
+      "text": "Garat"
+    },
+    {
+      "id": "4",
+      "x": 25.51,
+      "y": 106.73,
+      "w": 27.89,
+      "h": 11.13,
+      "text": "Gége"
+    },
+    {
+      "id": "5",
+      "x": 19.18,
+      "y": 135.6,
+      "w": 93.15,
+      "h": 11.03,
+      "text": "Alsó légúti traktus"
+    },
+    {
+      "id": "6",
+      "x": 26.34,
+      "y": 161.18,
+      "w": 36.93,
+      "h": 11.03,
+      "text": "Légcső"
+    },
+    {
+      "id": "7",
+      "x": 25.74,
+      "y": 192.77,
+      "w": 49.08,
+      "h": 11.04,
+      "text": "Főhörgők"
+    },
+    {
+      "id": "8",
+      "x": 25.11,
+      "y": 228.51,
+      "w": 32.63,
+      "h": 8.68,
+      "text": "Tüdők"
+    }
+  ],
+  "comment": ""
+}

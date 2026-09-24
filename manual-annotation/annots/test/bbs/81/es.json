@@ -1,0 +1,131 @@
+{
+  "image_id": "81",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 1158.19,
+      "height": 968
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Air_conditioning_unit-es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY 3.0",
+      "author": "Pbroks13"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 828.51,
+      "y": 59.78,
+      "w": 253.78,
+      "h": 37.45,
+      "text": "EXTERIOR"
+    },
+    {
+      "id": "11",
+      "x": 467.2,
+      "y": 101.33,
+      "w": 270.33,
+      "h": 32.92,
+      "text": "Eje del ventilador"
+    },
+    {
+      "id": "1",
+      "x": 32.4,
+      "y": 147.87,
+      "w": 236.17,
+      "h": 37.45,
+      "text": "INTERIOR"
+    },
+    {
+      "id": "9",
+      "x": 689.52,
+      "y": 160.94,
+      "w": 368.4,
+      "h": 32.93,
+      "text": "Serpentín condensador"
+    },
+    {
+      "id": "12",
+      "x": 376.66,
+      "y": 179.24,
+      "w": 174.5,
+      "h": 32.93,
+      "text": "Compresor"
+    },
+    {
+      "id": "10",
+      "x": 600.92,
+      "y": 222.46,
+      "w": 158.41,
+      "h": 25.86,
+      "text": "Ventilador"
+    },
+    {
+      "id": "3",
+      "x": 105.28,
+      "y": 260.08,
+      "w": 92.42,
+      "h": 25.86,
+      "text": "Fuelle"
+    },
+    {
+      "id": "8",
+      "x": 943.57,
+      "y": 289.77,
+      "w": 194.16,
+      "h": 25.86,
+      "text": "Aire caliente"
+    },
+    {
+      "id": "7",
+      "x": 944.4,
+      "y": 529.02,
+      "w": 192.13,
+      "h": 25.86,
+      "text": "Aire exterior"
+    },
+    {
+      "id": "4",
+      "x": 60.2,
+      "y": 636.65,
+      "w": 63.26,
+      "h": 61.4,
+      "text": "Aire frío"
+    },
+    {
+      "id": "13",
+      "x": 815.89,
+      "y": 784.23,
+      "w": 335.29,
+      "h": 32.64,
+      "text": "Válvula de expansión"
+    },
+    {
+      "id": "5",
+      "x": 122.0,
+      "y": 848.0,
+      "w": 181.0,
+      "h": 72.0,
+      "text": "Serpentín refrigerante"
+    },
+    {
+      "id": "14",
+      "x": 355.86,
+      "y": 855.01,
+      "w": 238.31,
+      "h": 68.48,
+      "text": "Sensor de temperatura"
+    },
+    {
+      "id": "6",
+      "x": 809.19,
+      "y": 903.4,
+      "w": 182.26,
+      "h": 25.86,
+      "text": "Aire interior"
+    }
+  ],
+  "comment": ""
+}

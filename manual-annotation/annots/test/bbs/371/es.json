@@ -1,0 +1,115 @@
+{
+  "image_id": "371",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 446,
+      "height": 243
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Circuit_elements_es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Circuit_elements.svg: The original uploader was DnetSvg at English Wikipedia.\nderivative work: Angelito7 (talk)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "8",
+      "x": 345.0,
+      "y": 14.0,
+      "w": 69.0,
+      "h": 11.0,
+      "text": "Puerta AND"
+    },
+    {
+      "id": "1",
+      "x": 65.61,
+      "y": 25.1,
+      "w": 39.12,
+      "h": 11.09,
+      "text": "Diodo"
+    },
+    {
+      "id": "9",
+      "x": 344.0,
+      "y": 55.0,
+      "w": 82.0,
+      "h": 12.0,
+      "text": "Puerta NAND"
+    },
+    {
+      "id": "2",
+      "x": 64.54,
+      "y": 58.53,
+      "w": 169.72,
+      "h": 13.99,
+      "text": "Condensador, capacitor"
+    },
+    {
+      "id": "3",
+      "x": 65.14,
+      "y": 90.74,
+      "w": 118.75,
+      "h": 13.69,
+      "text": "Bobina, inductor"
+    },
+    {
+      "id": "10",
+      "x": 344.0,
+      "y": 95.0,
+      "w": 61.0,
+      "h": 12.0,
+      "text": "Puerta OR"
+    },
+    {
+      "id": "4",
+      "x": 65.14,
+      "y": 120.92,
+      "w": 145.44,
+      "h": 13.29,
+      "text": "Resistencia, resistor"
+    },
+    {
+      "id": "11",
+      "x": 344.0,
+      "y": 136.0,
+      "w": 70.0,
+      "h": 11.0,
+      "text": "Puerta NOR"
+    },
+    {
+      "id": "5",
+      "x": 63.0,
+      "y": 147.0,
+      "w": 109.0,
+      "h": 38.0,
+      "text": "Generador de corriente continua"
+    },
+    {
+      "id": "12",
+      "x": 344.0,
+      "y": 174.0,
+      "w": 72.0,
+      "h": 11.0,
+      "text": "Puerta XOR"
+    },
+    {
+      "id": "6",
+      "x": 61.0,
+      "y": 190.0,
+      "w": 125.0,
+      "h": 38.0,
+      "text": "Generador de corriente alterna"
+    },
+    {
+      "id": "7",
+      "x": 340.0,
+      "y": 199.0,
+      "w": 100.0,
+      "h": 38.0,
+      "text": "Inversor (Puerta NOT)"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,115 @@
+{
+  "image_id": "454",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 1448,
+      "height": 583
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Czechoslovakia_1939.SVG",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "derivative work: Themightyquill\nFirst_Czechoslovak_Republic.SVG: *derivative work: Themightyquill\nCzechoslovakia01.png: Electionworld\nBlank_map_of_Europe_-_Atelier_graphique_colors.svg: historicair\nImage:Rzeczpospolita 1939.svg: Halibutt\nImage:GDR.png: Kgberger\n16:36, 13 September 2007 (UTC)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 50.02,
+      "y": 12.88,
+      "w": 177.24,
+      "h": 41.11,
+      "text": "Germany"
+    },
+    {
+      "id": "7",
+      "x": 986.89,
+      "y": 60.17,
+      "w": 129.72,
+      "h": 31.87,
+      "text": "Poland"
+    },
+    {
+      "id": "11",
+      "x": 14.17,
+      "y": 79.4,
+      "w": 192.02,
+      "h": 27.07,
+      "text": "Sept-Nov 1938"
+    },
+    {
+      "id": "10",
+      "x": 737.76,
+      "y": 140.72,
+      "w": 174.08,
+      "h": 21.64,
+      "text": "October 1938"
+    },
+    {
+      "id": "2",
+      "x": 248.93,
+      "y": 149.7,
+      "w": 237.49,
+      "h": 141.39,
+      "text": "Protectorate of Bohemia and Moravia"
+    },
+    {
+      "id": "3",
+      "x": 694.24,
+      "y": 263.02,
+      "w": 311.41,
+      "h": 40.61,
+      "text": "Slovak Republic"
+    },
+    {
+      "id": "12",
+      "x": 19.43,
+      "y": 318.46,
+      "w": 150.62,
+      "h": 21.36,
+      "text": "March 1939"
+    },
+    {
+      "id": "9",
+      "x": 976.02,
+      "y": 362.05,
+      "w": 150.62,
+      "h": 21.36,
+      "text": "March 1939"
+    },
+    {
+      "id": "8",
+      "x": 782.62,
+      "y": 445.48,
+      "w": 204.07,
+      "h": 21.36,
+      "text": "November 1938"
+    },
+    {
+      "id": "6",
+      "x": 1204.68,
+      "y": 466.03,
+      "w": 169.83,
+      "h": 31.87,
+      "text": "Romania"
+    },
+    {
+      "id": "4",
+      "x": 263.83,
+      "y": 488.93,
+      "w": 134.4,
+      "h": 31.87,
+      "text": "Austria"
+    },
+    {
+      "id": "5",
+      "x": 739.23,
+      "y": 497.63,
+      "w": 161.51,
+      "h": 40.58,
+      "text": "Hungary"
+    }
+  ],
+  "comment": ""
+}

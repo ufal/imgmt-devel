@@ -1,0 +1,123 @@
+{
+  "image_id": "212",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 925.9,
+      "height": 664
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Basque_dialects-es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.5",
+      "author": "Willtron"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 673.67,
+      "y": 12.72,
+      "w": 186.05,
+      "h": 34.03,
+      "text": "FRANCIA"
+    },
+    {
+      "id": "8",
+      "x": 460.81,
+      "y": 84.08,
+      "w": 100.23,
+      "h": 47.56,
+      "text": "LABORTANO"
+    },
+    {
+      "id": "13",
+      "x": 751.0,
+      "y": 182.0,
+      "w": 84.0,
+      "h": 15.0,
+      "text": "SULETINO"
+    },
+    {
+      "id": "10",
+      "x": 79.0,
+      "y": 192.0,
+      "w": 97.0,
+      "h": 21.0,
+      "text": "VIZCAYA"
+    },
+    {
+      "id": "12",
+      "x": 596.0,
+      "y": 210.0,
+      "w": 129.0,
+      "h": 19.0,
+      "text": "BAJO NAVARRO"
+    },
+    {
+      "id": "6",
+      "x": 267.23,
+      "y": 227.45,
+      "w": 127.4,
+      "h": 14.21,
+      "text": "GUIPUZCOANO"
+    },
+    {
+      "id": "11",
+      "x": 106.0,
+      "y": 251.0,
+      "w": 83.0,
+      "h": 16.0,
+      "text": "VIZCAÍNO"
+    },
+    {
+      "id": "1",
+      "x": 228.41,
+      "y": 259.25,
+      "w": 133.71,
+      "h": 25.98,
+      "text": "GUIPÚZCOA"
+    },
+    {
+      "id": "7",
+      "x": 424.05,
+      "y": 308.14,
+      "w": 130.89,
+      "h": 14.21,
+      "text": "ALTO NAVARRO"
+    },
+    {
+      "id": "3",
+      "x": 73.09,
+      "y": 343.18,
+      "w": 71.01,
+      "h": 25.58,
+      "text": "ÁLAVA"
+    },
+    {
+      "id": "9",
+      "x": 748.28,
+      "y": 344.24,
+      "w": 56.18,
+      "h": 85.45,
+      "text": "RONCALÉS"
+    },
+    {
+      "id": "2",
+      "x": 449.63,
+      "y": 353.35,
+      "w": 104.16,
+      "h": 18.59,
+      "text": "NAVARRA"
+    },
+    {
+      "id": "4",
+      "x": 172.04,
+      "y": 532.13,
+      "w": 184.51,
+      "h": 44.52,
+      "text": "ESPAÑA"
+    }
+  ],
+  "comment": ""
+}

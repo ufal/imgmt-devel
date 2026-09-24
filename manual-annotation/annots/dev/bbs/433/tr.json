@@ -1,0 +1,67 @@
+{
+  "image_id": "433",
+  "language": "tr",
+  "png": {
+    "size": {
+      "width": 473.22,
+      "height": 388
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Course_Channeltunnel_tr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY 2.5",
+      "author": "Hejsa"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 64.0,
+      "y": 37.0,
+      "w": 86.0,
+      "h": 47.0,
+      "text": "Birleşik Krallik"
+    },
+    {
+      "id": "3",
+      "x": 112.93,
+      "y": 102.62,
+      "w": 46.09,
+      "h": 11.11,
+      "text": "Dover"
+    },
+    {
+      "id": "4",
+      "x": 40.12,
+      "y": 155.68,
+      "w": 80.05,
+      "h": 11.11,
+      "text": "Folkestone"
+    },
+    {
+      "id": "6",
+      "x": 150.89,
+      "y": 178.93,
+      "w": 95.12,
+      "h": 65.07,
+      "text": "Manş Tüneli"
+    },
+    {
+      "id": "5",
+      "x": 372.66,
+      "y": 229.64,
+      "w": 47.79,
+      "h": 11.3,
+      "text": "Calais"
+    },
+    {
+      "id": "1",
+      "x": 331.11,
+      "y": 315.84,
+      "w": 75.47,
+      "h": 17.76,
+      "text": "Fransa"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,67 @@
+{
+  "image_id": "433",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 473.22,
+      "height": 388
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Course_Channeltunnel_fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY 2.5",
+      "author": "Hejsa"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 330.56,
+      "y": 316.01,
+      "w": 87.98,
+      "h": 17.52,
+      "text": "France"
+    },
+    {
+      "id": "2",
+      "x": 34.53,
+      "y": 30.74,
+      "w": 118.95,
+      "h": 47.6,
+      "text": "Royaume -Uni"
+    },
+    {
+      "id": "3",
+      "x": 104.65,
+      "y": 94.93,
+      "w": 61.17,
+      "h": 11.33,
+      "text": "Douvres"
+    },
+    {
+      "id": "4",
+      "x": 43.63,
+      "y": 163.2,
+      "w": 72.8,
+      "h": 11.11,
+      "text": "Folkestone"
+    },
+    {
+      "id": "5",
+      "x": 373.42,
+      "y": 229.64,
+      "w": 41.08,
+      "h": 11.3,
+      "text": "Calais"
+    },
+    {
+      "id": "6",
+      "x": 152.67,
+      "y": 123.64,
+      "w": 177.91,
+      "h": 108.48,
+      "text": "Tunnel sous la Manche"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,59 @@
+{
+  "image_id": "889",
+  "language": "zh",
+  "png": {
+    "size": {
+      "width": 358.03,
+      "height": 321
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Interferometer_zh_hans.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "~~helix84"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 81.0,
+      "y": 11.04,
+      "w": 41.66,
+      "h": 13.7,
+      "text": "平面镜"
+    },
+    {
+      "id": "3",
+      "x": 166.61,
+      "y": 156.29,
+      "w": 55.84,
+      "h": 13.7,
+      "text": "半镀银镜"
+    },
+    {
+      "id": "2",
+      "x": 7.92,
+      "y": 170.51,
+      "w": 55.9,
+      "h": 13.53,
+      "text": "相干光源"
+    },
+    {
+      "id": "4",
+      "x": 303.24,
+      "y": 215.6,
+      "w": 41.66,
+      "h": 13.7,
+      "text": "平面镜"
+    },
+    {
+      "id": "5",
+      "x": 167.03,
+      "y": 289.13,
+      "w": 55.99,
+      "h": 13.62,
+      "text": "光检测器"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,67 @@
+{
+  "image_id": "2731",
+  "language": "hu",
+  "png": {
+    "size": {
+      "width": 1283.4513,
+      "height": 1085.3772
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Map_of_Greater_Serbia-hu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "Szajci"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 290.42,
+      "y": 100.68,
+      "w": 193.27,
+      "h": 150.82,
+      "text": "Horvát- ország"
+    },
+    {
+      "id": "2",
+      "x": 29.01,
+      "y": 133.3,
+      "w": 248.06,
+      "h": 39.87,
+      "text": "Szlovénia"
+    },
+    {
+      "id": "6",
+      "x": 491.0,
+      "y": 187.0,
+      "w": 100.0,
+      "h": 28.0,
+      "text": ""
+    },
+    {
+      "id": "3",
+      "x": 260.27,
+      "y": 273.74,
+      "w": 170.11,
+      "h": 29.91,
+      "text": "Károlyváros"
+    },
+    {
+      "id": "4",
+      "x": 241.14,
+      "y": 418.54,
+      "w": 124.04,
+      "h": 28.34,
+      "text": "Karlobag"
+    },
+    {
+      "id": "5",
+      "x": 461.0,
+      "y": 433.0,
+      "w": 308.0,
+      "h": 85.0,
+      "text": "Szerbia"
+    }
+  ],
+  "comment": ""
+}

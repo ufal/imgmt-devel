@@ -1,0 +1,59 @@
+{
+  "image_id": "1090",
+  "language": "ka",
+  "png": {
+    "size": {
+      "width": 2044.63,
+      "height": 1861
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Map_of_region_of_Campania,_Italy,_with_provinces-ka.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "\nVonvikken"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 686.82,
+      "y": 125.81,
+      "w": 532.8,
+      "h": 375.01,
+      "text": "ბენევენტო"
+    },
+    {
+      "id": "1",
+      "x": 48.64,
+      "y": 316.34,
+      "w": 582.34,
+      "h": 131.86,
+      "text": "კაზერტა"
+    },
+    {
+      "id": "3",
+      "x": 928.94,
+      "y": 523.43,
+      "w": 727.85,
+      "h": 297.72,
+      "text": "აველინო"
+    },
+    {
+      "id": "5",
+      "x": 297.21,
+      "y": 750.38,
+      "w": 520.37,
+      "h": 113.81,
+      "text": "ნეაპოლი"
+    },
+    {
+      "id": "4",
+      "x": 1056.07,
+      "y": 904.19,
+      "w": 882.38,
+      "h": 841.9,
+      "text": "სალერნო"
+    }
+  ],
+  "comment": ""
+}

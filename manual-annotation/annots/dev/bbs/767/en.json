@@ -1,0 +1,163 @@
+{
+  "image_id": "767",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 1250,
+      "height": 817
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hercynian_structures_Europe-en.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Woudloper"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 1019.27,
+      "y": 779.62,
+      "w": 157.32,
+      "h": 15.81,
+      "text": "same, in Alpine belts"
+    },
+    {
+      "id": "2",
+      "x": 1020.08,
+      "y": 747.36,
+      "w": 139.14,
+      "h": 16.22,
+      "text": "Hercynian massifs"
+    },
+    {
+      "id": "3",
+      "x": 1018.78,
+      "y": 686.59,
+      "w": 165.62,
+      "h": 12.79,
+      "text": "Caledonian fault zone"
+    },
+    {
+      "id": "4",
+      "x": 1018.97,
+      "y": 611.77,
+      "w": 156.51,
+      "h": 59.42,
+      "text": "Hercynian fault zone (transform fault) (thrust fault)"
+    },
+    {
+      "id": "5",
+      "x": 1019.23,
+      "y": 583.44,
+      "w": 59.03,
+      "h": 16.01,
+      "text": "Legend"
+    },
+    {
+      "id": "6",
+      "x": 1017.74,
+      "y": 715.8,
+      "w": 183.4,
+      "h": 16.01,
+      "text": "Alpine deformation front"
+    },
+    {
+      "id": "7",
+      "x": 1087.98,
+      "y": 357.98,
+      "w": 134.88,
+      "h": 111.27,
+      "text": "Moravo-Silesian zone"
+    },
+    {
+      "id": "8",
+      "x": 925.32,
+      "y": 424.36,
+      "w": 134.73,
+      "h": 57.71,
+      "text": "Moldanubian zone"
+    },
+    {
+      "id": "9",
+      "x": 813.02,
+      "y": 355.09,
+      "w": 149.36,
+      "h": 67.63,
+      "text": "Saxothuringian zone"
+    },
+    {
+      "id": "10",
+      "x": 741.38,
+      "y": 300.98,
+      "w": 156.79,
+      "h": 76.0,
+      "text": "Rhenohercynian zone"
+    },
+    {
+      "id": "11",
+      "x": 586.74,
+      "y": 212.83,
+      "w": 166.57,
+      "h": 86.68,
+      "text": "Londen-Brabant massif"
+    },
+    {
+      "id": "12",
+      "x": 511.05,
+      "y": 378.41,
+      "w": 95.71,
+      "h": 53.71,
+      "text": "Armorican Massif"
+    },
+    {
+      "id": "13",
+      "x": 38.33,
+      "y": 501.2,
+      "w": 35.02,
+      "h": 179.13,
+      "text": "South Portuguese zone"
+    },
+    {
+      "id": "14",
+      "x": 101.85,
+      "y": 431.18,
+      "w": 40.27,
+      "h": 144.54,
+      "text": "Ossa-Morena zone"
+    },
+    {
+      "id": "15",
+      "x": 155.68,
+      "y": 456.52,
+      "w": 71.44,
+      "h": 131.05,
+      "text": "Central Iberian zone"
+    },
+    {
+      "id": "16",
+      "x": 586.13,
+      "y": 505.06,
+      "w": 107.96,
+      "h": 12.79,
+      "text": "Massif Central"
+    },
+    {
+      "id": "17",
+      "x": 961.14,
+      "y": 136.09,
+      "w": 96.68,
+      "h": 46.02,
+      "text": "Tornquist line"
+    },
+    {
+      "id": "18",
+      "x": 410.39,
+      "y": 47.32,
+      "w": 108.35,
+      "h": 32.31,
+      "text": "Iapetus suture"
+    }
+  ],
+  "comment": ""
+}

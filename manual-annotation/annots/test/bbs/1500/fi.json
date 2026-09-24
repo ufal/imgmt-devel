@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "fi",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-fi.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 403.61,
+      "y": 26.69,
+      "w": 259.38,
+      "h": 37.09,
+      "text": "Munanjohtimet"
+    },
+    {
+      "id": "1",
+      "x": 435.87,
+      "y": 77.01,
+      "w": 194.81,
+      "h": 37.09,
+      "text": "Munasarjat"
+    },
+    {
+      "id": "5",
+      "x": 483.77,
+      "y": 127.33,
+      "w": 98.84,
+      "h": 29.13,
+      "text": "Kohtu"
+    },
+    {
+      "id": "4",
+      "x": 189.82,
+      "y": 321.13,
+      "w": 229.14,
+      "h": 29.13,
+      "text": "Kohdunkaula"
+    },
+    {
+      "id": "2",
+      "x": 326.71,
+      "y": 414.93,
+      "w": 118.7,
+      "h": 29.3,
+      "text": "Emätin"
+    },
+    {
+      "id": "6",
+      "x": 335.44,
+      "y": 554.52,
+      "w": 89.93,
+      "h": 37.26,
+      "text": "Häpy"
+    }
+  ],
+  "comment": ""
+}

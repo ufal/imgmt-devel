@@ -1,0 +1,14 @@
+{
+  "image_id": "248",
+  "src_lang": "it",
+  "tgt_lang": "nl",
+  "alignment_method": "ambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": ""
+}

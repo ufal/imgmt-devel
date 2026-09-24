@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "ja",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-ja.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 465.42,
+      "y": 4.49,
+      "w": 135.03,
+      "h": 43.3,
+      "text": "輸卵管"
+    },
+    {
+      "id": "5",
+      "x": 488.62,
+      "y": 62.15,
+      "w": 88.61,
+      "h": 42.93,
+      "text": "卵巣"
+    },
+    {
+      "id": "4",
+      "x": 489.44,
+      "y": 116.5,
+      "w": 86.96,
+      "h": 41.65,
+      "text": "子宮"
+    },
+    {
+      "id": "1",
+      "x": 242.54,
+      "y": 321.73,
+      "w": 175.99,
+      "h": 40.77,
+      "text": "子宮頸部"
+    },
+    {
+      "id": "2",
+      "x": 401.96,
+      "y": 413.4,
+      "w": 41.11,
+      "h": 41.11,
+      "text": "膣"
+    },
+    {
+      "id": "6",
+      "x": 296.43,
+      "y": 553.6,
+      "w": 130.98,
+      "h": 41.46,
+      "text": "外陰部"
+    }
+  ],
+  "comment": ""
+}

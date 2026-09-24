@@ -1,0 +1,51 @@
+{
+  "image_id": "819",
+  "language": "te",
+  "png": {
+    "size": {
+      "width": 319.93,
+      "height": 249
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_auditory_ossicles-te.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "US Government"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 229.77,
+      "y": 4.93,
+      "w": 75.94,
+      "h": 17.98,
+      "text": "కర్ణాంతరాస్థి"
+    },
+    {
+      "id": "1",
+      "x": 35.8,
+      "y": 5.52,
+      "w": 58.52,
+      "h": 17.98,
+      "text": "కూటకాస్థి"
+    },
+    {
+      "id": "2",
+      "x": 144.51,
+      "y": 6.58,
+      "w": 60.95,
+      "h": 17.98,
+      "text": "రదనికాస్థి"
+    },
+    {
+      "id": "4",
+      "x": 132.0,
+      "y": 224.0,
+      "w": 79.0,
+      "h": 17.0,
+      "text": ""
+    }
+  ],
+  "comment": ""
+}

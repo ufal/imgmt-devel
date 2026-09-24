@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "as",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-as.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 391.37,
+      "y": 23.33,
+      "w": 289.21,
+      "h": 43.45,
+      "text": "ফেলোপিয়ান নলী"
+    },
+    {
+      "id": "1",
+      "x": 466.28,
+      "y": 77.29,
+      "w": 135.84,
+      "h": 42.03,
+      "text": "ডিম্বাশয়"
+    },
+    {
+      "id": "5",
+      "x": 481.35,
+      "y": 132.78,
+      "w": 105.05,
+      "h": 36.6,
+      "text": "জৰায়ু"
+    },
+    {
+      "id": "7",
+      "x": 280.0,
+      "y": 284.0,
+      "w": 149.0,
+      "h": 126.0,
+      "text": ""
+    },
+    {
+      "id": "3",
+      "x": 301.24,
+      "y": 431.71,
+      "w": 146.05,
+      "h": 40.77,
+      "text": "যোনিপথ"
+    },
+    {
+      "id": "6",
+      "x": 313.31,
+      "y": 562.01,
+      "w": 114.08,
+      "h": 29.62,
+      "text": "ভালভা"
+    }
+  ],
+  "comment": ""
+}

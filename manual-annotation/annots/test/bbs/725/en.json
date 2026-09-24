@@ -1,0 +1,107 @@
+{
+  "image_id": "725",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 692,
+      "height": 505
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Gray72-en.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mysid"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 184.69,
+      "y": 10.8,
+      "w": 221.94,
+      "h": 14.23,
+      "text": "Normoblast with dividing nucleus"
+    },
+    {
+      "id": "5",
+      "x": 602.72,
+      "y": 58.8,
+      "w": 69.2,
+      "h": 30.38,
+      "text": "Eosinophil cell"
+    },
+    {
+      "id": "7",
+      "x": 14.97,
+      "y": 65.59,
+      "w": 67.37,
+      "h": 14.23,
+      "text": "Myelocyte"
+    },
+    {
+      "id": "8",
+      "x": 6.51,
+      "y": 134.46,
+      "w": 75.84,
+      "h": 14.23,
+      "text": "Erythrocyte"
+    },
+    {
+      "id": "4",
+      "x": 603.29,
+      "y": 152.89,
+      "w": 84.46,
+      "h": 11.18,
+      "text": "Normoblasts"
+    },
+    {
+      "id": "3",
+      "x": 602.65,
+      "y": 192.8,
+      "w": 67.98,
+      "h": 33.43,
+      "text": "Myelocyte dividing"
+    },
+    {
+      "id": "9",
+      "x": 6.41,
+      "y": 224.17,
+      "w": 75.92,
+      "h": 14.23,
+      "text": "Myeloplaxe"
+    },
+    {
+      "id": "2",
+      "x": 603.26,
+      "y": 236.98,
+      "w": 67.37,
+      "h": 14.23,
+      "text": "Myelocyte"
+    },
+    {
+      "id": "10",
+      "x": 14.97,
+      "y": 318.25,
+      "w": 67.37,
+      "h": 14.23,
+      "text": "Myelocyte"
+    },
+    {
+      "id": "1",
+      "x": 603.38,
+      "y": 382.91,
+      "w": 20.82,
+      "h": 11.18,
+      "text": "Fat"
+    },
+    {
+      "id": "11",
+      "x": 62.04,
+      "y": 387.1,
+      "w": 20.82,
+      "h": 11.18,
+      "text": "Fat"
+    }
+  ],
+  "comment": ""
+}

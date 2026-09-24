@@ -1,0 +1,43 @@
+{
+  "image_id": "1120",
+  "language": "be",
+  "png": {
+    "size": {
+      "width": 788.43,
+      "height": 404
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Mature_flower_diagram_be.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats, translated to Czech language by Michal Maňas (User:Snek01, rearragned and improved by User:Nefronus)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 385.71,
+      "y": 370.71,
+      "w": 182.13,
+      "h": 17.69,
+      "text": "кветаножка"
+    },
+    {
+      "id": "2",
+      "x": 595.79,
+      "y": 102.03,
+      "w": 111.57,
+      "h": 26.42,
+      "text": "звязнік"
+    },
+    {
+      "id": "3",
+      "x": 108.97,
+      "y": 205.02,
+      "w": 191.27,
+      "h": 18.32,
+      "text": "чашалісцік-чашачка"
+    }
+  ],
+  "comment": ""
+}

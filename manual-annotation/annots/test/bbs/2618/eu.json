@@ -1,0 +1,51 @@
+{
+  "image_id": "2618",
+  "language": "eu",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Chemical_precipitation_diagram_multilang.svg&lang=eu",
+    "size": {
+      "width": 871.64,
+      "height": 799
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "ZooFari"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 589.35,
+      "y": 49.48,
+      "w": 249.47,
+      "h": 33.98,
+      "text": "Goiko fasea"
+    },
+    {
+      "id": "1",
+      "x": 40.57,
+      "y": 49.69,
+      "w": 213.7,
+      "h": 33.77,
+      "text": "Disoluzioa"
+    },
+    {
+      "id": "4",
+      "x": 566.83,
+      "y": 719.4,
+      "w": 271.98,
+      "h": 41.88,
+      "text": "Hauspeakina"
+    },
+    {
+      "id": "2",
+      "x": 39.17,
+      "y": 720.25,
+      "w": 258.62,
+      "h": 41.03,
+      "text": "Suspentsioa"
+    }
+  ],
+  "comment": "Image missing"
+}

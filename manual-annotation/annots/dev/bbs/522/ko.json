@@ -1,0 +1,35 @@
+{
+  "image_id": "522",
+  "language": "ko",
+  "png": {
+    "size": {
+      "width": 1140.38,
+      "height": 688
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Divided_Yemen-ko.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Orange Tuesday"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 190.94,
+      "y": 25.98,
+      "w": 272.39,
+      "h": 83.1,
+      "text": "예멘 아랍공화국 북예멘"
+    },
+    {
+      "id": "2",
+      "x": 540.23,
+      "y": 556.29,
+      "w": 268.42,
+      "h": 75.86,
+      "text": "예멘 인민민주공화국 남예멘"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,107 @@
+{
+  "image_id": "725",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 692,
+      "height": 505
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Gray72-Human_Bone_marrow-Medula_osea-es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "Basquetteur"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 184.73,
+      "y": 10.74,
+      "w": 230.84,
+      "h": 11.23,
+      "text": "Eritroblasto con núcleo en división"
+    },
+    {
+      "id": "7",
+      "x": 23.5,
+      "y": 65.59,
+      "w": 58.9,
+      "h": 11.18,
+      "text": "Mielocito"
+    },
+    {
+      "id": "5",
+      "x": 598.53,
+      "y": 67.53,
+      "w": 64.82,
+      "h": 11.37,
+      "text": "Eosinófilo"
+    },
+    {
+      "id": "8",
+      "x": 23.59,
+      "y": 134.46,
+      "w": 58.82,
+      "h": 11.18,
+      "text": "Eritrocito"
+    },
+    {
+      "id": "4",
+      "x": 599.64,
+      "y": 152.3,
+      "w": 83.57,
+      "h": 11.18,
+      "text": "Eritroblastos"
+    },
+    {
+      "id": "3",
+      "x": 601.2,
+      "y": 203.09,
+      "w": 58.9,
+      "h": 11.18,
+      "text": "Mielocito"
+    },
+    {
+      "id": "9",
+      "x": 2.6,
+      "y": 223.97,
+      "w": 79.8,
+      "h": 11.38,
+      "text": "Osteoclasto"
+    },
+    {
+      "id": "2",
+      "x": 599.83,
+      "y": 235.6,
+      "w": 58.9,
+      "h": 11.18,
+      "text": "Mielocito"
+    },
+    {
+      "id": "10",
+      "x": 23.5,
+      "y": 318.25,
+      "w": 58.9,
+      "h": 11.18,
+      "text": "Mielocito"
+    },
+    {
+      "id": "1",
+      "x": 602.09,
+      "y": 382.91,
+      "w": 62.64,
+      "h": 14.05,
+      "text": "Adipocito"
+    },
+    {
+      "id": "11",
+      "x": 19.76,
+      "y": 387.1,
+      "w": 62.64,
+      "h": 14.05,
+      "text": "Adipocito"
+    }
+  ],
+  "comment": ""
+}

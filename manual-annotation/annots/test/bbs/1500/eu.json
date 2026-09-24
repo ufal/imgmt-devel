@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "eu",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-eu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 367.17,
+      "y": 24.36,
+      "w": 331.12,
+      "h": 36.62,
+      "text": "Fallopio-ren tronpa"
+    },
+    {
+      "id": "2",
+      "x": 437.73,
+      "y": 75.12,
+      "w": 190.04,
+      "h": 37.6,
+      "text": "Obulutegia"
+    },
+    {
+      "id": "3",
+      "x": 450.63,
+      "y": 126.88,
+      "w": 164.27,
+      "h": 29.15,
+      "text": "Umetokia"
+    },
+    {
+      "id": "4",
+      "x": 315.0,
+      "y": 297.0,
+      "w": 112.0,
+      "h": 79.0,
+      "text": "Utero-lepo"
+    },
+    {
+      "id": "5",
+      "x": 316.57,
+      "y": 417.44,
+      "w": 126.66,
+      "h": 37.09,
+      "text": "Magina"
+    },
+    {
+      "id": "6",
+      "x": 367.34,
+      "y": 557.05,
+      "w": 55.05,
+      "h": 29.13,
+      "text": "Alu"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "is",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_Icelandic.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "9",
+      "x": 333.91,
+      "y": 105.43,
+      "w": 287.78,
+      "h": 68.39,
+      "text": "Tegund"
+    },
+    {
+      "id": "1",
+      "x": 316.86,
+      "y": 288.07,
+      "w": 319.75,
+      "h": 58.98,
+      "text": "Ættkvísl"
+    },
+    {
+      "id": "2",
+      "x": 406.75,
+      "y": 481.36,
+      "w": 140.2,
+      "h": 52.23,
+      "text": "Ætt"
+    },
+    {
+      "id": "3",
+      "x": 330.4,
+      "y": 672.23,
+      "w": 328.86,
+      "h": 49.16,
+      "text": "Ættbálkur"
+    },
+    {
+      "id": "4",
+      "x": 336.5,
+      "y": 853.99,
+      "w": 291.64,
+      "h": 54.97,
+      "text": "Flokkur"
+    },
+    {
+      "id": "5",
+      "x": 341.9,
+      "y": 1040.81,
+      "w": 275.45,
+      "h": 68.39,
+      "text": "Fylking"
+    },
+    {
+      "id": "6",
+      "x": 410.17,
+      "y": 1223.9,
+      "w": 139.14,
+      "h": 57.92,
+      "text": "Ríki"
+    },
+    {
+      "id": "7",
+      "x": 414.71,
+      "y": 1411.17,
+      "w": 130.38,
+      "h": 58.95,
+      "text": "Lén"
+    },
+    {
+      "id": "8",
+      "x": 435.18,
+      "y": 1598.82,
+      "w": 93.75,
+      "h": 57.92,
+      "text": "Líf"
+    }
+  ],
+  "comment": ""
+}

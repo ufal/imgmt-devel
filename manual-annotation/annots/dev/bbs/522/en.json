@@ -1,0 +1,35 @@
+{
+  "image_id": "522",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 1140.38,
+      "height": 688
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Divided_Yemen.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Orange Tuesday"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 188.67,
+      "y": 29.54,
+      "w": 397.84,
+      "h": 83.35,
+      "text": "Yemen Arab Republic (North Yemen)"
+    },
+    {
+      "id": "2",
+      "x": 540.14,
+      "y": 558.9,
+      "w": 568.98,
+      "h": 74.18,
+      "text": "People's Democratic Republic of Yemen (South Yemen)"
+    }
+  ],
+  "comment": ""
+}

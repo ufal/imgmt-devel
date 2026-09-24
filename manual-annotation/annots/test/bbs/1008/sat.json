@@ -1,0 +1,66 @@
+{
+  "image_id": "1008",
+  "language": "sat",
+  "png": {
+    "size": {
+      "width": 332.68,
+      "height": 514
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Light_cone-sat.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Sakurambo\nderivative work (translation): Exmak"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 193.52,
+      "y": 91.29,
+      "w": 23.89,
+      "h": 31.99,
+      "text": "B"
+    },
+    {
+      "id": "4",
+      "x": 196.52,
+      "y": 94.29,
+      "w": 17.89,
+      "h": 25.99,
+      "text": "B"
+    },
+    {
+      "id": "5",
+      "x": 237.37,
+      "y": 212.52,
+      "w": 28.52,
+      "h": 33.29,
+      "text": "C"
+    },
+    {
+      "id": "6",
+      "x": 240.37,
+      "y": 215.52,
+      "w": 22.53,
+      "h": 27.29,
+      "text": "C"
+    },
+    {
+      "id": "1",
+      "x": 113.83,
+      "y": 248.14,
+      "w": 31.63,
+      "h": 31.99,
+      "text": "A"
+    },
+    {
+      "id": "2",
+      "x": 116.83,
+      "y": 251.14,
+      "w": 25.64,
+      "h": 25.99,
+      "text": "A"
+    }
+  ]
+}

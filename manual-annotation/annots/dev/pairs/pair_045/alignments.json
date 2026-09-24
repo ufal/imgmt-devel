@@ -1,0 +1,22 @@
+{
+  "image_id": "565",
+  "src_lang": "ml",
+  "tgt_lang": "ta",
+  "alignment_method": "unambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    },
+    {
+      "src_box": "2",
+      "tgt_box": "2"
+    },
+    {
+      "src_box": "3",
+      "tgt_box": "3"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": ""
+}

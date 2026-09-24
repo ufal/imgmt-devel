@@ -1,0 +1,27 @@
+{
+  "image_id": "1669",
+  "language": "eo",
+  "png": {
+    "size": {
+      "width": 388.0,
+      "height": 234
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Tiroido.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 261.06,
+      "y": 146.12,
+      "w": 53.01,
+      "h": 11.64,
+      "text": "Tiroido"
+    }
+  ],
+  "comment": ""
+}

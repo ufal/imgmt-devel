@@ -1,0 +1,67 @@
+{
+  "image_id": "548",
+  "language": "hu",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-hu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Daniel Tar"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 464.0,
+      "y": 167.0,
+      "w": 28.0,
+      "h": 218.0,
+      "text": "sugár: 1,5·10"
+    },
+    {
+      "id": "4",
+      "x": 478.2,
+      "y": 413.02,
+      "w": 48.18,
+      "h": 25.64,
+      "text": "Nap"
+    },
+    {
+      "id": "2",
+      "x": 312.18,
+      "y": 443.68,
+      "w": 92.79,
+      "h": 20.51,
+      "text": "Vénusz"
+    },
+    {
+      "id": "3",
+      "x": 502.04,
+      "y": 479.13,
+      "w": 85.54,
+      "h": 20.51,
+      "text": "Merkúr"
+    },
+    {
+      "id": "6",
+      "x": 263.42,
+      "y": 624.42,
+      "w": 370.23,
+      "h": 83.09,
+      "text": "Dyson-gömb 3 méter vastagságú héj"
+    },
+    {
+      "id": "1",
+      "x": 60.79,
+      "y": 799.37,
+      "w": 245.02,
+      "h": 27.09,
+      "text": "infravörös sugárzás"
+    }
+  ],
+  "comment": ""
+}

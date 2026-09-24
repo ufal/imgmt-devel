@@ -1,0 +1,59 @@
+{
+  "image_id": "1502",
+  "language": "ja",
+  "png": {
+    "size": {
+      "width": 471.39,
+      "height": 454
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_human_hand_bones-ja.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz Villarreal (LadyofHats); retouches by Nyks"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 7.26,
+      "y": 24.38,
+      "w": 56.22,
+      "h": 17.87,
+      "text": "末節骨"
+    },
+    {
+      "id": "2",
+      "x": 9.07,
+      "y": 98.02,
+      "w": 54.98,
+      "h": 17.87,
+      "text": "中節骨"
+    },
+    {
+      "id": "4",
+      "x": 8.11,
+      "y": 236.37,
+      "w": 56.52,
+      "h": 17.87,
+      "text": "基節骨"
+    },
+    {
+      "id": "5",
+      "x": 4.0,
+      "y": 300.0,
+      "w": 65.0,
+      "h": 31.0,
+      "text": ""
+    },
+    {
+      "id": "3",
+      "x": 9.66,
+      "y": 397.05,
+      "w": 56.14,
+      "h": 17.71,
+      "text": "手根骨"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,59 @@
+{
+  "image_id": "1029",
+  "language": "te",
+  "png": {
+    "size": {
+      "width": 367.5,
+      "height": 402
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Loudspeaker_side_te.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Enciclopedia Libre"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 19.81,
+      "y": 2.82,
+      "w": 270.9,
+      "h": 28.36,
+      "text": "స్తంభాలా అనుసంధానం"
+    },
+    {
+      "id": "1",
+      "x": 18.4,
+      "y": 100.38,
+      "w": 83.59,
+      "h": 30.5,
+      "text": "ప్రేరకం"
+    },
+    {
+      "id": "5",
+      "x": 262.4,
+      "y": 210.66,
+      "w": 101.09,
+      "h": 26.03,
+      "text": "విభాజకం"
+    },
+    {
+      "id": "3",
+      "x": 13.66,
+      "y": 291.32,
+      "w": 164.46,
+      "h": 27.48,
+      "text": "అయస్కాంతం"
+    },
+    {
+      "id": "4",
+      "x": 85.56,
+      "y": 357.62,
+      "w": 71.35,
+      "h": 27.98,
+      "text": "చట్రం"
+    }
+  ],
+  "comment": ""
+}

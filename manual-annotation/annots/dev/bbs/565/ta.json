@@ -1,0 +1,43 @@
+{
+  "image_id": "565",
+  "language": "ta",
+  "png": {
+    "size": {
+      "width": 619.92,
+      "height": 710.64
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Einstein%27s_light_box-ta.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "Prokaryotic Caspase Homolog"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 292.0,
+      "y": 259.3,
+      "w": 78.83,
+      "h": 44.33,
+      "text": "ஃபோட்டன் மூல"
+    },
+    {
+      "id": "2",
+      "x": 443.0,
+      "y": 257.3,
+      "w": 78.7,
+      "h": 14.05,
+      "text": "ஷட்டர்"
+    },
+    {
+      "id": "3",
+      "x": 394.81,
+      "y": 419.3,
+      "w": 66.22,
+      "h": 14.05,
+      "text": "கடிகாரம்"
+    }
+  ],
+  "comment": ""
+}

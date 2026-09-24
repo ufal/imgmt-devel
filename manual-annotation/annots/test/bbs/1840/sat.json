@@ -1,0 +1,67 @@
+{
+  "image_id": "1840",
+  "language": "sat",
+  "png": {
+    "size": {
+      "width": 1700.27,
+      "height": 1992.5333
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Zonal_Councils-sat.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 337.0,
+      "y": 649.0,
+      "w": 162.0,
+      "h": 47.0,
+      "text": ""
+    },
+    {
+      "id": "4",
+      "x": 1257.41,
+      "y": 749.47,
+      "w": 335.66,
+      "h": 39.69,
+      "text": "ᱮᱛᱚᱢ ᱥᱟᱢᱟᱝ"
+    },
+    {
+      "id": "5",
+      "x": 668.0,
+      "y": 838.0,
+      "w": 195.0,
+      "h": 49.0,
+      "text": ""
+    },
+    {
+      "id": "3",
+      "x": 1000.81,
+      "y": 932.89,
+      "w": 181.35,
+      "h": 39.69,
+      "text": "ᱥᱟᱢᱟᱝ"
+    },
+    {
+      "id": "1",
+      "x": 384.42,
+      "y": 1109.79,
+      "w": 142.31,
+      "h": 39.58,
+      "text": "ᱯᱟᱪᱮ"
+    },
+    {
+      "id": "2",
+      "x": 488.7,
+      "y": 1467.97,
+      "w": 125.57,
+      "h": 39.64,
+      "text": "ᱠᱚᱧᱮ"
+    }
+  ],
+  "comment": ""
+}

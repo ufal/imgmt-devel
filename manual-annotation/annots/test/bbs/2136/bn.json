@@ -1,0 +1,59 @@
+{
+  "image_id": "2136",
+  "language": "bn",
+  "png": {
+    "size": {
+      "width": 752.35,
+      "height": 775.25958
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Breastshot_water_wheel_schematic-bn.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "Sumita Roy Dutta"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 40.92,
+      "y": 15.99,
+      "w": 219.17,
+      "h": 32.99,
+      "text": "ব্রেস্টশট জল চক্র"
+    },
+    {
+      "id": "2",
+      "x": 66.56,
+      "y": 104.59,
+      "w": 91.24,
+      "h": 18.27,
+      "text": "জল প্রবাহ"
+    },
+    {
+      "id": "3",
+      "x": -0.33,
+      "y": 345.24,
+      "w": 77.42,
+      "h": 23.47,
+      "text": "শীর্ষ ধারা"
+    },
+    {
+      "id": "4",
+      "x": 689.56,
+      "y": 389.24,
+      "w": 28.29,
+      "h": 104.13,
+      "text": "চাকার ঘূর্ণন"
+    },
+    {
+      "id": "5",
+      "x": 596.39,
+      "y": 681.98,
+      "w": 78.6,
+      "h": 22.39,
+      "text": "নিম্ন ধারা"
+    }
+  ],
+  "comment": ""
+}

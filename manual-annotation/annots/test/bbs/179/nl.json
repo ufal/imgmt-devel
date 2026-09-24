@@ -1,0 +1,91 @@
+{
+  "image_id": "179",
+  "language": "nl",
+  "png": {
+    "size": {
+      "width": 654,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Average_prokaryote_cell-_nl.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Average_prokaryote_cell-_en.svg: Mariana Ruiz Villarreal LadyofHats\nderivative work: Woudloper (talk)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 217.11,
+      "y": 31.38,
+      "w": 56.82,
+      "h": 14.72,
+      "text": "Capsule"
+    },
+    {
+      "id": "5",
+      "x": 211.7,
+      "y": 58.42,
+      "w": 59.85,
+      "h": 11.75,
+      "text": "Celwand"
+    },
+    {
+      "id": "4",
+      "x": 166.02,
+      "y": 86.06,
+      "w": 97.85,
+      "h": 11.75,
+      "text": "Celmembraan"
+    },
+    {
+      "id": "3",
+      "x": 107.15,
+      "y": 121.5,
+      "w": 82.38,
+      "h": 14.9,
+      "text": "Cytoplasma"
+    },
+    {
+      "id": "2",
+      "x": 46.3,
+      "y": 159.16,
+      "w": 77.98,
+      "h": 11.55,
+      "text": "Ribosomen"
+    },
+    {
+      "id": "1",
+      "x": 35.51,
+      "y": 186.13,
+      "w": 63.43,
+      "h": 11.55,
+      "text": "Plasmide"
+    },
+    {
+      "id": "9",
+      "x": 35.48,
+      "y": 215.45,
+      "w": 18.87,
+      "h": 11.37,
+      "text": "Pili"
+    },
+    {
+      "id": "7",
+      "x": 486.8,
+      "y": 426.95,
+      "w": 66.51,
+      "h": 14.71,
+      "text": "Flagellum"
+    },
+    {
+      "id": "8",
+      "x": 433.26,
+      "y": 466.41,
+      "w": 207.36,
+      "h": 14.9,
+      "text": "Nucleoïde (cirkelvormig DNA)"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "ar",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-ar.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 450.68,
+      "y": 21.4,
+      "w": 165.23,
+      "h": 42.46,
+      "text": "قناتا فالوب"
+    },
+    {
+      "id": "2",
+      "x": 463.13,
+      "y": 73.71,
+      "w": 141.45,
+      "h": 42.23,
+      "text": "المبيضين"
+    },
+    {
+      "id": "3",
+      "x": 490.85,
+      "y": 126.02,
+      "w": 85.33,
+      "h": 49.2,
+      "text": "الرحم"
+    },
+    {
+      "id": "4",
+      "x": 389.81,
+      "y": 316.97,
+      "w": 62.92,
+      "h": 36.41,
+      "text": "عنق"
+    },
+    {
+      "id": "5",
+      "x": 322.63,
+      "y": 411.11,
+      "w": 93.53,
+      "h": 41.71,
+      "text": "المهبل"
+    },
+    {
+      "id": "6",
+      "x": 318.71,
+      "y": 554.97,
+      "w": 82.77,
+      "h": 49.2,
+      "text": "الفرج"
+    }
+  ],
+  "comment": ""
+}

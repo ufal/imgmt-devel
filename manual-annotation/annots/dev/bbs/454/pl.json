@@ -1,0 +1,115 @@
+{
+  "image_id": "454",
+  "language": "pl",
+  "png": {
+    "size": {
+      "width": 1431,
+      "height": 583
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Czechoslovakia_1939_pl.SVG",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "User:Themightyquill, translated by User:czesioo7"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 54.4,
+      "y": 31.73,
+      "w": 84.24,
+      "h": 24.05,
+      "text": "Niemcy"
+    },
+    {
+      "id": "7",
+      "x": 970.6,
+      "y": 77.5,
+      "w": 74.73,
+      "h": 18.89,
+      "text": "Polska"
+    },
+    {
+      "id": "11",
+      "x": 72.07,
+      "y": 92.59,
+      "w": 185.14,
+      "h": 15.9,
+      "text": "Wrzesień-Listopad 1938"
+    },
+    {
+      "id": "10",
+      "x": 727.96,
+      "y": 152.65,
+      "w": 130.53,
+      "h": 12.68,
+      "text": "Październik 1938"
+    },
+    {
+      "id": "2",
+      "x": 265.36,
+      "y": 167.87,
+      "w": 125.35,
+      "h": 83.82,
+      "text": "Protektorat Czech i Moraw"
+    },
+    {
+      "id": "3",
+      "x": 680.15,
+      "y": 289.77,
+      "w": 230.38,
+      "h": 24.07,
+      "text": "Republika Słowacka"
+    },
+    {
+      "id": "12",
+      "x": 69.43,
+      "y": 323.77,
+      "w": 97.89,
+      "h": 12.67,
+      "text": "Marzec 1939"
+    },
+    {
+      "id": "9",
+      "x": 1013.98,
+      "y": 363.77,
+      "w": 97.89,
+      "h": 12.67,
+      "text": "Marzec 1939"
+    },
+    {
+      "id": "8",
+      "x": 771.01,
+      "y": 448.15,
+      "w": 106.6,
+      "h": 15.89,
+      "text": "Listopad 1938"
+    },
+    {
+      "id": "6",
+      "x": 1183.79,
+      "y": 474.96,
+      "w": 100.64,
+      "h": 18.89,
+      "text": "Rumunia"
+    },
+    {
+      "id": "4",
+      "x": 264.04,
+      "y": 497.41,
+      "w": 79.65,
+      "h": 18.89,
+      "text": "Austria"
+    },
+    {
+      "id": "5",
+      "x": 726.32,
+      "y": 505.9,
+      "w": 74.38,
+      "h": 24.05,
+      "text": "Węgry"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,22 @@
+{
+  "image_id": "3213",
+  "src_lang": "ca",
+  "tgt_lang": "id",
+  "alignment_method": "svg_switch",
+  "alignments": [
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    },
+    {
+      "src_box": "2",
+      "tgt_box": "2"
+    },
+    {
+      "src_box": "3",
+      "tgt_box": "3"
+    }
+  ],
+  "images_identical": null,
+  "comment": "Images missing"
+}

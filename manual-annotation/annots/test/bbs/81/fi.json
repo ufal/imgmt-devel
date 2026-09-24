@@ -1,0 +1,131 @@
+{
+  "image_id": "81",
+  "language": "fi",
+  "png": {
+    "size": {
+      "width": 1158.19,
+      "height": 968
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Air_conditioning_unit-fi.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY 3.0",
+      "author": "Pbroks13"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 828.48,
+      "y": 59.78,
+      "w": 266.57,
+      "h": 37.45,
+      "text": "ULKOTILAT"
+    },
+    {
+      "id": "11",
+      "x": 493.56,
+      "y": 101.33,
+      "w": 212.75,
+      "h": 25.86,
+      "text": "Tuuletinakseli"
+    },
+    {
+      "id": "1",
+      "x": 29.96,
+      "y": 141.23,
+      "w": 245.8,
+      "h": 44.09,
+      "text": "SISÄTILAT"
+    },
+    {
+      "id": "9",
+      "x": 681.66,
+      "y": 161.22,
+      "w": 384.39,
+      "h": 33.07,
+      "text": "Lämmönvaihtajan putket"
+    },
+    {
+      "id": "12",
+      "x": 365.64,
+      "y": 179.68,
+      "w": 194.47,
+      "h": 32.5,
+      "text": "Kompressori"
+    },
+    {
+      "id": "10",
+      "x": 608.06,
+      "y": 222.46,
+      "w": 121.85,
+      "h": 25.86,
+      "text": "Tuuletin"
+    },
+    {
+      "id": "3",
+      "x": 105.1,
+      "y": 260.08,
+      "w": 121.28,
+      "h": 25.86,
+      "text": "Puhallin"
+    },
+    {
+      "id": "8",
+      "x": 905.14,
+      "y": 289.77,
+      "w": 183.54,
+      "h": 25.86,
+      "text": "Kuuma ilma"
+    },
+    {
+      "id": "7",
+      "x": 974.92,
+      "y": 529.02,
+      "w": 131.97,
+      "h": 25.88,
+      "text": "Ulkoilma"
+    },
+    {
+      "id": "4",
+      "x": 1.61,
+      "y": 636.65,
+      "w": 192.65,
+      "h": 61.4,
+      "text": "Kylmennetty ilma"
+    },
+    {
+      "id": "13",
+      "x": 807.11,
+      "y": 784.37,
+      "w": 295.26,
+      "h": 32.92,
+      "text": "Laajentumisventtiili"
+    },
+    {
+      "id": "5",
+      "x": 145.74,
+      "y": 852.29,
+      "w": 192.7,
+      "h": 33.07,
+      "text": "Kylmäputket"
+    },
+    {
+      "id": "14",
+      "x": 376.82,
+      "y": 855.29,
+      "w": 194.71,
+      "h": 68.2,
+      "text": "Lämpötilan- vaihteluputki"
+    },
+    {
+      "id": "6",
+      "x": 834.55,
+      "y": 902.97,
+      "w": 131.2,
+      "h": 26.31,
+      "text": "Sisäilma"
+    }
+  ],
+  "comment": ""
+}

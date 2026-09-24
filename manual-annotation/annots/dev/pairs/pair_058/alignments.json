@@ -1,0 +1,14 @@
+{
+  "image_id": "981",
+  "src_lang": "ml",
+  "tgt_lang": "sat",
+  "alignment_method": "unambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": ""
+}

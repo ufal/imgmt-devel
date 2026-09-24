@@ -1,0 +1,27 @@
+{
+  "image_id": "981",
+  "language": "mr",
+  "png": {
+    "size": {
+      "width": 640.0,
+      "height": 640.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Laser-symbol-text-mr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 128.26,
+      "y": 544.92,
+      "w": 381.53,
+      "h": 79.72,
+      "text": "लेझर विकिरण"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,75 @@
+{
+  "image_id": "1500",
+  "language": "az",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-az.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 288.64,
+      "y": 22.05,
+      "w": 492.39,
+      "h": 43.79,
+      "text": "Uşaqlıq (Fallop) boruları"
+    },
+    {
+      "id": "2",
+      "x": 397.39,
+      "y": 73.22,
+      "w": 275.35,
+      "h": 42.66,
+      "text": "Yumurtalıqlar"
+    },
+    {
+      "id": "3",
+      "x": 459.05,
+      "y": 123.62,
+      "w": 151.17,
+      "h": 42.66,
+      "text": "Uşaqlıq"
+    },
+    {
+      "id": "4",
+      "x": 281.53,
+      "y": 301.67,
+      "w": 137.86,
+      "h": 38.91,
+      "text": "Uşaqlıq"
+    },
+    {
+      "id": "7",
+      "x": 311.52,
+      "y": 344.44,
+      "w": 110.08,
+      "h": 39.42,
+      "text": "boynu"
+    },
+    {
+      "id": "5",
+      "x": 193.78,
+      "y": 418.96,
+      "w": 249.71,
+      "h": 43.21,
+      "text": "Uşaqlıq yolu"
+    },
+    {
+      "id": "6",
+      "x": 312.4,
+      "y": 557.46,
+      "w": 112.79,
+      "h": 33.94,
+      "text": "Vulva"
+    }
+  ],
+  "comment": ""
+}

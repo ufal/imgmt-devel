@@ -1,0 +1,155 @@
+{
+  "image_id": "2153",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 935.56,
+      "height": 385
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Cell_membrane_detailed_diagram_es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "LadyofHats Mariana Ruiz, traduction Pilar Saenz"
+    }
+  },
+  "boxes": [
+    {
+      "id": "7",
+      "x": 39.0,
+      "y": 3.0,
+      "w": 161.0,
+      "h": 33.0,
+      "text": "Proteína canal (proteína de transporte)"
+    },
+    {
+      "id": "9",
+      "x": 692.0,
+      "y": 10.0,
+      "w": 102.0,
+      "h": 13.0,
+      "text": "Carbohidrato"
+    },
+    {
+      "id": "1",
+      "x": 387.0,
+      "y": 14.0,
+      "w": 146.0,
+      "h": 13.0,
+      "text": "Medio extracelular"
+    },
+    {
+      "id": "10",
+      "x": 750.0,
+      "y": 36.0,
+      "w": 157.0,
+      "h": 13.0,
+      "text": "Cabezas hidrófílicas"
+    },
+    {
+      "id": "8",
+      "x": 136.0,
+      "y": 48.0,
+      "w": 68.0,
+      "h": 35.0,
+      "text": "Proteína globular"
+    },
+    {
+      "id": "4",
+      "x": 307.0,
+      "y": 56.0,
+      "w": 105.0,
+      "h": 16.0,
+      "text": "Glicoproteína"
+    },
+    {
+      "id": "11",
+      "x": 789.0,
+      "y": 172.0,
+      "w": 93.0,
+      "h": 34.0,
+      "text": "Bicapa de fosfolípidos"
+    },
+    {
+      "id": "12",
+      "x": 734.0,
+      "y": 254.0,
+      "w": 95.0,
+      "h": 35.0,
+      "text": "Molécula de fosfolípido"
+    },
+    {
+      "id": "3",
+      "x": 9.0,
+      "y": 260.0,
+      "w": 82.0,
+      "h": 13.0,
+      "text": "Colesterol"
+    },
+    {
+      "id": "14",
+      "x": 225.0,
+      "y": 271.0,
+      "w": 131.0,
+      "h": 33.0,
+      "text": "Proteína integral (proteína globular)"
+    },
+    {
+      "id": "6",
+      "x": 362.0,
+      "y": 286.0,
+      "w": 169.0,
+      "h": 16.0,
+      "text": "Proteína de superficie"
+    },
+    {
+      "id": "5",
+      "x": 28.0,
+      "y": 293.0,
+      "w": 88.0,
+      "h": 16.0,
+      "text": "Glicolípido"
+    },
+    {
+      "id": "13",
+      "x": 462.0,
+      "y": 320.0,
+      "w": 158.0,
+      "h": 33.0,
+      "text": "Proteína integral (proteína en alfa-hélice)"
+    },
+    {
+      "id": "17",
+      "x": 637.0,
+      "y": 321.0,
+      "w": 143.0,
+      "h": 20.0,
+      "text": ""
+    },
+    {
+      "id": "15",
+      "x": 107.0,
+      "y": 333.0,
+      "w": 144.0,
+      "h": 16.0,
+      "text": "Proteína periférica"
+    },
+    {
+      "id": "16",
+      "x": 273.0,
+      "y": 335.0,
+      "w": 114.0,
+      "h": 34.0,
+      "text": ""
+    },
+    {
+      "id": "2",
+      "x": 383.0,
+      "y": 359.0,
+      "w": 85.0,
+      "h": 16.0,
+      "text": "Citoplasma"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "ku",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=ku",
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 411.14,
+      "y": 97.68,
+      "w": 143.41,
+      "h": 53.72,
+      "text": "Jiyan"
+    },
+    {
+      "id": "2",
+      "x": 363.89,
+      "y": 279.67,
+      "w": 239.0,
+      "h": 42.96,
+      "text": "Sercîhan"
+    },
+    {
+      "id": "3",
+      "x": 406.49,
+      "y": 465.27,
+      "w": 154.46,
+      "h": 42.93,
+      "text": "Cîhan"
+    },
+    {
+      "id": "4",
+      "x": 411.25,
+      "y": 647.97,
+      "w": 146.61,
+      "h": 42.91,
+      "text": "Filûm"
+    },
+    {
+      "id": "5",
+      "x": 440.33,
+      "y": 833.57,
+      "w": 86.77,
+      "h": 54.09,
+      "text": "Çîn"
+    },
+    {
+      "id": "6",
+      "x": 424.19,
+      "y": 1019.88,
+      "w": 120.79,
+      "h": 42.2,
+      "text": "Kom"
+    },
+    {
+      "id": "7",
+      "x": 396.71,
+      "y": 1196.07,
+      "w": 177.15,
+      "h": 42.91,
+      "text": "Famîle"
+    },
+    {
+      "id": "8",
+      "x": 424.2,
+      "y": 1381.67,
+      "w": 120.13,
+      "h": 42.93,
+      "text": "Cins"
+    },
+    {
+      "id": "9",
+      "x": 420.98,
+      "y": 1565.1,
+      "w": 127.08,
+      "h": 42.93,
+      "text": "Cure"
+    }
+  ],
+  "comment": ""
+}

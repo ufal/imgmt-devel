@@ -1,0 +1,171 @@
+{
+  "image_id": "2074",
+  "language": "hr",
+  "png": {
+    "size": {
+      "width": 1745,
+      "height": 1592
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:1941-1943_Axis_occupation_of_Yugoslavia_map_-_hr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Hellerick"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 134.0,
+      "y": -1436.0,
+      "w": 305.0,
+      "h": 125.0,
+      "text": "VELIKA NJEMAČKA"
+    },
+    {
+      "id": "58",
+      "x": 227.0,
+      "y": 119.0,
+      "w": 188.0,
+      "h": 135.0,
+      "text": "(njemačka aneksija)"
+    },
+    {
+      "id": "59",
+      "x": 721.0,
+      "y": 79.0,
+      "w": 335.0,
+      "h": 54.0,
+      "text": "MAĐARSKA"
+    },
+    {
+      "id": "41",
+      "x": 1370.3,
+      "y": 259.08,
+      "w": 348.54,
+      "h": 132.15,
+      "text": "RUMUNJSKA"
+    },
+    {
+      "id": "54",
+      "x": 170.48,
+      "y": 282.15,
+      "w": 191.98,
+      "h": 101.37,
+      "text": "(talijanska aneksija)"
+    },
+    {
+      "id": "52",
+      "x": 928.84,
+      "y": 291.43,
+      "w": 190.04,
+      "h": 141.38,
+      "text": "(mađarska aneksija)"
+    },
+    {
+      "id": "48",
+      "x": 1167.84,
+      "y": 367.22,
+      "w": 107.2,
+      "h": 167.51,
+      "text": "Banat"
+    },
+    {
+      "id": "56",
+      "x": 851.04,
+      "y": 468.4,
+      "w": 349.91,
+      "h": 230.08,
+      "text": "(njemačka okupacija)"
+    },
+    {
+      "id": "47",
+      "x": 369.19,
+      "y": 522.91,
+      "w": 517.45,
+      "h": 109.2,
+      "text": "NEZAVISNA DRŽAVA HRVATSKA"
+    },
+    {
+      "id": "44",
+      "x": 1210.71,
+      "y": 735.47,
+      "w": 182.07,
+      "h": 56.04,
+      "text": "SRBIJA"
+    },
+    {
+      "id": "50",
+      "x": 225.03,
+      "y": 792.29,
+      "w": 283.09,
+      "h": 271.0,
+      "text": "(talijanska aneksija)"
+    },
+    {
+      "id": "55",
+      "x": 637.56,
+      "y": 817.53,
+      "w": 384.76,
+      "h": 120.34,
+      "text": "(talijanska okupacija)"
+    },
+    {
+      "id": "43",
+      "x": 1675.84,
+      "y": 885.29,
+      "w": 44.28,
+      "h": 309.8,
+      "text": "BUGARSKA"
+    },
+    {
+      "id": "45",
+      "x": 927.46,
+      "y": 962.66,
+      "w": 147.7,
+      "h": 109.22,
+      "text": "CRNA GORA"
+    },
+    {
+      "id": "57",
+      "x": 1156.6,
+      "y": 1024.73,
+      "w": 130.91,
+      "h": 382.64,
+      "text": "(priključeno Albaniji)"
+    },
+    {
+      "id": "46",
+      "x": 1067.89,
+      "y": 1161.12,
+      "w": 150.39,
+      "h": 414.39,
+      "text": "ALBANIJA (talijanski protektorat)"
+    },
+    {
+      "id": "49",
+      "x": 1400.52,
+      "y": 1185.35,
+      "w": 132.78,
+      "h": 182.91,
+      "text": "(bugarska aneksija)"
+    },
+    {
+      "id": "40",
+      "x": 118.74,
+      "y": 1265.4,
+      "w": 255.02,
+      "h": 225.71,
+      "text": "I T A L I J A"
+    },
+    {
+      "id": "53",
+      "x": 1435.25,
+      "y": 1452.44,
+      "w": 253.11,
+      "h": 110.29,
+      "text": "G R Č K A"
+    }
+  ],
+  "comment": ""
+}

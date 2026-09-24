@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "bs",
+  "png": {
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=bs",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 415.66,
+      "y": 86.77,
+      "w": 137.2,
+      "h": 53.1,
+      "text": "Život"
+    },
+    {
+      "id": "2",
+      "x": 390.19,
+      "y": 280.37,
+      "w": 188.47,
+      "h": 42.2,
+      "text": "Domen"
+    },
+    {
+      "id": "3",
+      "x": 379.06,
+      "y": 465.28,
+      "w": 211.15,
+      "h": 42.92,
+      "text": "Carstvo"
+    },
+    {
+      "id": "4",
+      "x": 382.31,
+      "y": 648.67,
+      "w": 206.25,
+      "h": 53.74,
+      "text": "Koljeno"
+    },
+    {
+      "id": "5",
+      "x": 411.25,
+      "y": 834.27,
+      "w": 148.48,
+      "h": 42.2,
+      "text": "Klasa"
+    },
+    {
+      "id": "6",
+      "x": 433.75,
+      "y": 1019.87,
+      "w": 101.64,
+      "h": 42.2,
+      "text": "Red"
+    },
+    {
+      "id": "7",
+      "x": 364.44,
+      "y": 1196.77,
+      "w": 242.0,
+      "h": 42.2,
+      "text": "Porodica"
+    },
+    {
+      "id": "8",
+      "x": 432.19,
+      "y": 1382.37,
+      "w": 104.81,
+      "h": 42.2,
+      "text": "Rod"
+    },
+    {
+      "id": "9",
+      "x": 413.34,
+      "y": 1565.8,
+      "w": 139.95,
+      "h": 42.2,
+      "text": "Vrsta"
+    }
+  ],
+  "comment": "Text in bs language but image in cs"
+}

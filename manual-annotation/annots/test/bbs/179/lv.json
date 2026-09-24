@@ -1,0 +1,91 @@
+{
+  "image_id": "179",
+  "language": "lv",
+  "png": {
+    "size": {
+      "width": 673.9,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Prokariota_%C5%A1%C5%ABna.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats. Translated by László Németh."
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 213.31,
+      "y": 21.06,
+      "w": 72.0,
+      "h": 18.55,
+      "text": "Kapsula"
+    },
+    {
+      "id": "2",
+      "x": 177.95,
+      "y": 44.11,
+      "w": 108.62,
+      "h": 23.19,
+      "text": "Šūnapvalks"
+    },
+    {
+      "id": "3",
+      "x": 57.68,
+      "y": 76.99,
+      "w": 222.99,
+      "h": 14.97,
+      "text": "Plazmatiskā membrāna"
+    },
+    {
+      "id": "4",
+      "x": 94.37,
+      "y": 115.22,
+      "w": 104.79,
+      "h": 18.55,
+      "text": "Citoplazma"
+    },
+    {
+      "id": "5",
+      "x": 29.45,
+      "y": 155.31,
+      "w": 102.0,
+      "h": 14.97,
+      "text": "Ribosomas"
+    },
+    {
+      "id": "6",
+      "x": 28.54,
+      "y": 180.65,
+      "w": 82.82,
+      "h": 14.97,
+      "text": "Plazmīda"
+    },
+    {
+      "id": "7",
+      "x": 21.07,
+      "y": 212.27,
+      "w": 46.5,
+      "h": 14.97,
+      "text": "Pillas"
+    },
+    {
+      "id": "8",
+      "x": 488.2,
+      "y": 422.72,
+      "w": 55.75,
+      "h": 18.11,
+      "text": "Viciņa"
+    },
+    {
+      "id": "9",
+      "x": 480.86,
+      "y": 451.12,
+      "w": 157.23,
+      "h": 18.55,
+      "text": "Nukleoīds (DNS)"
+    }
+  ],
+  "comment": ""
+}

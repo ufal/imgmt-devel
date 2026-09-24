@@ -1,0 +1,43 @@
+{
+  "image_id": "1120",
+  "language": "te",
+  "png": {
+    "size": {
+      "width": 708.56,
+      "height": 404
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Mature_flower_diagram-te.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats, translated to Czech language by Michal Maňas (User:Snek01, rearragned and improved by User:Nefronus)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 312.1,
+      "y": 30.94,
+      "w": 154.17,
+      "h": 26.91,
+      "text": "పరిపక్వ పువ్వు"
+    },
+    {
+      "id": "2",
+      "x": 129.61,
+      "y": 185.59,
+      "w": 87.03,
+      "h": 19.18,
+      "text": "పరిపత్రము"
+    },
+    {
+      "id": "3",
+      "x": 139.64,
+      "y": 99.55,
+      "w": 108.59,
+      "h": 17.14,
+      "text": "కేసరకాండము"
+    }
+  ],
+  "comment": ""
+}

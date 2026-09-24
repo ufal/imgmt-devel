@@ -1,0 +1,115 @@
+{
+  "image_id": "454",
+  "language": "pt",
+  "png": {
+    "size": {
+      "width": 1433.01,
+      "height": 583
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Tch%C3%A9coslovaquie_1939-pt.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "User:Themightyquill, translated by User:czesioo7"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 52.46,
+      "y": 31.73,
+      "w": 115.87,
+      "h": 18.89,
+      "text": "Alemanha"
+    },
+    {
+      "id": "6",
+      "x": 971.97,
+      "y": 77.4,
+      "w": 83.52,
+      "h": 19.0,
+      "text": "Polônia"
+    },
+    {
+      "id": "10",
+      "x": 53.96,
+      "y": 89.77,
+      "w": 136.72,
+      "h": 12.83,
+      "text": "Set.-Nov. de 1938"
+    },
+    {
+      "id": "9",
+      "x": 728.47,
+      "y": 152.49,
+      "w": 128.34,
+      "h": 12.83,
+      "text": "Outubro de 1938"
+    },
+    {
+      "id": "2",
+      "x": 253.08,
+      "y": 185.31,
+      "w": 186.06,
+      "h": 83.82,
+      "text": "Protetorado da Boêmia-Morávia"
+    },
+    {
+      "id": "3",
+      "x": 681.82,
+      "y": 267.95,
+      "w": 123.88,
+      "h": 88.77,
+      "text": "República da Eslováquia"
+    },
+    {
+      "id": "11",
+      "x": 69.53,
+      "y": 323.77,
+      "w": 113.45,
+      "h": 15.83,
+      "text": "Março de 1939"
+    },
+    {
+      "id": "8",
+      "x": 1015.4,
+      "y": 363.77,
+      "w": 113.45,
+      "h": 15.83,
+      "text": "Março de 1939"
+    },
+    {
+      "id": "12",
+      "x": 246.0,
+      "y": 437.0,
+      "w": 138.0,
+      "h": 47.0,
+      "text": "Áustria (até marco de 1938)"
+    },
+    {
+      "id": "7",
+      "x": 772.14,
+      "y": 448.15,
+      "w": 145.17,
+      "h": 12.67,
+      "text": "Novembro de 1938"
+    },
+    {
+      "id": "5",
+      "x": 1185.45,
+      "y": 474.87,
+      "w": 100.78,
+      "h": 19.0,
+      "text": "Romênia"
+    },
+    {
+      "id": "4",
+      "x": 729.1,
+      "y": 505.9,
+      "w": 87.76,
+      "h": 24.05,
+      "text": "Hungria"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,51 @@
+{
+  "image_id": "32",
+  "language": "it",
+  "png": {
+    "size": {
+      "width": 592,
+      "height": 722
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:6x19_wire_rope_construction-it.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Tachymètre"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 332.07,
+      "y": 23.27,
+      "w": 105.38,
+      "h": 51.65,
+      "text": "Filo"
+    },
+    {
+      "id": "2",
+      "x": 332.3,
+      "y": 160.31,
+      "w": 221.87,
+      "h": 51.97,
+      "text": "Trefolo"
+    },
+    {
+      "id": "3",
+      "x": 332.43,
+      "y": 324.15,
+      "w": 204.27,
+      "h": 49.79,
+      "text": "Anima"
+    },
+    {
+      "id": "4",
+      "x": 334.86,
+      "y": 549.48,
+      "w": 152.59,
+      "h": 49.47,
+      "text": "Fune"
+    }
+  ],
+  "comment": ""
+}

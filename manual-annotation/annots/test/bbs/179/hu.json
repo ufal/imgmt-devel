@@ -1,0 +1,91 @@
+{
+  "image_id": "179",
+  "language": "hu",
+  "png": {
+    "size": {
+      "width": 653.75,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Prokaryote_cell_diagram_hu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats. Translated by László Németh."
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 131.44,
+      "y": 33.72,
+      "w": 130.19,
+      "h": 16.15,
+      "text": "nyálkaburok (tok)"
+    },
+    {
+      "id": "9",
+      "x": 212.0,
+      "y": 58.0,
+      "w": 46.0,
+      "h": 20.0,
+      "text": "sejtfal"
+    },
+    {
+      "id": "6",
+      "x": 107.34,
+      "y": 84.34,
+      "w": 153.04,
+      "h": 15.8,
+      "text": "citoplazmamembrán"
+    },
+    {
+      "id": "1",
+      "x": 100.46,
+      "y": 121.83,
+      "w": 80.83,
+      "h": 15.74,
+      "text": "citoplazma"
+    },
+    {
+      "id": "2",
+      "x": 27.43,
+      "y": 159.19,
+      "w": 86.77,
+      "h": 12.59,
+      "text": "riboszómák"
+    },
+    {
+      "id": "3",
+      "x": 36.22,
+      "y": 185.01,
+      "w": 56.91,
+      "h": 15.74,
+      "text": "plazmid"
+    },
+    {
+      "id": "4",
+      "x": 1.93,
+      "y": 218.7,
+      "w": 46.11,
+      "h": 12.59,
+      "text": "csillók"
+    },
+    {
+      "id": "7",
+      "x": 477.62,
+      "y": 436.39,
+      "w": 119.59,
+      "h": 12.59,
+      "text": "bakteriális ostor"
+    },
+    {
+      "id": "8",
+      "x": 476.26,
+      "y": 458.86,
+      "w": 150.24,
+      "h": 33.35,
+      "text": "nukleoid (bakteriális kromoszóma)"
+    }
+  ],
+  "comment": ""
+}

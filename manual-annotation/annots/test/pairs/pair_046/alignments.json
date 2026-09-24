@@ -1,0 +1,78 @@
+{
+  "image_id": "735",
+  "src_lang": "bn",
+  "tgt_lang": "es",
+  "alignment_method": "ambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "21",
+      "tgt_box": "21"
+    },
+    {
+      "src_box": "22",
+      "tgt_box": "22"
+    },
+    {
+      "src_box": "7",
+      "tgt_box": "8"
+    },
+    {
+      "src_box": "8",
+      "tgt_box": "7"
+    },
+    {
+      "src_box": "9",
+      "tgt_box": "9"
+    },
+    {
+      "src_box": "5",
+      "tgt_box": "5"
+    },
+    {
+      "src_box": "6",
+      "tgt_box": "6"
+    },
+    {
+      "src_box": "17",
+      "tgt_box": "17"
+    },
+    {
+      "src_box": "3",
+      "tgt_box": "3"
+    },
+    {
+      "src_box": "19",
+      "tgt_box": "19"
+    },
+    {
+      "src_box": "4",
+      "tgt_box": "4"
+    },
+    {
+      "src_box": "18",
+      "tgt_box": "18"
+    },
+    {
+      "src_box": "15",
+      "tgt_box": "15"
+    },
+    {
+      "src_box": "14",
+      "tgt_box": "14"
+    },
+    {
+      "src_box": "20",
+      "tgt_box": "20"
+    },
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    },
+    {
+      "src_box": "2",
+      "tgt_box": "2"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": ""
+}

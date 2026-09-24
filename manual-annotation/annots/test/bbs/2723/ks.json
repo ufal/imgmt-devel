@@ -1,0 +1,114 @@
+{
+  "image_id": "2723",
+  "language": "ks",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Kashmir_map.svg",
+    "size": {
+      "width": 8271.93,
+      "height": 6495
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Planemad"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 61.43,
+      "y": 71.64,
+      "w": 731.1,
+      "h": 500.35,
+      "text": "TAJIKISTAN"
+    },
+    {
+      "id": "4",
+      "x": 863.66,
+      "y": 464.25,
+      "w": 933.3,
+      "h": 103.05,
+      "text": "AFGHANISTAN"
+    },
+    {
+      "id": "3",
+      "x": 5371.97,
+      "y": 693.51,
+      "w": 1485.92,
+      "h": 346.23,
+      "text": "CHINA"
+    },
+    {
+      "id": "7",
+      "x": 3957.97,
+      "y": 938.17,
+      "w": 1917.54,
+      "h": 1104.03,
+      "text": "Trans-Karakoram Tract"
+    },
+    {
+      "id": "6",
+      "x": 1902.45,
+      "y": 2043.0,
+      "w": 1785.55,
+      "h": 236.84,
+      "text": "Gilgit-Baltistan"
+    },
+    {
+      "id": "12",
+      "x": 4494.38,
+      "y": 2465.0,
+      "w": 928.68,
+      "h": 496.29,
+      "text": "Siachen Glacier"
+    },
+    {
+      "id": "1",
+      "x": 214.13,
+      "y": 2654.26,
+      "w": 2231.34,
+      "h": 346.23,
+      "text": "PAKISTAN"
+    },
+    {
+      "id": "11",
+      "x": 6279.16,
+      "y": 2663.01,
+      "w": 1265.2,
+      "h": 189.92,
+      "text": "Aksai Chin"
+    },
+    {
+      "id": "10",
+      "x": 4691.64,
+      "y": 3976.81,
+      "w": 838.56,
+      "h": 189.92,
+      "text": "Ladakh"
+    },
+    {
+      "id": "8",
+      "x": 1362.0,
+      "y": 4009.86,
+      "w": 979.3,
+      "h": 496.29,
+      "text": "Azad Kashmir"
+    },
+    {
+      "id": "9",
+      "x": 2532.8,
+      "y": 4264.14,
+      "w": 979.3,
+      "h": 794.64,
+      "text": "Jammu and Kashmir"
+    },
+    {
+      "id": "2",
+      "x": 3947.17,
+      "y": 5708.67,
+      "w": 1362.28,
+      "h": 334.12,
+      "text": "INDIA"
+    }
+  ]
+}

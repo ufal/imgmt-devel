@@ -1,0 +1,35 @@
+{
+  "image_id": "90",
+  "language": "pl",
+  "png": {
+    "size": {
+      "width": 868.5,
+      "height": 864
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Aldebaran-Sun_comparison-pl.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Judithhh 11"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 539.64,
+      "y": 119.76,
+      "w": 148.06,
+      "h": 38.44,
+      "text": "Słońce"
+    },
+    {
+      "id": "1",
+      "x": 151.34,
+      "y": 431.83,
+      "w": 228.04,
+      "h": 35.74,
+      "text": "Aldebaran"
+    }
+  ],
+  "comment": ""
+}

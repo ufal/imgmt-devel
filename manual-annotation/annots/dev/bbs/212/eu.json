@@ -1,0 +1,123 @@
+{
+  "image_id": "212",
+  "language": "eu",
+  "png": {
+    "size": {
+      "width": 925.9,
+      "height": 664
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Basque_dialects-eu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.5",
+      "author": "Willtron"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 641.65,
+      "y": 12.03,
+      "w": 211.58,
+      "h": 32.84,
+      "text": "FRANTZIA"
+    },
+    {
+      "id": "11",
+      "x": 461.35,
+      "y": 115.01,
+      "w": 97.41,
+      "h": 13.92,
+      "text": "LAPURTERA"
+    },
+    {
+      "id": "10",
+      "x": 584.32,
+      "y": 123.98,
+      "w": 152.02,
+      "h": 13.63,
+      "text": "BEHE NAFARRERA"
+    },
+    {
+      "id": "7",
+      "x": 83.48,
+      "y": 174.75,
+      "w": 92.86,
+      "h": 13.63,
+      "text": "BIZKAIERA"
+    },
+    {
+      "id": "1",
+      "x": 83.64,
+      "y": 214.54,
+      "w": 92.16,
+      "h": 18.59,
+      "text": "BIZKAIA"
+    },
+    {
+      "id": "13",
+      "x": 737.41,
+      "y": 217.48,
+      "w": 90.8,
+      "h": 13.92,
+      "text": "ZUBERERA"
+    },
+    {
+      "id": "8",
+      "x": 274.92,
+      "y": 221.08,
+      "w": 98.99,
+      "h": 14.17,
+      "text": "GIPUZKERA"
+    },
+    {
+      "id": "2",
+      "x": 237.37,
+      "y": 267.13,
+      "w": 117.38,
+      "h": 19.37,
+      "text": "GIPUZKOA"
+    },
+    {
+      "id": "9",
+      "x": 436.31,
+      "y": 311.99,
+      "w": 140.56,
+      "h": 14.21,
+      "text": "GOI NAFARRERA"
+    },
+    {
+      "id": "4",
+      "x": 73.09,
+      "y": 350.17,
+      "w": 75.42,
+      "h": 18.59,
+      "text": "ARABA"
+    },
+    {
+      "id": "3",
+      "x": 449.63,
+      "y": 352.95,
+      "w": 121.95,
+      "h": 23.21,
+      "text": "NAFARROA"
+    },
+    {
+      "id": "12",
+      "x": 717.53,
+      "y": 382.43,
+      "w": 134.74,
+      "h": 14.21,
+      "text": "ERRONKARIERA"
+    },
+    {
+      "id": "5",
+      "x": 145.0,
+      "y": 500.08,
+      "w": 224.35,
+      "h": 34.03,
+      "text": "ESPAINIA"
+    }
+  ],
+  "comment": ""
+}

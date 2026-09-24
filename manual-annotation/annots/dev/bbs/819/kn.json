@@ -1,0 +1,75 @@
+{
+  "image_id": "819",
+  "language": "kn",
+  "png": {
+    "size": {
+      "width": 288.85,
+      "height": 249
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_auditory_ossicles-kn.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "US Government"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 21.47,
+      "y": 0.4,
+      "w": 42.43,
+      "h": 16.73,
+      "text": "ಸುತ್ತಿಗೆ"
+    },
+    {
+      "id": "2",
+      "x": 127.14,
+      "y": 1.95,
+      "w": 66.96,
+      "h": 16.61,
+      "text": "ಅಡಿಗಲ್ಲು"
+    },
+    {
+      "id": "3",
+      "x": 231.13,
+      "y": 4.51,
+      "w": 47.27,
+      "h": 16.15,
+      "text": "ರಿಕಾಪು"
+    },
+    {
+      "id": "4",
+      "x": 15.0,
+      "y": 19.0,
+      "w": 68.0,
+      "h": 16.0,
+      "text": "(Malleus)"
+    },
+    {
+      "id": "5",
+      "x": 136.0,
+      "y": 20.0,
+      "w": 50.0,
+      "h": 18.0,
+      "text": "(Incus)"
+    },
+    {
+      "id": "6",
+      "x": 224.0,
+      "y": 20.0,
+      "w": 61.0,
+      "h": 17.0,
+      "text": "(Stapes)"
+    },
+    {
+      "id": "7",
+      "x": 58.0,
+      "y": 218.0,
+      "w": 196.0,
+      "h": 23.0,
+      "text": ""
+    }
+  ],
+  "comment": ""
+}

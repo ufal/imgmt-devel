@@ -1,0 +1,82 @@
+{
+  "image_id": "2251",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 2109.38,
+      "height": 1875
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hmong-Mien-fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "ArnoldPlaton"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 516.61,
+      "y": 52.52,
+      "w": 1071.98,
+      "h": 104.3,
+      "text": "Langues hmong-mien"
+    },
+    {
+      "id": "2",
+      "x": 991.62,
+      "y": 1119.61,
+      "w": 209.11,
+      "h": 40.97,
+      "text": "Vietnam"
+    },
+    {
+      "id": "3",
+      "x": 1731.07,
+      "y": 661.5,
+      "w": 170.53,
+      "h": 58.05,
+      "text": "Mien"
+    },
+    {
+      "id": "4",
+      "x": 465.02,
+      "y": 518.86,
+      "w": 263.55,
+      "h": 73.9,
+      "text": "Hmong"
+    },
+    {
+      "id": "5",
+      "x": 1028.13,
+      "y": 1545.73,
+      "w": 128.44,
+      "h": 40.97,
+      "text": "Laos"
+    },
+    {
+      "id": "6",
+      "x": 134.7,
+      "y": 1102.83,
+      "w": 238.24,
+      "h": 40.97,
+      "text": "Birmanie"
+    },
+    {
+      "id": "7",
+      "x": 1021.38,
+      "y": 299.93,
+      "w": 150.77,
+      "h": 41.7,
+      "text": "Chine"
+    },
+    {
+      "id": "8",
+      "x": 620.2,
+      "y": 1637.34,
+      "w": 255.59,
+      "h": 41.04,
+      "text": "Thaïlande"
+    }
+  ]
+}

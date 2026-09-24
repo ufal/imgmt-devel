@@ -1,0 +1,171 @@
+{
+  "image_id": "3593",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 1439,
+      "height": 1346
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Reame_di_Siagrio_(486)_es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "Reame di Siagrio"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 824.97,
+      "y": 22.66,
+      "w": 168.6,
+      "h": 99.03,
+      "text": "Francos salios"
+    },
+    {
+      "id": "7",
+      "x": 1227.08,
+      "y": 74.17,
+      "w": 173.74,
+      "h": 118.37,
+      "text": "Francos ripuarios"
+    },
+    {
+      "id": "3",
+      "x": 765.94,
+      "y": 200.52,
+      "w": 202.67,
+      "h": 79.71,
+      "text": "Novidunum (Soissons)"
+    },
+    {
+      "id": "10",
+      "x": 1055.28,
+      "y": 264.76,
+      "w": 234.34,
+      "h": 78.53,
+      "text": "Durocotorum (Reims)"
+    },
+    {
+      "id": "2",
+      "x": 586.47,
+      "y": 316.59,
+      "w": 326.16,
+      "h": 78.71,
+      "text": "Lutetia Parisiorum (París)"
+    },
+    {
+      "id": "5",
+      "x": 74.34,
+      "y": 411.02,
+      "w": 272.98,
+      "h": 44.76,
+      "text": "Armórica"
+    },
+    {
+      "id": "9",
+      "x": 779.92,
+      "y": 433.23,
+      "w": 205.81,
+      "h": 79.71,
+      "text": "Aurelianum (Orleans)"
+    },
+    {
+      "id": "8",
+      "x": 104.01,
+      "y": 477.58,
+      "w": 198.08,
+      "h": 46.76,
+      "text": "Bretones"
+    },
+    {
+      "id": "11",
+      "x": 445.99,
+      "y": 513.38,
+      "w": 172.82,
+      "h": 79.9,
+      "text": "Adecavus (Angers)"
+    },
+    {
+      "id": "16",
+      "x": 1154.2,
+      "y": 601.71,
+      "w": 243.97,
+      "h": 54.29,
+      "text": "Burgundios"
+    },
+    {
+      "id": "4",
+      "x": 558.39,
+      "y": 641.94,
+      "w": 50.66,
+      "h": 17.51,
+      "text": "Loira"
+    },
+    {
+      "id": "1",
+      "x": 631.52,
+      "y": 675.04,
+      "w": 162.24,
+      "h": 79.71,
+      "text": "Dolensus (Délons)"
+    },
+    {
+      "id": "12",
+      "x": 879.65,
+      "y": 719.13,
+      "w": 178.58,
+      "h": 78.91,
+      "text": "Avaricum (Bourges)"
+    },
+    {
+      "id": "15",
+      "x": 575.42,
+      "y": 798.43,
+      "w": 204.02,
+      "h": 54.29,
+      "text": "Visigodos"
+    },
+    {
+      "id": "13",
+      "x": 1146.17,
+      "y": 842.99,
+      "w": 187.92,
+      "h": 79.71,
+      "text": "Lugdunum (Lyon)"
+    },
+    {
+      "id": "17",
+      "x": 129.04,
+      "y": 1035.93,
+      "w": 271.04,
+      "h": 171.57,
+      "text": "Reino de Siagrio"
+    },
+    {
+      "id": "14",
+      "x": 638.96,
+      "y": 1094.67,
+      "w": 184.35,
+      "h": 79.71,
+      "text": "Tolosa (Toulouse)"
+    },
+    {
+      "id": "18",
+      "x": 77.05,
+      "y": 1235.83,
+      "w": 310.75,
+      "h": 35.69,
+      "text": "hacia el 486 a. de C."
+    },
+    {
+      "id": "19",
+      "x": 712.0,
+      "y": 1250.0,
+      "w": 157.0,
+      "h": 87.0,
+      "text": "Narbo (Narbona)"
+    }
+  ],
+  "comment": ""
+}

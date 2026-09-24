@@ -1,0 +1,75 @@
+{
+  "image_id": "2540",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 871.7819999999999,
+      "height": 515.871
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Cloud_computing_types.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Sam Johnston"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 489.07,
+      "y": 209.33,
+      "w": 118.59,
+      "h": 18.6,
+      "text": "The Cloud"
+    },
+    {
+      "id": "2",
+      "x": 342.29,
+      "y": 142.92,
+      "w": 94.64,
+      "h": 46.6,
+      "text": "P ublic/ Exter nal"
+    },
+    {
+      "id": "3",
+      "x": 119.04,
+      "y": 113.25,
+      "w": 91.62,
+      "h": 46.6,
+      "text": "P rivate/ Inter nal"
+    },
+    {
+      "id": "4",
+      "x": 224.62,
+      "y": 46.36,
+      "w": 74.46,
+      "h": 23.06,
+      "text": "Hybrid"
+    },
+    {
+      "id": "5",
+      "x": 443.85,
+      "y": 431.26,
+      "w": 235.76,
+      "h": 18.03,
+      "text": "Off P r emises / Thir d P arty"
+    },
+    {
+      "id": "6",
+      "x": 71.47,
+      "y": 431.36,
+      "w": 203.47,
+      "h": 16.95,
+      "text": "On P r emises / Inter nal"
+    },
+    {
+      "id": "7",
+      "x": 267.64,
+      "y": 467.81,
+      "w": 373.53,
+      "h": 30.92,
+      "text": "Cloud Computing T ypes"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,75 @@
+{
+  "image_id": "985",
+  "language": "ca",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Laurasia-Gondwana.svg&lang=ca",
+    "size": {
+      "width": 515.65,
+      "height": 432
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY 3.0",
+      "author": "Podzemnik"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 191.8,
+      "y": 80.13,
+      "w": 144.66,
+      "h": 29.24,
+      "text": "LAURÀSIA"
+    },
+    {
+      "id": "7",
+      "x": 448.92,
+      "y": 180.13,
+      "w": 68.39,
+      "h": 16.22,
+      "text": "Equador"
+    },
+    {
+      "id": "1",
+      "x": 323.16,
+      "y": 180.68,
+      "w": 64.53,
+      "h": 12.27,
+      "text": "MAR DE"
+    },
+    {
+      "id": "2",
+      "x": 337.92,
+      "y": 200.72,
+      "w": 49.15,
+      "h": 12.72,
+      "text": "TETIS"
+    },
+    {
+      "id": "6",
+      "x": 150.59,
+      "y": 235.77,
+      "w": 162.34,
+      "h": 106.02,
+      "text": "GONDWANA"
+    },
+    {
+      "id": "3",
+      "x": 195.94,
+      "y": 364.3,
+      "w": 112.05,
+      "h": 27.18,
+      "text": "TRIÀSIC"
+    },
+    {
+      "id": "4",
+      "x": 133.71,
+      "y": 402.93,
+      "w": 287.78,
+      "h": 25.76,
+      "text": "Fa 200 milions d'anys"
+    }
+  ],
+  "comment": ""
+}

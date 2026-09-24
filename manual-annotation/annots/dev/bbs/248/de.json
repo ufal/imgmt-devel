@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "de",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=de",
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 332.4,
+      "y": 97.68,
+      "w": 304.33,
+      "h": 42.2,
+      "text": "Lebewesen"
+    },
+    {
+      "id": "2",
+      "x": 374.08,
+      "y": 279.67,
+      "w": 222.32,
+      "h": 42.91,
+      "text": "Domäne"
+    },
+    {
+      "id": "3",
+      "x": 409.58,
+      "y": 465.98,
+      "w": 149.79,
+      "h": 42.2,
+      "text": "Reich"
+    },
+    {
+      "id": "4",
+      "x": 389.7,
+      "y": 647.97,
+      "w": 187.54,
+      "h": 42.96,
+      "text": "Stamm"
+    },
+    {
+      "id": "5",
+      "x": 395.12,
+      "y": 834.28,
+      "w": 180.38,
+      "h": 42.2,
+      "text": "Klasse"
+    },
+    {
+      "id": "6",
+      "x": 388.65,
+      "y": 1019.88,
+      "w": 193.26,
+      "h": 42.2,
+      "text": "Familie"
+    },
+    {
+      "id": "7",
+      "x": 375.93,
+      "y": 1196.07,
+      "w": 215.8,
+      "h": 54.43,
+      "text": "Gattung"
+    },
+    {
+      "id": "8",
+      "x": 364.41,
+      "y": 1381.67,
+      "w": 238.6,
+      "h": 54.43,
+      "text": "Ordnung"
+    },
+    {
+      "id": "9",
+      "x": 442.42,
+      "y": 1565.81,
+      "w": 83.06,
+      "h": 42.2,
+      "text": "Art"
+    }
+  ],
+  "comment": ""
+}

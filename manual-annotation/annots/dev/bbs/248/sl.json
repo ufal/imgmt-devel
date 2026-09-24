@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "sl",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo-sl.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 322.52,
+      "y": 1417.63,
+      "w": 314.82,
+      "h": 52.67,
+      "text": "Domena"
+    },
+    {
+      "id": "2",
+      "x": 315.71,
+      "y": 1237.02,
+      "w": 329.98,
+      "h": 57.01,
+      "text": "Kraljestvo"
+    },
+    {
+      "id": "3",
+      "x": 371.83,
+      "y": 1040.81,
+      "w": 218.42,
+      "h": 54.97,
+      "text": "Deblo"
+    },
+    {
+      "id": "4",
+      "x": 347.91,
+      "y": 853.99,
+      "w": 264.1,
+      "h": 54.85,
+      "text": "Razred"
+    },
+    {
+      "id": "5",
+      "x": 408.22,
+      "y": 666.71,
+      "w": 139.41,
+      "h": 54.85,
+      "text": "Red"
+    },
+    {
+      "id": "6",
+      "x": 329.89,
+      "y": 474.9,
+      "w": 296.36,
+      "h": 58.98,
+      "text": "Družina"
+    },
+    {
+      "id": "7",
+      "x": 409.46,
+      "y": 292.23,
+      "w": 141.0,
+      "h": 54.97,
+      "text": "Rod"
+    },
+    {
+      "id": "8",
+      "x": 375.49,
+      "y": 107.76,
+      "w": 204.35,
+      "h": 52.52,
+      "text": "Vrsta"
+    },
+    {
+      "id": "9",
+      "x": 308.9,
+      "y": 1585.94,
+      "w": 338.8,
+      "h": 85.44,
+      "text": "Življenje"
+    }
+  ],
+  "comment": ""
+}

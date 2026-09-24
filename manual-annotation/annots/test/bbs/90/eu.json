@@ -1,0 +1,35 @@
+{
+  "image_id": "90",
+  "language": "eu",
+  "png": {
+    "size": {
+      "width": 868.5,
+      "height": 864
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Aldebaran-Sun_comparison_eu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Judithhh 11"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 541.12,
+      "y": 122.46,
+      "w": 170.49,
+      "h": 44.57,
+      "text": "Eguzkia"
+    },
+    {
+      "id": "1",
+      "x": 151.34,
+      "y": 431.83,
+      "w": 228.04,
+      "h": 35.74,
+      "text": "Aldebaran"
+    }
+  ],
+  "comment": ""
+}

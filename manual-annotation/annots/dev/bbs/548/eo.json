@@ -1,0 +1,75 @@
+{
+  "image_id": "548",
+  "language": "eo",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-eo.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "Ed629"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 85.19,
+      "y": 809.5,
+      "w": 212.76,
+      "h": 27.09,
+      "text": "Infraruĝa radiado"
+    },
+    {
+      "id": "2",
+      "x": 343.18,
+      "y": 665.96,
+      "w": 213.24,
+      "h": 52.29,
+      "text": "DYSON-SFERO 3 m dika"
+    },
+    {
+      "id": "3",
+      "x": 312.18,
+      "y": 443.79,
+      "w": 92.38,
+      "h": 20.4,
+      "text": "Venuso"
+    },
+    {
+      "id": "4",
+      "x": 502.04,
+      "y": 479.24,
+      "w": 99.71,
+      "h": 20.4,
+      "text": "Merkuro"
+    },
+    {
+      "id": "5",
+      "x": 477.32,
+      "y": 412.67,
+      "w": 63.18,
+      "h": 20.75,
+      "text": "Suno"
+    },
+    {
+      "id": "6",
+      "x": 465.43,
+      "y": 142.48,
+      "w": 20.49,
+      "h": 239.91,
+      "text": "Radiuso 1.5×10 m"
+    },
+    {
+      "id": "7",
+      "x": 457.76,
+      "y": 170.72,
+      "w": 13.95,
+      "h": 32.76,
+      "text": "11"
+    }
+  ],
+  "comment": ""
+}

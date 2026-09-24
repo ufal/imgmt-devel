@@ -1,0 +1,83 @@
+{
+  "image_id": "179",
+  "language": "he",
+  "png": {
+    "size": {
+      "width": 686.63,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Prokaryote_cell_diagram_he.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats. Translated by László Németh."
+    }
+  },
+  "boxes": [
+    {
+      "id": "7",
+      "x": 364.0,
+      "y": 18.0,
+      "w": 77.0,
+      "h": 15.0,
+      "text": ""
+    },
+    {
+      "id": "4",
+      "x": 269.0,
+      "y": 27.0,
+      "w": 53.0,
+      "h": 12.0,
+      "text": ""
+    },
+    {
+      "id": "5",
+      "x": 60.0,
+      "y": 31.0,
+      "w": 66.0,
+      "h": 16.0,
+      "text": ""
+    },
+    {
+      "id": "8",
+      "x": 527.0,
+      "y": 53.0,
+      "w": 86.0,
+      "h": 15.0,
+      "text": ""
+    },
+    {
+      "id": "1",
+      "x": 212.46,
+      "y": 63.67,
+      "w": 34.45,
+      "h": 9.32,
+      "text": "מזוזום"
+    },
+    {
+      "id": "6",
+      "x": 98.0,
+      "y": 67.0,
+      "w": 49.0,
+      "h": 15.0,
+      "text": ""
+    },
+    {
+      "id": "2",
+      "x": 62.4,
+      "y": 100.76,
+      "w": 106.28,
+      "h": 14.64,
+      "text": "DNA (נוקלאוטיד)"
+    },
+    {
+      "id": "3",
+      "x": 63.81,
+      "y": 134.47,
+      "w": 64.04,
+      "h": 12.0,
+      "text": "קרום התא"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,155 @@
+{
+  "image_id": "2153",
+  "language": "id",
+  "png": {
+    "size": {
+      "width": 935.56,
+      "height": 385
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Cell_membrane_detailed_diagram_id.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "LadyofHats Mariana Ruiz, traduction Pilar Saenz"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 388.17,
+      "y": 8.88,
+      "w": 148.17,
+      "h": 19.88,
+      "text": "bagian luar sel"
+    },
+    {
+      "id": "9",
+      "x": 726.64,
+      "y": 9.44,
+      "w": 72.52,
+      "h": 9.92,
+      "text": "karbohidrat"
+    },
+    {
+      "id": "7",
+      "x": 107.03,
+      "y": 15.95,
+      "w": 113.24,
+      "h": 25.09,
+      "text": "kanal protein (protein transpor)"
+    },
+    {
+      "id": "10",
+      "x": 750.47,
+      "y": 38.41,
+      "w": 100.53,
+      "h": 12.36,
+      "text": "kepala hidrofilik"
+    },
+    {
+      "id": "8",
+      "x": 118.45,
+      "y": 52.31,
+      "w": 100.83,
+      "h": 12.37,
+      "text": "protein globular"
+    },
+    {
+      "id": "4",
+      "x": 306.8,
+      "y": 58.41,
+      "w": 73.89,
+      "h": 12.37,
+      "text": "glikoprotein"
+    },
+    {
+      "id": "11",
+      "x": 811.94,
+      "y": 171.07,
+      "w": 87.5,
+      "h": 28.29,
+      "text": "lapisan ganda fosfolipid"
+    },
+    {
+      "id": "12",
+      "x": 743.19,
+      "y": 255.01,
+      "w": 56.09,
+      "h": 12.36,
+      "text": "fosfolipid"
+    },
+    {
+      "id": "3",
+      "x": 13.03,
+      "y": 262.31,
+      "w": 60.04,
+      "h": 9.92,
+      "text": "kolesterol"
+    },
+    {
+      "id": "6",
+      "x": 394.27,
+      "y": 284.85,
+      "w": 120.33,
+      "h": 12.29,
+      "text": "protein permukaan"
+    },
+    {
+      "id": "14",
+      "x": 230.44,
+      "y": 287.63,
+      "w": 141.96,
+      "h": 28.36,
+      "text": "protein transmembran (struktur globular)"
+    },
+    {
+      "id": "5",
+      "x": 36.91,
+      "y": 298.25,
+      "w": 54.86,
+      "h": 12.37,
+      "text": "glikolipid"
+    },
+    {
+      "id": "13",
+      "x": 417.02,
+      "y": 323.27,
+      "w": 143.09,
+      "h": 41.71,
+      "text": "protein transmembran (struktur heliks)"
+    },
+    {
+      "id": "15",
+      "x": 67.65,
+      "y": 329.79,
+      "w": 120.33,
+      "h": 12.29,
+      "text": "protein permukaan"
+    },
+    {
+      "id": "16",
+      "x": 144.0,
+      "y": 346.0,
+      "w": 132.0,
+      "h": 16.0,
+      "text": ""
+    },
+    {
+      "id": "17",
+      "x": 624.0,
+      "y": 347.0,
+      "w": 101.0,
+      "h": 18.0,
+      "text": ""
+    },
+    {
+      "id": "2",
+      "x": 383.89,
+      "y": 360.31,
+      "w": 107.99,
+      "h": 19.77,
+      "text": "sitoplasma"
+    }
+  ],
+  "comment": ""
+}

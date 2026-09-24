@@ -1,0 +1,67 @@
+{
+  "image_id": "548",
+  "language": "tr",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-tr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": ": en:User:Ed629"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 465.43,
+      "y": 150.8,
+      "w": 25.72,
+      "h": 233.7,
+      "text": "Yarıçap 1.5×10 m"
+    },
+    {
+      "id": "4",
+      "x": 477.55,
+      "y": 412.67,
+      "w": 80.03,
+      "h": 25.9,
+      "text": "Güneş"
+    },
+    {
+      "id": "2",
+      "x": 312.18,
+      "y": 443.66,
+      "w": 76.75,
+      "h": 20.52,
+      "text": "Venüs"
+    },
+    {
+      "id": "3",
+      "x": 502.04,
+      "y": 479.11,
+      "w": 85.54,
+      "h": 20.52,
+      "text": "Merkür"
+    },
+    {
+      "id": "6",
+      "x": 340.0,
+      "y": 662.0,
+      "w": 220.0,
+      "h": 64.0,
+      "text": "DYSON KÜRESİ"
+    },
+    {
+      "id": "1",
+      "x": 84.62,
+      "y": 809.72,
+      "w": 196.67,
+      "h": 26.44,
+      "text": "Kızılötesi Işınım"
+    }
+  ],
+  "comment": ""
+}

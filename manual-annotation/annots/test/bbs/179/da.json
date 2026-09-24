@@ -1,0 +1,91 @@
+{
+  "image_id": "179",
+  "language": "da",
+  "png": {
+    "size": {
+      "width": 654,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Average_prokaryote_cell-_da.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Translation: Broadbeer. Image: Mariana Ruiz Villarreal LadyofHats"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 222.0,
+      "y": 28.0,
+      "w": 58.0,
+      "h": 17.0,
+      "text": "Kapsel"
+    },
+    {
+      "id": "5",
+      "x": 204.02,
+      "y": 56.62,
+      "w": 74.58,
+      "h": 16.15,
+      "text": "Cellevæg"
+    },
+    {
+      "id": "4",
+      "x": 138.13,
+      "y": 85.05,
+      "w": 135.29,
+      "h": 12.52,
+      "text": "Plasmamembran"
+    },
+    {
+      "id": "3",
+      "x": 93.95,
+      "y": 121.53,
+      "w": 96.13,
+      "h": 16.15,
+      "text": "Cytoplasma"
+    },
+    {
+      "id": "2",
+      "x": 35.13,
+      "y": 162.67,
+      "w": 88.82,
+      "h": 12.52,
+      "text": "Ribosomer"
+    },
+    {
+      "id": "1",
+      "x": 37.94,
+      "y": 188.07,
+      "w": 63.63,
+      "h": 12.52,
+      "text": "Plasmid"
+    },
+    {
+      "id": "7",
+      "x": 13.0,
+      "y": 217.0,
+      "w": 42.0,
+      "h": 18.0,
+      "text": "Pilus"
+    },
+    {
+      "id": "8",
+      "x": 471.0,
+      "y": 428.0,
+      "w": 53.0,
+      "h": 20.0,
+      "text": "Flagel"
+    },
+    {
+      "id": "9",
+      "x": 462.0,
+      "y": 451.0,
+      "w": 43.0,
+      "h": 19.0,
+      "text": "DNA"
+    }
+  ],
+  "comment": ""
+}

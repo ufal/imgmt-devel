@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "ro",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-ro.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 347.8,
+      "y": 21.17,
+      "w": 371.81,
+      "h": 45.59,
+      "text": "Trompele uterine"
+    },
+    {
+      "id": "1",
+      "x": 450.14,
+      "y": 78.63,
+      "w": 170.11,
+      "h": 36.94,
+      "text": "Ovarele"
+    },
+    {
+      "id": "5",
+      "x": 490.17,
+      "y": 131.52,
+      "w": 90.96,
+      "h": 36.3,
+      "text": "Uter"
+    },
+    {
+      "id": "2",
+      "x": 287.48,
+      "y": 321.73,
+      "w": 187.45,
+      "h": 33.35,
+      "text": "Col uterin"
+    },
+    {
+      "id": "3",
+      "x": 329.32,
+      "y": 400.57,
+      "w": 120.16,
+      "h": 46.19,
+      "text": "Vagin"
+    },
+    {
+      "id": "6",
+      "x": 309.53,
+      "y": 557.43,
+      "w": 120.54,
+      "h": 36.28,
+      "text": "Vulvă"
+    }
+  ],
+  "comment": ""
+}

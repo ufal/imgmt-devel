@@ -1,0 +1,59 @@
+{
+  "image_id": "248",
+  "language": "km",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip_km.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 437.83,
+      "y": 449.01,
+      "w": 77.86,
+      "h": 56.77,
+      "text": "រជ្ជៈ"
+    },
+    {
+      "id": "2",
+      "x": 423.32,
+      "y": 815.94,
+      "w": 110.98,
+      "h": 64.97,
+      "text": "ថ្នាក់"
+    },
+    {
+      "id": "3",
+      "x": 421.02,
+      "y": 1189.66,
+      "w": 114.19,
+      "h": 65.41,
+      "text": "អំបូរ"
+    },
+    {
+      "id": "4",
+      "x": 433.79,
+      "y": 1389.79,
+      "w": 92.4,
+      "h": 52.88,
+      "text": "ពួក"
+    },
+    {
+      "id": "5",
+      "x": 387.64,
+      "y": 1577.03,
+      "w": 178.9,
+      "h": 52.88,
+      "text": "ប្រភេទ"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,99 @@
+{
+  "image_id": "65",
+  "language": "lb",
+  "png": {
+    "size": {
+      "width": 1587.43,
+      "height": 794
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Administrativ_%C3%8Bnnerdeelung_vun_D%C3%A4itschland.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.0 de",
+      "author": "glglgl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 757.97,
+      "y": 165.19,
+      "w": 71.7,
+      "h": 23.54,
+      "text": "Bond"
+    },
+    {
+      "id": "2",
+      "x": 691.26,
+      "y": 211.73,
+      "w": 205.37,
+      "h": 23.54,
+      "text": "Bundeslänner"
+    },
+    {
+      "id": "3",
+      "x": 554.6,
+      "y": 661.26,
+      "w": 160.43,
+      "h": 28.76,
+      "text": "Gemengen"
+    },
+    {
+      "id": "4",
+      "x": 265.16,
+      "y": 578.88,
+      "w": 168.18,
+      "h": 67.17,
+      "text": "(Gemenge- verbänn)"
+    },
+    {
+      "id": "5",
+      "x": 829.77,
+      "y": 613.81,
+      "w": 219.26,
+      "h": 23.7,
+      "text": "Kreesfräi Stied"
+    },
+    {
+      "id": "6",
+      "x": 423.83,
+      "y": 509.25,
+      "w": 245.05,
+      "h": 29.19,
+      "text": "(Land-)Kreesser"
+    },
+    {
+      "id": "7",
+      "x": 1059.94,
+      "y": 491.49,
+      "w": 178.88,
+      "h": 23.54,
+      "text": "Stadstaaten"
+    },
+    {
+      "id": "8",
+      "x": 532.9,
+      "y": 426.19,
+      "w": 333.35,
+      "h": 29.36,
+      "text": "(Regierungsbezierker)"
+    },
+    {
+      "id": "9",
+      "x": 176.06,
+      "y": 703.4,
+      "w": 186.99,
+      "h": 29.36,
+      "text": "(Gemengen)"
+    },
+    {
+      "id": "10",
+      "x": 731.98,
+      "y": 246.69,
+      "w": 17.04,
+      "h": 2.02,
+      "text": "Wappen des Landes Brandenburg David Liuzzo 2006"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "981",
+  "language": "bn",
+  "png": {
+    "size": {
+      "width": 640.0,
+      "height": 640.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Laser-symbol-text-bn.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 92.12,
+      "y": 546.36,
+      "w": 461.81,
+      "h": 72.47,
+      "text": "লেজার বিকিরণ"
+    }
+  ],
+  "comment": ""
+}

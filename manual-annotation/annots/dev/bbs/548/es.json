@@ -1,0 +1,67 @@
+{
+  "image_id": "548",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.5",
+      "author": "Lucien leGrey"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 84.77,
+      "y": 809.5,
+      "w": 243.0,
+      "h": 27.09,
+      "text": "Radiación infrarroja"
+    },
+    {
+      "id": "2",
+      "x": 312.0,
+      "y": 665.96,
+      "w": 274.55,
+      "h": 58.23,
+      "text": "ESFERA DE DYSON 3 m de grosor"
+    },
+    {
+      "id": "3",
+      "x": 312.18,
+      "y": 443.79,
+      "w": 76.75,
+      "h": 20.4,
+      "text": "Venus"
+    },
+    {
+      "id": "4",
+      "x": 502.04,
+      "y": 479.24,
+      "w": 105.93,
+      "h": 20.4,
+      "text": "Mercurio"
+    },
+    {
+      "id": "5",
+      "x": 477.32,
+      "y": 412.67,
+      "w": 37.29,
+      "h": 20.75,
+      "text": "Sol"
+    },
+    {
+      "id": "6",
+      "x": 465.43,
+      "y": 164.3,
+      "w": 24.12,
+      "h": 218.08,
+      "text": "Radio: 1,5×10 m"
+    }
+  ],
+  "comment": ""
+}

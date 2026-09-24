@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "fr",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=fr",
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 441.27,
+      "y": 97.68,
+      "w": 83.72,
+      "h": 42.2,
+      "text": "Vie"
+    },
+    {
+      "id": "2",
+      "x": 366.02,
+      "y": 280.38,
+      "w": 238.44,
+      "h": 42.2,
+      "text": "Domaine"
+    },
+    {
+      "id": "3",
+      "x": 399.92,
+      "y": 465.27,
+      "w": 170.69,
+      "h": 54.43,
+      "text": "Règne"
+    },
+    {
+      "id": "4",
+      "x": 375.69,
+      "y": 648.68,
+      "w": 217.5,
+      "h": 42.2,
+      "text": "Division"
+    },
+    {
+      "id": "5",
+      "x": 393.53,
+      "y": 833.57,
+      "w": 181.97,
+      "h": 42.93,
+      "text": "Classe"
+    },
+    {
+      "id": "6",
+      "x": 407.85,
+      "y": 1019.17,
+      "w": 153.11,
+      "h": 42.93,
+      "text": "Ordre"
+    },
+    {
+      "id": "7",
+      "x": 388.65,
+      "y": 1196.78,
+      "w": 193.26,
+      "h": 42.2,
+      "text": "Famille"
+    },
+    {
+      "id": "8",
+      "x": 403.26,
+      "y": 1381.67,
+      "w": 162.54,
+      "h": 42.93,
+      "text": "Genre"
+    },
+    {
+      "id": "9",
+      "x": 386.95,
+      "y": 1565.1,
+      "w": 196.61,
+      "h": 53.67,
+      "text": "Espèce"
+    }
+  ],
+  "comment": ""
+}

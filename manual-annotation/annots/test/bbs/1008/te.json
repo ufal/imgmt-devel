@@ -1,0 +1,59 @@
+{
+  "image_id": "1008",
+  "language": "te",
+  "png": {
+    "size": {
+      "width": 332.68,
+      "height": 514
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Light_cone-te.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Sakurambo\nderivative work (translation): Exmak"
+    }
+  },
+  "boxes": [
+    {
+      "id": "7",
+      "x": 173.0,
+      "y": 4.0,
+      "w": 117.0,
+      "h": 29.0,
+      "text": ""
+    },
+    {
+      "id": "4",
+      "x": 193.52,
+      "y": 91.29,
+      "w": 23.89,
+      "h": 31.99,
+      "text": "B"
+    },
+    {
+      "id": "6",
+      "x": 237.37,
+      "y": 212.52,
+      "w": 28.52,
+      "h": 33.29,
+      "text": "C"
+    },
+    {
+      "id": "2",
+      "x": 113.83,
+      "y": 248.14,
+      "w": 31.63,
+      "h": 31.99,
+      "text": "A"
+    },
+    {
+      "id": "1",
+      "x": 245.81,
+      "y": 276.95,
+      "w": 106.5,
+      "h": 23.38,
+      "text": "అంతరం"
+    }
+  ],
+  "comment": ""
+}

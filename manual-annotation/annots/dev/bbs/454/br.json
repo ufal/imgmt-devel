@@ -1,0 +1,115 @@
+{
+  "image_id": "454",
+  "language": "br",
+  "png": {
+    "size": {
+      "width": 1449.62,
+      "height": 583
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Czechoslovakia_1939_br.SVG",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "User:Themightyquill, translated by User:czesioo7"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 54.72,
+      "y": 35.16,
+      "w": 106.22,
+      "h": 25.37,
+      "text": "Alamagn"
+    },
+    {
+      "id": "10",
+      "x": 37.02,
+      "y": 83.25,
+      "w": 198.02,
+      "h": 17.99,
+      "text": "Miz Gwengolo-Du 1938"
+    },
+    {
+      "id": "6",
+      "x": 991.91,
+      "y": 84.44,
+      "w": 88.07,
+      "h": 19.92,
+      "text": "Polonia"
+    },
+    {
+      "id": "9",
+      "x": 743.44,
+      "y": 161.46,
+      "w": 122.38,
+      "h": 14.02,
+      "text": "Miz Here 1938"
+    },
+    {
+      "id": "2",
+      "x": 271.72,
+      "y": 177.49,
+      "w": 211.94,
+      "h": 54.47,
+      "text": "Gwarez-stad Bohemia-Moravia"
+    },
+    {
+      "id": "3",
+      "x": 694.88,
+      "y": 301.79,
+      "w": 194.07,
+      "h": 25.38,
+      "text": "Republik Slovak"
+    },
+    {
+      "id": "11",
+      "x": 71.24,
+      "y": 335.33,
+      "w": 144.73,
+      "h": 14.02,
+      "text": "Miz Meurzh 1939"
+    },
+    {
+      "id": "8",
+      "x": 1036.41,
+      "y": 376.4,
+      "w": 144.73,
+      "h": 14.02,
+      "text": "Miz Meurzh 1939"
+    },
+    {
+      "id": "7",
+      "x": 788.61,
+      "y": 462.65,
+      "w": 105.33,
+      "h": 14.02,
+      "text": "Miz Du 1938"
+    },
+    {
+      "id": "5",
+      "x": 1209.63,
+      "y": 491.04,
+      "w": 121.49,
+      "h": 19.92,
+      "text": "Roumania"
+    },
+    {
+      "id": "12",
+      "x": 265.0,
+      "y": 510.0,
+      "w": 93.0,
+      "h": 29.0,
+      "text": "Aostria"
+    },
+    {
+      "id": "4",
+      "x": 744.2,
+      "y": 522.53,
+      "w": 107.76,
+      "h": 25.37,
+      "text": "Hungaria"
+    }
+  ],
+  "comment": ""
+}

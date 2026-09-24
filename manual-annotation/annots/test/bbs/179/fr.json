@@ -1,0 +1,91 @@
+{
+  "image_id": "179",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 653.75,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Average_prokaryote_cell-_fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats. Translated by László Németh."
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 215.98,
+      "y": 26.11,
+      "w": 62.5,
+      "h": 18.54,
+      "text": "Capsule"
+    },
+    {
+      "id": "1",
+      "x": 139.71,
+      "y": 56.23,
+      "w": 117.65,
+      "h": 14.28,
+      "text": "Paroi cellulaire"
+    },
+    {
+      "id": "3",
+      "x": 98.68,
+      "y": 84.34,
+      "w": 175.72,
+      "h": 18.54,
+      "text": "Membrane plasmique"
+    },
+    {
+      "id": "4",
+      "x": 94.19,
+      "y": 119.13,
+      "w": 94.94,
+      "h": 18.54,
+      "text": "Cytoplasme"
+    },
+    {
+      "id": "8",
+      "x": 36.0,
+      "y": 161.0,
+      "w": 90.0,
+      "h": 20.0,
+      "text": ""
+    },
+    {
+      "id": "5",
+      "x": 19.04,
+      "y": 188.05,
+      "w": 80.79,
+      "h": 14.28,
+      "text": "Plasmides"
+    },
+    {
+      "id": "9",
+      "x": 36.0,
+      "y": 211.0,
+      "w": 27.0,
+      "h": 20.0,
+      "text": ""
+    },
+    {
+      "id": "6",
+      "x": 483.46,
+      "y": 420.93,
+      "w": 61.11,
+      "h": 18.78,
+      "text": "Flagelle"
+    },
+    {
+      "id": "7",
+      "x": 468.07,
+      "y": 453.72,
+      "w": 80.25,
+      "h": 14.28,
+      "text": "Nucleoide"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "248",
+  "language": "it",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo-it.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 380.15,
+      "y": 1238.94,
+      "w": 201.05,
+      "h": 55.06,
+      "text": "Regno"
+    }
+  ],
+  "comment": ""
+}

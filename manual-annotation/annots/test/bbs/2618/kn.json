@@ -1,0 +1,50 @@
+{
+  "image_id": "2618",
+  "language": "kn",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Chemical_precipitation_diagram_multilang.svg&lang=kn",
+    "size": {
+      "width": 871.64,
+      "height": 799
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "ZooFari"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 610.24,
+      "y": 47.25,
+      "w": 229.78,
+      "h": 45.41,
+      "text": "ದ್ರಾವಣದ ತಿ"
+    },
+    {
+      "id": "1",
+      "x": 38.87,
+      "y": 48.03,
+      "w": 146.56,
+      "h": 44.62,
+      "text": "ದ್ರಾವಣ"
+    },
+    {
+      "id": "2",
+      "x": 38.87,
+      "y": 717.42,
+      "w": 408.32,
+      "h": 44.94,
+      "text": "ದ್ರಾವಣದ ಅಂಟುಜಲ"
+    },
+    {
+      "id": "4",
+      "x": 490.46,
+      "y": 717.74,
+      "w": 350.0,
+      "h": 44.62,
+      "text": "ದ್ರಾವಕದ ತಳಪಾಕ"
+    }
+  ]
+}

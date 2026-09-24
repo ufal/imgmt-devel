@@ -1,0 +1,83 @@
+{
+  "image_id": "1632",
+  "language": "it",
+  "png": {
+    "size": {
+      "width": 1056.58,
+      "height": 1277
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Symptoms_of_AIDS-IT.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "Mikael Häggström."
+    }
+  },
+  "boxes": [
+    {
+      "id": "8",
+      "x": 203.0,
+      "y": 9.0,
+      "w": 535.0,
+      "h": 54.0,
+      "text": ""
+    },
+    {
+      "id": "7",
+      "x": 372.14,
+      "y": 75.22,
+      "w": 198.1,
+      "h": 62.7,
+      "text": "AIDS"
+    },
+    {
+      "id": "3",
+      "x": 127.35,
+      "y": 185.66,
+      "w": 242.58,
+      "h": 132.88,
+      "text": "Neurologici - Encefaliti - Meningite"
+    },
+    {
+      "id": "1",
+      "x": 187.07,
+      "y": 403.58,
+      "w": 113.18,
+      "h": 29.71,
+      "text": "Occhi"
+    },
+    {
+      "id": "2",
+      "x": 199.98,
+      "y": 445.38,
+      "w": 159.33,
+      "h": 28.55,
+      "text": "- Retiniti"
+    },
+    {
+      "id": "5",
+      "x": 13.15,
+      "y": 553.53,
+      "w": 305.23,
+      "h": 221.38,
+      "text": "Polmoni - Pneumocistosi - Tuberculosi (sistemica) - Tumori"
+    },
+    {
+      "id": "4",
+      "x": 13.11,
+      "y": 916.3,
+      "w": 156.31,
+      "h": 77.63,
+      "text": "Pelle - Tumori"
+    },
+    {
+      "id": "6",
+      "x": 10.29,
+      "y": 1066.25,
+      "w": 353.12,
+      "h": 173.46,
+      "text": "Gastrointestinali - Esofagiti - Diarrea cronica - Tumori"
+    }
+  ],
+  "comment": ""
+}

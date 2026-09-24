@@ -1,0 +1,83 @@
+{
+  "image_id": "747",
+  "language": "it",
+  "png": {
+    "size": {
+      "width": 1256.7,
+      "height": 1196
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hair_follicle-it.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "علي سمسم"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 101.0,
+      "y": 118.0,
+      "w": 205.0,
+      "h": 59.0,
+      "text": ""
+    },
+    {
+      "id": "2",
+      "x": 32.0,
+      "y": 259.0,
+      "w": 276.0,
+      "h": 116.0,
+      "text": "Superficie cutanea"
+    },
+    {
+      "id": "1",
+      "x": 166.89,
+      "y": 519.06,
+      "w": 135.18,
+      "h": 43.79,
+      "text": "Sebo"
+    },
+    {
+      "id": "4",
+      "x": 24.0,
+      "y": 653.0,
+      "w": 281.0,
+      "h": 113.0,
+      "text": ""
+    },
+    {
+      "id": "8",
+      "x": 979.0,
+      "y": 653.0,
+      "w": 236.0,
+      "h": 174.0,
+      "text": ""
+    },
+    {
+      "id": "5",
+      "x": 85.0,
+      "y": 887.0,
+      "w": 218.0,
+      "h": 55.0,
+      "text": ""
+    },
+    {
+      "id": "6",
+      "x": 171.0,
+      "y": 1012.0,
+      "w": 132.0,
+      "h": 47.0,
+      "text": ""
+    },
+    {
+      "id": "7",
+      "x": 152.0,
+      "y": 1081.0,
+      "w": 156.0,
+      "h": 51.0,
+      "text": ""
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,82 @@
+{
+  "image_id": "821",
+  "language": "ca",
+  "png": {
+    "size": {
+      "width": 232.83,
+      "height": 299
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_conducting_passages_ca.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Lord Akryl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 19.48,
+      "y": 17.52,
+      "w": 135.21,
+      "h": 10.85,
+      "text": "Tracte respiratori superior"
+    },
+    {
+      "id": "2",
+      "x": 25.73,
+      "y": 42.91,
+      "w": 67.13,
+      "h": 8.78,
+      "text": "Cavitat nasal"
+    },
+    {
+      "id": "3",
+      "x": 25.74,
+      "y": 80.54,
+      "w": 38.74,
+      "h": 10.98,
+      "text": "Faringe"
+    },
+    {
+      "id": "4",
+      "x": 25.74,
+      "y": 106.87,
+      "w": 38.2,
+      "h": 10.98,
+      "text": "Laringe"
+    },
+    {
+      "id": "5",
+      "x": 19.48,
+      "y": 135.5,
+      "w": 128.61,
+      "h": 10.99,
+      "text": "Tracte respiratori inferior"
+    },
+    {
+      "id": "6",
+      "x": 25.74,
+      "y": 161.18,
+      "w": 42.95,
+      "h": 10.89,
+      "text": "Tràquea"
+    },
+    {
+      "id": "7",
+      "x": 25.64,
+      "y": 192.82,
+      "w": 86.63,
+      "h": 10.85,
+      "text": "Bronqui principal"
+    },
+    {
+      "id": "8",
+      "x": 25.74,
+      "y": 228.51,
+      "w": 32.26,
+      "h": 8.68,
+      "text": "Pulmó"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "981",
+  "language": "ml",
+  "png": {
+    "size": {
+      "width": 640.0,
+      "height": 640.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Laser-symbol-text-ml.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 86.57,
+      "y": 559.28,
+      "w": 436.4,
+      "h": 54.04,
+      "text": "ലേസർ വികിരണം"
+    }
+  ],
+  "comment": ""
+}

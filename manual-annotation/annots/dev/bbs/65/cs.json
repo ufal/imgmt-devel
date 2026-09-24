@@ -1,0 +1,99 @@
+{
+  "image_id": "65",
+  "language": "cs",
+  "png": {
+    "size": {
+      "width": 1587.43,
+      "height": 794
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Administrativn%C3%AD_d%C4%9Blen%C3%AD_N%C4%9Bmecka.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.0 de",
+      "author": "glglgl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 728.46,
+      "y": 165.19,
+      "w": 131.99,
+      "h": 23.54,
+      "text": "Federace"
+    },
+    {
+      "id": "2",
+      "x": 679.08,
+      "y": 209.95,
+      "w": 227.17,
+      "h": 30.97,
+      "text": "Spolkové země"
+    },
+    {
+      "id": "3",
+      "x": 598.61,
+      "y": 660.66,
+      "w": 73.58,
+      "h": 23.54,
+      "text": "Obce"
+    },
+    {
+      "id": "4",
+      "x": 278.08,
+      "y": 577.1,
+      "w": 144.91,
+      "h": 68.94,
+      "text": "(Sdružení obcí)"
+    },
+    {
+      "id": "5",
+      "x": 824.54,
+      "y": 612.19,
+      "w": 231.49,
+      "h": 30.97,
+      "text": "Městské okresy"
+    },
+    {
+      "id": "6",
+      "x": 431.1,
+      "y": 507.46,
+      "w": 228.66,
+      "h": 30.97,
+      "text": "Zemské okresy"
+    },
+    {
+      "id": "7",
+      "x": 1047.7,
+      "y": 489.72,
+      "w": 206.05,
+      "h": 30.97,
+      "text": "Městské státy"
+    },
+    {
+      "id": "8",
+      "x": 581.01,
+      "y": 424.4,
+      "w": 237.17,
+      "h": 30.97,
+      "text": "(Vládní obvody)"
+    },
+    {
+      "id": "9",
+      "x": 220.07,
+      "y": 703.4,
+      "w": 98.99,
+      "h": 29.19,
+      "text": "(Obce)"
+    },
+    {
+      "id": "10",
+      "x": 731.98,
+      "y": 246.69,
+      "w": 17.04,
+      "h": 2.02,
+      "text": "Wappen des Landes Brandenburg David Liuzzo 2006"
+    }
+  ],
+  "comment": ""
+}

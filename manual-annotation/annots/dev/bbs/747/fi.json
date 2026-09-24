@@ -1,0 +1,59 @@
+{
+  "image_id": "747",
+  "language": "fi",
+  "png": {
+    "size": {
+      "width": 1383.62,
+      "height": 1196
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hair_follicle-fi.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "علي سمسم"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 194.0,
+      "y": 72.0,
+      "w": 165.0,
+      "h": 58.0,
+      "text": "Karva"
+    },
+    {
+      "id": "1",
+      "x": 42.89,
+      "y": 260.03,
+      "w": 301.49,
+      "h": 125.6,
+      "text": "Orvaskesi"
+    },
+    {
+      "id": "4",
+      "x": 79.0,
+      "y": 508.0,
+      "w": 304.0,
+      "h": 76.0,
+      "text": ""
+    },
+    {
+      "id": "5",
+      "x": 59.0,
+      "y": 637.0,
+      "w": 295.0,
+      "h": 76.0,
+      "text": ""
+    },
+    {
+      "id": "2",
+      "x": 33.25,
+      "y": 759.92,
+      "w": 306.4,
+      "h": 126.36,
+      "text": "Talirauha- nen"
+    }
+  ],
+  "comment": ""
+}

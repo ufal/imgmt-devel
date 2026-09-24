@@ -1,0 +1,67 @@
+{
+  "image_id": "548",
+  "language": "eu",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-eu.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "Xabi22"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 465.43,
+      "y": 162.57,
+      "w": 20.49,
+      "h": 219.79,
+      "text": "Erradioa: 1.5×10 m"
+    },
+    {
+      "id": "5",
+      "x": 478.28,
+      "y": 413.02,
+      "w": 96.34,
+      "h": 25.97,
+      "text": "Eguzkia"
+    },
+    {
+      "id": "3",
+      "x": 312.02,
+      "y": 443.79,
+      "w": 104.78,
+      "h": 20.4,
+      "text": "Artizarra"
+    },
+    {
+      "id": "4",
+      "x": 502.04,
+      "y": 479.24,
+      "w": 105.93,
+      "h": 20.4,
+      "text": "Merkurio"
+    },
+    {
+      "id": "1",
+      "x": 308.0,
+      "y": 655.0,
+      "w": 279.0,
+      "h": 65.0,
+      "text": "DYSONEN ESFERA 3 m-ko lodiera"
+    },
+    {
+      "id": "2",
+      "x": 71.3,
+      "y": 818.93,
+      "w": 261.93,
+      "h": 27.09,
+      "text": "Erradiazio Infragorria"
+    }
+  ],
+  "comment": ""
+}

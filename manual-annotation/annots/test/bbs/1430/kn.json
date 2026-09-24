@@ -1,0 +1,75 @@
+{
+  "image_id": "1430",
+  "language": "kn",
+  "png": {
+    "size": {
+      "width": 391.53,
+      "height": 228
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Ramjet_operation-kn.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Cryonic07. Source png-drawing was made by Emoscopes and later slighly modified by Wolfkeeper"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 137.38,
+      "y": 16.18,
+      "w": 136.86,
+      "h": 13.98,
+      "text": "ಇಂಧನ ಒಳನುಗ್ಗಿಸುವಿಕೆ"
+    },
+    {
+      "id": "3",
+      "x": 25.16,
+      "y": 17.54,
+      "w": 36.18,
+      "h": 29.17,
+      "text": "ಖಾರಿ (M>೧)"
+    },
+    {
+      "id": "1",
+      "x": 283.07,
+      "y": 21.66,
+      "w": 46.93,
+      "h": 30.32,
+      "text": "ಕೊಳವೆ (ಎಂ=೧)"
+    },
+    {
+      "id": "5",
+      "x": 184.58,
+      "y": 39.35,
+      "w": 72.32,
+      "h": 14.43,
+      "text": "ಜ್ವಾಲೆ ಹಿಡಿಕೆ"
+    },
+    {
+      "id": "2",
+      "x": 306.62,
+      "y": 174.63,
+      "w": 46.8,
+      "h": 30.54,
+      "text": "ನಿಷ್ಕಾಸ (ಎಂ>೧)"
+    },
+    {
+      "id": "7",
+      "x": 25.43,
+      "y": 174.93,
+      "w": 68.6,
+      "h": 30.32,
+      "text": "ಸಂಕೋಚನ (ಎಂ<1)"
+    },
+    {
+      "id": "6",
+      "x": 156.5,
+      "y": 176.61,
+      "w": 37.6,
+      "h": 27.36,
+      "text": "ದಹನ ಗೂಡು"
+    }
+  ],
+  "comment": ""
+}

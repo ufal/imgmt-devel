@@ -1,0 +1,83 @@
+{
+  "image_id": "821",
+  "language": "lt",
+  "png": {
+    "size": {
+      "width": 232.83,
+      "height": 299
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_conducting_passages_lt.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Lord Akryl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 19.25,
+      "y": 17.48,
+      "w": 138.65,
+      "h": 10.89,
+      "text": "Viršutiniai kvėpavimo takai"
+    },
+    {
+      "id": "2",
+      "x": 25.92,
+      "y": 44.2,
+      "w": 59.25,
+      "h": 7.46,
+      "text": "Nosies ertmė"
+    },
+    {
+      "id": "3",
+      "x": 25.58,
+      "y": 81.68,
+      "w": 24.43,
+      "h": 9.51,
+      "text": "Ryklė"
+    },
+    {
+      "id": "4",
+      "x": 25.42,
+      "y": 107.89,
+      "w": 34.42,
+      "h": 7.6,
+      "text": "Gerklos"
+    },
+    {
+      "id": "5",
+      "x": 19.18,
+      "y": 135.64,
+      "w": 133.02,
+      "h": 10.85,
+      "text": "Apatiniai kvėpavimo takai"
+    },
+    {
+      "id": "6",
+      "x": 25.71,
+      "y": 162.37,
+      "w": 38.87,
+      "h": 9.51,
+      "text": "Trachėja"
+    },
+    {
+      "id": "7",
+      "x": 25.56,
+      "y": 193.97,
+      "w": 80.36,
+      "h": 7.46,
+      "text": "Pirminis bronchas"
+    },
+    {
+      "id": "8",
+      "x": 25.62,
+      "y": 229.66,
+      "w": 34.45,
+      "h": 7.51,
+      "text": "Plaučiai"
+    }
+  ],
+  "comment": ""
+}

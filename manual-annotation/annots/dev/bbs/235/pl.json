@@ -1,0 +1,131 @@
+{
+  "image_id": "235",
+  "language": "pl",
+  "png": {
+    "size": {
+      "width": 600.0,
+      "height": 600.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:%C5%9Amia%C5%82o_modyfikuj_strony.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.5 pl",
+      "author": "Hołek"
+    }
+  },
+  "boxes": [
+    {
+      "id": "12",
+      "x": 42.0,
+      "y": 11.0,
+      "w": 155.0,
+      "h": 37.0,
+      "text": ""
+    },
+    {
+      "id": "8",
+      "x": 359.75,
+      "y": 37.6,
+      "w": 139.26,
+      "h": 38.65,
+      "text": "redigera"
+    },
+    {
+      "id": "7",
+      "x": 29.2,
+      "y": 84.99,
+      "w": 283.26,
+      "h": 31.0,
+      "text": "Seite bearbeiten"
+    },
+    {
+      "id": "14",
+      "x": 406.0,
+      "y": 104.0,
+      "w": 91.0,
+      "h": 45.0,
+      "text": ""
+    },
+    {
+      "id": "13",
+      "x": 88.0,
+      "y": 113.0,
+      "w": 432.0,
+      "h": 149.0,
+      "text": ""
+    },
+    {
+      "id": "9",
+      "x": 40.1,
+      "y": 263.65,
+      "w": 368.38,
+      "h": 44.34,
+      "text": "MODYFIKUJ"
+    },
+    {
+      "id": "6",
+      "x": 21.29,
+      "y": 291.25,
+      "w": 142.81,
+      "h": 31.19,
+      "text": "modifica"
+    },
+    {
+      "id": "5",
+      "x": 385.94,
+      "y": 308.37,
+      "w": 99.82,
+      "h": 31.0,
+      "text": "editar"
+    },
+    {
+      "id": "10",
+      "x": 279.04,
+      "y": 323.07,
+      "w": 220.08,
+      "h": 72.91,
+      "text": "strony"
+    },
+    {
+      "id": "4",
+      "x": 56.5,
+      "y": 372.19,
+      "w": 230.86,
+      "h": 38.65,
+      "text": "edytuj stronę"
+    },
+    {
+      "id": "3",
+      "x": 382.83,
+      "y": 419.13,
+      "w": 126.41,
+      "h": 31.0,
+      "text": "bewerk"
+    },
+    {
+      "id": "11",
+      "x": 62.43,
+      "y": 441.42,
+      "w": 470.13,
+      "h": 54.61,
+      "text": "www.wikipedia.org"
+    },
+    {
+      "id": "2",
+      "x": 36.59,
+      "y": 472.79,
+      "w": 141.13,
+      "h": 31.19,
+      "text": "modifier"
+    },
+    {
+      "id": "1",
+      "x": 233.46,
+      "y": 509.61,
+      "w": 237.5,
+      "h": 38.65,
+      "text": "edit this page"
+    }
+  ],
+  "comment": "Image contains texts in more than one language - delete from dataset?"
+}

@@ -1,0 +1,43 @@
+{
+  "image_id": "3213",
+  "language": "id",
+  "png": {
+    "size": {
+      "width": 158,
+      "height": 158
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Function_machine2.svg?lang=id",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Wvbailey (talk)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 2.81,
+      "y": 2.74,
+      "w": 14.86,
+      "h": 1.91,
+      "text": "MASUKAN x"
+    },
+    {
+      "id": "2",
+      "x": 7.22,
+      "y": 13.79,
+      "w": 12.2,
+      "h": 1.97,
+      "text": "FUNGSI f:"
+    },
+    {
+      "id": "3",
+      "x": 12.98,
+      "y": 24.57,
+      "w": 15.45,
+      "h": 2.44,
+      "text": "LUARAN f(x)"
+    }
+  ],
+  "comment": ""
+}

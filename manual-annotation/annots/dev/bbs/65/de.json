@@ -1,0 +1,107 @@
+{
+  "image_id": "65",
+  "language": "de",
+  "png": {
+    "size": {
+      "width": 1587.43,
+      "height": 794
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Administrative_Gliederung_Deutschlands.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 2.0 de",
+      "author": "glglgl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 757.57,
+      "y": 165.19,
+      "w": 72.49,
+      "h": 23.54,
+      "text": "Bund"
+    },
+    {
+      "id": "2",
+      "x": 691.41,
+      "y": 211.73,
+      "w": 205.07,
+      "h": 23.54,
+      "text": "Bundesländer"
+    },
+    {
+      "id": "11",
+      "x": 731.98,
+      "y": 246.69,
+      "w": 17.04,
+      "h": 2.02,
+      "text": "Wappen des Landes Brandenburg David Liuzzo 2006"
+    },
+    {
+      "id": "9",
+      "x": 689.13,
+      "y": 368.36,
+      "w": 209.35,
+      "h": 23.54,
+      "text": "Flächenländer"
+    },
+    {
+      "id": "8",
+      "x": 548.43,
+      "y": 426.19,
+      "w": 302.3,
+      "h": 29.36,
+      "text": "(Regierungsbezirke)"
+    },
+    {
+      "id": "7",
+      "x": 1053.96,
+      "y": 491.49,
+      "w": 190.85,
+      "h": 23.54,
+      "text": "Stadtstaaten"
+    },
+    {
+      "id": "6",
+      "x": 443.12,
+      "y": 509.25,
+      "w": 204.9,
+      "h": 29.19,
+      "text": "(Land-)Kreise"
+    },
+    {
+      "id": "4",
+      "x": 261.0,
+      "y": 578.88,
+      "w": 176.52,
+      "h": 67.17,
+      "text": "(Gemeinde- verbände)"
+    },
+    {
+      "id": "5",
+      "x": 814.74,
+      "y": 613.81,
+      "w": 250.59,
+      "h": 23.7,
+      "text": "Kreisfreie Städte"
+    },
+    {
+      "id": "3",
+      "x": 550.44,
+      "y": 660.66,
+      "w": 168.77,
+      "h": 23.54,
+      "text": "Gemeinden"
+    },
+    {
+      "id": "10",
+      "x": 171.9,
+      "y": 703.4,
+      "w": 195.33,
+      "h": 29.19,
+      "text": "(Gemeinden)"
+    }
+  ],
+  "comment": ""
+}

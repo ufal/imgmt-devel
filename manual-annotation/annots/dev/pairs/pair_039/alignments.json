@@ -1,0 +1,46 @@
+{
+  "image_id": "248",
+  "src_lang": "es",
+  "tgt_lang": "sl",
+  "alignment_method": "unambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    },
+    {
+      "src_box": "2",
+      "tgt_box": "2"
+    },
+    {
+      "src_box": "3",
+      "tgt_box": "3"
+    },
+    {
+      "src_box": "4",
+      "tgt_box": "4"
+    },
+    {
+      "src_box": "5",
+      "tgt_box": "5"
+    },
+    {
+      "src_box": "6",
+      "tgt_box": "6"
+    },
+    {
+      "src_box": "7",
+      "tgt_box": "7"
+    },
+    {
+      "src_box": "8",
+      "tgt_box": "8"
+    },
+    {
+      "src_box": "9",
+      "tgt_box": "9"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": ""
+}

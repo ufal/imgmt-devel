@@ -1,0 +1,35 @@
+{
+  "image_id": "1120",
+  "language": "nl",
+  "png": {
+    "size": {
+      "width": 715.66,
+      "height": 404
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Mature_flower_diagram-nl.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats, translated to Czech language by Michal Maňas (User:Snek01, rearragned and improved by User:Nefronus)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 126.16,
+      "y": 233.36,
+      "w": 112.16,
+      "h": 15.65,
+      "text": "kelk, kelkblad"
+    },
+    {
+      "id": "2",
+      "x": 126.23,
+      "y": 214.07,
+      "w": 139.5,
+      "h": 15.65,
+      "text": "kroon, kroonblad"
+    }
+  ],
+  "comment": ""
+}

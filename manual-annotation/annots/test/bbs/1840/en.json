@@ -1,0 +1,67 @@
+{
+  "image_id": "1840",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 1700.27,
+      "height": 1992.5333
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Zonal_Councils.svg&lang=en",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 349.0,
+      "y": 659.0,
+      "w": 195.0,
+      "h": 45.0,
+      "text": "Northern"
+    },
+    {
+      "id": "2",
+      "x": 1252.0,
+      "y": 749.0,
+      "w": 298.0,
+      "h": 45.0,
+      "text": "North Eastern"
+    },
+    {
+      "id": "1",
+      "x": 674.0,
+      "y": 844.0,
+      "w": 165.0,
+      "h": 45.0,
+      "text": "Central"
+    },
+    {
+      "id": "3",
+      "x": 1000.0,
+      "y": 932.0,
+      "w": 163.0,
+      "h": 43.0,
+      "text": "Eastern"
+    },
+    {
+      "id": "5",
+      "x": 384.0,
+      "y": 1105.0,
+      "w": 179.0,
+      "h": 43.0,
+      "text": "Western"
+    },
+    {
+      "id": "4",
+      "x": 464.0,
+      "y": 1466.0,
+      "w": 238.0,
+      "h": 43.0,
+      "text": "Southern"
+    }
+  ],
+  "comment": ""
+}

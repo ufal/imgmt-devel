@@ -1,0 +1,131 @@
+{
+  "image_id": "983",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 1067,
+      "height": 443
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Sch%C3%A9ma_coupe_feuille.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Unknown",
+      "author": "Unknown"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 4.83,
+      "y": 7.58,
+      "w": 77.4,
+      "h": 16.48,
+      "text": "Cuticule"
+    },
+    {
+      "id": "6",
+      "x": 6.91,
+      "y": 47.82,
+      "w": 92.44,
+      "h": 46.15,
+      "text": "Épiderme supérieur"
+    },
+    {
+      "id": "7",
+      "x": 6.47,
+      "y": 105.8,
+      "w": 121.8,
+      "h": 42.21,
+      "text": "Parenchyme palissadique"
+    },
+    {
+      "id": "12",
+      "x": 793.82,
+      "y": 145.66,
+      "w": 72.31,
+      "h": 20.64,
+      "text": "Xylème"
+    },
+    {
+      "id": "14",
+      "x": 902.84,
+      "y": 148.32,
+      "w": 159.2,
+      "h": 38.11,
+      "text": "Faisceau cribro-vasculaire"
+    },
+    {
+      "id": "13",
+      "x": 794.13,
+      "y": 186.9,
+      "w": 84.13,
+      "h": 16.28,
+      "text": "Phloème"
+    },
+    {
+      "id": "8",
+      "x": 12.88,
+      "y": 226.93,
+      "w": 120.93,
+      "h": 38.11,
+      "text": "Parenchyme lacuneux"
+    },
+    {
+      "id": "1",
+      "x": 349.57,
+      "y": 300.19,
+      "w": 28.45,
+      "h": 15.61,
+      "text": "CO"
+    },
+    {
+      "id": "4",
+      "x": 440.78,
+      "y": 300.67,
+      "w": 15.38,
+      "h": 15.61,
+      "text": "O"
+    },
+    {
+      "id": "2",
+      "x": 379.23,
+      "y": 309.81,
+      "w": 6.78,
+      "h": 9.62,
+      "text": "2"
+    },
+    {
+      "id": "3",
+      "x": 457.21,
+      "y": 309.81,
+      "w": 6.78,
+      "h": 9.62,
+      "text": "2"
+    },
+    {
+      "id": "9",
+      "x": 15.5,
+      "y": 333.81,
+      "w": 91.66,
+      "h": 42.06,
+      "text": "Épiderme inférieur"
+    },
+    {
+      "id": "10",
+      "x": 317.88,
+      "y": 413.54,
+      "w": 79.95,
+      "h": 16.48,
+      "text": "Stomate"
+    },
+    {
+      "id": "11",
+      "x": 426.24,
+      "y": 415.47,
+      "w": 200.46,
+      "h": 20.56,
+      "text": "Cellules stomatiques"
+    }
+  ],
+  "comment": ""
+}

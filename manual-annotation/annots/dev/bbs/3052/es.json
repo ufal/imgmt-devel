@@ -1,0 +1,27 @@
+{
+  "image_id": "3052",
+  "language": "es",
+  "png": {
+    "size": {
+      "width": 580.0,
+      "height": 580
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:No_drink_sign-es.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "Донор"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 249.17,
+      "y": 357.67,
+      "w": 88.98,
+      "h": 45.02,
+      "text": "VINO"
+    }
+  ],
+  "comment": ""
+}

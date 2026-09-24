@@ -1,0 +1,59 @@
+{
+  "image_id": "2136",
+  "language": "hi",
+  "png": {
+    "size": {
+      "width": 752.35,
+      "height": 775.25958
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Breastshot_water_wheel_schematic-hi.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 4.0",
+      "author": "user:Pankaj_dsc"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 38.27,
+      "y": 14.94,
+      "w": 285.79,
+      "h": 34.71,
+      "text": "ब्रेस्टशॉट पानी का पहिया"
+    },
+    {
+      "id": "2",
+      "x": 66.56,
+      "y": 98.95,
+      "w": 117.03,
+      "h": 24.38,
+      "text": "पानी का प्रवाह"
+    },
+    {
+      "id": "3",
+      "x": -0.44,
+      "y": 346.22,
+      "w": 60.47,
+      "h": 24.79,
+      "text": "हेड रेस"
+    },
+    {
+      "id": "4",
+      "x": 695.04,
+      "y": 420.69,
+      "w": 24.79,
+      "h": 105.65,
+      "text": "व्हील रोटेशन"
+    },
+    {
+      "id": "5",
+      "x": 596.39,
+      "y": 681.22,
+      "w": 65.69,
+      "h": 27.41,
+      "text": "ट्रेल रेस"
+    }
+  ],
+  "comment": ""
+}

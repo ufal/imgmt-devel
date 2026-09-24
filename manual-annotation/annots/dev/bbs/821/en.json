@@ -1,0 +1,83 @@
+{
+  "image_id": "821",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 232.83,
+      "height": 299
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_conducting_passages.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Lord Akryl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 20.13,
+      "y": 17.52,
+      "w": 116.94,
+      "h": 10.98,
+      "text": "Upper respiratory tract"
+    },
+    {
+      "id": "2",
+      "x": 26.04,
+      "y": 43.06,
+      "w": 62.91,
+      "h": 10.98,
+      "text": "Nasal cavity"
+    },
+    {
+      "id": "3",
+      "x": 25.69,
+      "y": 80.54,
+      "w": 42.5,
+      "h": 10.98,
+      "text": "Pharynx"
+    },
+    {
+      "id": "4",
+      "x": 25.74,
+      "y": 106.87,
+      "w": 34.64,
+      "h": 10.98,
+      "text": "Larynx"
+    },
+    {
+      "id": "5",
+      "x": 20.07,
+      "y": 135.64,
+      "w": 117.01,
+      "h": 10.98,
+      "text": "Lower respiratory tract"
+    },
+    {
+      "id": "6",
+      "x": 25.74,
+      "y": 161.23,
+      "w": 42.28,
+      "h": 8.63,
+      "text": "Trachea"
+    },
+    {
+      "id": "7",
+      "x": 25.69,
+      "y": 192.82,
+      "w": 81.31,
+      "h": 10.98,
+      "text": "Primary bronchi"
+    },
+    {
+      "id": "8",
+      "x": 25.7,
+      "y": 228.56,
+      "w": 30.99,
+      "h": 10.98,
+      "text": "Lungs"
+    }
+  ],
+  "comment": ""
+}

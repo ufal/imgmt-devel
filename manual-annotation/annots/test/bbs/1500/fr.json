@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 357.23,
+      "y": 27.76,
+      "w": 352.01,
+      "h": 36.62,
+      "text": "Trompes de Fallope"
+    },
+    {
+      "id": "2",
+      "x": 465.89,
+      "y": 82.72,
+      "w": 134.49,
+      "h": 29.66,
+      "text": "Ovaires"
+    },
+    {
+      "id": "3",
+      "x": 476.51,
+      "y": 131.07,
+      "w": 113.24,
+      "h": 29.3,
+      "text": "Utérus"
+    },
+    {
+      "id": "4",
+      "x": 306.0,
+      "y": 301.0,
+      "w": 129.0,
+      "h": 75.0,
+      "text": "Col de l'utérus"
+    },
+    {
+      "id": "5",
+      "x": 347.3,
+      "y": 415.23,
+      "w": 96.51,
+      "h": 37.09,
+      "text": "Vagin"
+    },
+    {
+      "id": "6",
+      "x": 330.29,
+      "y": 555.75,
+      "w": 96.83,
+      "h": 29.13,
+      "text": "Vulve"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,75 @@
+{
+  "image_id": "1430",
+  "language": "he",
+  "png": {
+    "size": {
+      "width": 391.53,
+      "height": 228
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Ramjet_operation_he.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Cryonic07. Source png-drawing was made by Emoscopes and later slighly modified by Wolfkeeper"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 137.57,
+      "y": 17.83,
+      "w": 97.71,
+      "h": 12.14,
+      "text": "מערכת הזרקת דלק"
+    },
+    {
+      "id": "3",
+      "x": 25.32,
+      "y": 20.27,
+      "w": 33.74,
+      "h": 26.45,
+      "text": "כניסה (M>1)"
+    },
+    {
+      "id": "1",
+      "x": 282.68,
+      "y": 25.65,
+      "w": 40.75,
+      "h": 26.34,
+      "text": "זרבובית (M=1)"
+    },
+    {
+      "id": "5",
+      "x": 184.77,
+      "y": 41.29,
+      "w": 62.66,
+      "h": 12.14,
+      "text": "מחזיק להבה"
+    },
+    {
+      "id": "2",
+      "x": 306.65,
+      "y": 176.29,
+      "w": 58.99,
+      "h": 28.88,
+      "text": "צינור פליטה (M>1)"
+    },
+    {
+      "id": "7",
+      "x": 25.46,
+      "y": 178.81,
+      "w": 33.74,
+      "h": 26.45,
+      "text": "דחיסה (M<1)"
+    },
+    {
+      "id": "6",
+      "x": 156.69,
+      "y": 180.24,
+      "w": 50.02,
+      "h": 7.59,
+      "text": "תא בעירה"
+    }
+  ],
+  "comment": ""
+}

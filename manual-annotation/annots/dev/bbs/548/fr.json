@@ -1,0 +1,67 @@
+{
+  "image_id": "548",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Isaac Sanolnacov"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 84.77,
+      "y": 809.5,
+      "w": 281.05,
+      "h": 27.09,
+      "text": "Radiations infrarouges"
+    },
+    {
+      "id": "2",
+      "x": 336.41,
+      "y": 665.97,
+      "w": 225.1,
+      "h": 57.86,
+      "text": "Sphère de Dyson 3 m d'épaisseur"
+    },
+    {
+      "id": "3",
+      "x": 312.18,
+      "y": 443.68,
+      "w": 78.29,
+      "h": 20.51,
+      "text": "Vénus"
+    },
+    {
+      "id": "4",
+      "x": 502.04,
+      "y": 479.24,
+      "w": 99.58,
+      "h": 20.4,
+      "text": "Mercure"
+    },
+    {
+      "id": "5",
+      "x": 477.32,
+      "y": 412.67,
+      "w": 65.34,
+      "h": 20.75,
+      "text": "Soleil"
+    },
+    {
+      "id": "6",
+      "x": 465.43,
+      "y": 164.3,
+      "w": 26.05,
+      "h": 218.08,
+      "text": "Rayon 1.5×10 m"
+    }
+  ],
+  "comment": ""
+}

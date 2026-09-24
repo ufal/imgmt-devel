@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "it",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-it.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 355.84,
+      "y": 22.56,
+      "w": 353.32,
+      "h": 42.66,
+      "text": "Tube di Falloppio"
+    },
+    {
+      "id": "2",
+      "x": 466.58,
+      "y": 78.53,
+      "w": 133.21,
+      "h": 34.56,
+      "text": "Ovarie"
+    },
+    {
+      "id": "3",
+      "x": 478.89,
+      "y": 138.58,
+      "w": 108.68,
+      "h": 33.95,
+      "text": "Utero"
+    },
+    {
+      "id": "4",
+      "x": 349.78,
+      "y": 321.53,
+      "w": 140.32,
+      "h": 31.5,
+      "text": "Cervice"
+    },
+    {
+      "id": "5",
+      "x": 306.94,
+      "y": 401.32,
+      "w": 139.61,
+      "h": 43.21,
+      "text": "Vagina"
+    },
+    {
+      "id": "6",
+      "x": 313.19,
+      "y": 558.33,
+      "w": 112.79,
+      "h": 33.94,
+      "text": "Vulva"
+    }
+  ],
+  "comment": ""
+}

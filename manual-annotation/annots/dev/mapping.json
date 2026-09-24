@@ -1,0 +1,702 @@
+{
+  "pair_001": {
+    "image_id": "1120",
+    "src_lang": "he",
+    "tgt_lang": "nl",
+    "orig_json": "1120/he-nl.json",
+    "annotator": "mn-dev"
+  },
+  "pair_002": {
+    "image_id": "65",
+    "src_lang": "cs",
+    "tgt_lang": "lb",
+    "orig_json": "65/cs-lb.json",
+    "annotator": "mn-dev"
+  },
+  "pair_003": {
+    "image_id": "248",
+    "src_lang": "cs",
+    "tgt_lang": "pt",
+    "orig_json": "248/cs-pt.json",
+    "annotator": "mn-dev"
+  },
+  "pair_004": {
+    "image_id": "72",
+    "src_lang": "fr",
+    "tgt_lang": "ru",
+    "orig_json": "72/fr-ru.json",
+    "annotator": "mn-dev"
+  },
+  "pair_005": {
+    "image_id": "548",
+    "src_lang": "gu",
+    "tgt_lang": "te",
+    "orig_json": "548/gu-te.json",
+    "annotator": "mn-dev"
+  },
+  "pair_006": {
+    "image_id": "2251",
+    "src_lang": "de",
+    "tgt_lang": "fr",
+    "orig_json": "2251/de-fr.json",
+    "annotator": "mn-dev"
+  },
+  "pair_007": {
+    "image_id": "240",
+    "src_lang": "es",
+    "tgt_lang": "ru",
+    "orig_json": "240/es-ru.json",
+    "annotator": "mn-dev"
+  },
+  "pair_008": {
+    "image_id": "248",
+    "src_lang": "es",
+    "tgt_lang": "my",
+    "orig_json": "248/es-my.json",
+    "annotator": "mn-dev"
+  },
+  "pair_009": {
+    "image_id": "548",
+    "src_lang": "es",
+    "tgt_lang": "ml",
+    "orig_json": "548/es-ml.json",
+    "annotator": "mn-dev"
+  },
+  "pair_010": {
+    "image_id": "981",
+    "src_lang": "bn",
+    "tgt_lang": "mr",
+    "orig_json": "981/bn-mr.json",
+    "annotator": "mn-dev"
+  },
+  "pair_011": {
+    "image_id": "248",
+    "src_lang": "es",
+    "tgt_lang": "ku",
+    "orig_json": "248/es-ku.json",
+    "annotator": "mn-dev"
+  },
+  "pair_012": {
+    "image_id": "1064",
+    "src_lang": "pt",
+    "tgt_lang": "uk",
+    "orig_json": "1064/pt-uk.json",
+    "annotator": "mn-dev"
+  },
+  "pair_013": {
+    "image_id": "352",
+    "src_lang": "en",
+    "tgt_lang": "it",
+    "orig_json": "352/en-it.json",
+    "annotator": "mn-dev"
+  },
+  "pair_014": {
+    "image_id": "240",
+    "src_lang": "as",
+    "tgt_lang": "ru",
+    "orig_json": "240/as-ru.json",
+    "annotator": "mn-dev"
+  },
+  "pair_015": {
+    "image_id": "548",
+    "src_lang": "hi",
+    "tgt_lang": "te",
+    "orig_json": "548/hi-te.json",
+    "annotator": "mn-dev"
+  },
+  "pair_016": {
+    "image_id": "212",
+    "src_lang": "ru",
+    "tgt_lang": "uk",
+    "orig_json": "212/ru-uk.json",
+    "annotator": "mn-dev"
+  },
+  "pair_017": {
+    "image_id": "248",
+    "src_lang": "it",
+    "tgt_lang": "nl",
+    "orig_json": "248/it-nl.json",
+    "annotator": "mn-dev"
+  },
+  "pair_018": {
+    "image_id": "72",
+    "src_lang": "es",
+    "tgt_lang": "la",
+    "orig_json": "72/es-la.json",
+    "annotator": "mn-dev"
+  },
+  "pair_019": {
+    "image_id": "248",
+    "src_lang": "fr",
+    "tgt_lang": "sk",
+    "orig_json": "248/fr-sk.json",
+    "annotator": "mn-dev"
+  },
+  "pair_020": {
+    "image_id": "1120",
+    "src_lang": "be",
+    "tgt_lang": "te",
+    "orig_json": "1120/be-te.json",
+    "annotator": "mn-dev"
+  },
+  "pair_021": {
+    "image_id": "548",
+    "src_lang": "as",
+    "tgt_lang": "ml",
+    "orig_json": "548/as-ml.json",
+    "annotator": "mn-dev"
+  },
+  "pair_022": {
+    "image_id": "248",
+    "src_lang": "fr",
+    "tgt_lang": "pt",
+    "orig_json": "248/fr-pt.json",
+    "annotator": "mn-dev"
+  },
+  "pair_023": {
+    "image_id": "1064",
+    "src_lang": "en",
+    "tgt_lang": "es",
+    "orig_json": "1064/en-es.json",
+    "annotator": "mn-dev"
+  },
+  "pair_024": {
+    "image_id": "1966",
+    "src_lang": "as",
+    "tgt_lang": "kn",
+    "orig_json": "1966/as-kn.json",
+    "annotator": "mn-dev"
+  },
+  "pair_025": {
+    "image_id": "240",
+    "src_lang": "no",
+    "tgt_lang": "zh_hans",
+    "orig_json": "240/no-zh_hans.json",
+    "annotator": "mn-dev"
+  },
+  "pair_026": {
+    "image_id": "433",
+    "src_lang": "fr",
+    "tgt_lang": "he",
+    "orig_json": "433/fr-he.json",
+    "annotator": "mn-dev"
+  },
+  "pair_027": {
+    "image_id": "248",
+    "src_lang": "br",
+    "tgt_lang": "nl",
+    "orig_json": "248/br-nl.json",
+    "annotator": "mn-dev"
+  },
+  "pair_028": {
+    "image_id": "1895",
+    "src_lang": "en",
+    "tgt_lang": "te",
+    "orig_json": "1895/en-te.json",
+    "annotator": "mn-dev"
+  },
+  "pair_029": {
+    "image_id": "72",
+    "src_lang": "de",
+    "tgt_lang": "ru",
+    "orig_json": "72/de-ru.json",
+    "annotator": "mn-dev"
+  },
+  "pair_030": {
+    "image_id": "1314",
+    "src_lang": "en",
+    "tgt_lang": "ko",
+    "orig_json": "1314/en-ko.json",
+    "annotator": "mn-dev"
+  },
+  "pair_031": {
+    "image_id": "1895",
+    "src_lang": "gu",
+    "tgt_lang": "te",
+    "orig_json": "1895/gu-te.json",
+    "annotator": "mn-dev"
+  },
+  "pair_032": {
+    "image_id": "240",
+    "src_lang": "fr",
+    "tgt_lang": "zh_hans",
+    "orig_json": "240/fr-zh_hans.json",
+    "annotator": "mn-dev"
+  },
+  "pair_033": {
+    "image_id": "1115",
+    "src_lang": "bn",
+    "tgt_lang": "hi",
+    "orig_json": "1115/bn-hi.json",
+    "annotator": "mn-dev"
+  },
+  "pair_034": {
+    "image_id": "548",
+    "src_lang": "fr",
+    "tgt_lang": "te",
+    "orig_json": "548/fr-te.json",
+    "annotator": "mn-dev"
+  },
+  "pair_035": {
+    "image_id": "821",
+    "src_lang": "hu",
+    "tgt_lang": "pl",
+    "orig_json": "821/hu-pl.json",
+    "annotator": "mn-dev"
+  },
+  "pair_036": {
+    "image_id": "240",
+    "src_lang": "eo",
+    "tgt_lang": "zh_hans",
+    "orig_json": "240/eo-zh_hans.json",
+    "annotator": "mn-dev"
+  },
+  "pair_037": {
+    "image_id": "248",
+    "src_lang": "az",
+    "tgt_lang": "fr",
+    "orig_json": "248/az-fr.json",
+    "annotator": "mn-dev"
+  },
+  "pair_038": {
+    "image_id": "248",
+    "src_lang": "de",
+    "tgt_lang": "my",
+    "orig_json": "248/de-my.json",
+    "annotator": "mn-dev"
+  },
+  "pair_039": {
+    "image_id": "248",
+    "src_lang": "es",
+    "tgt_lang": "sl",
+    "orig_json": "248/es-sl.json",
+    "annotator": "mn-dev"
+  },
+  "pair_040": {
+    "image_id": "821",
+    "src_lang": "en",
+    "tgt_lang": "lt",
+    "orig_json": "821/en-lt.json",
+    "annotator": "mn-dev"
+  },
+  "pair_041": {
+    "image_id": "598",
+    "src_lang": "hu",
+    "tgt_lang": "ru",
+    "orig_json": "598/hu-ru.json",
+    "annotator": "mn-dev"
+  },
+  "pair_042": {
+    "image_id": "240",
+    "src_lang": "es",
+    "tgt_lang": "zh_hans",
+    "orig_json": "240/es-zh_hans.json",
+    "annotator": "mn-dev"
+  },
+  "pair_043": {
+    "image_id": "248",
+    "src_lang": "id",
+    "tgt_lang": "sk",
+    "orig_json": "248/id-sk.json",
+    "annotator": "mn-dev"
+  },
+  "pair_044": {
+    "image_id": "767",
+    "src_lang": "en",
+    "tgt_lang": "fr",
+    "orig_json": "767/en-fr.json",
+    "annotator": "mn-dev"
+  },
+  "pair_045": {
+    "image_id": "565",
+    "src_lang": "ml",
+    "tgt_lang": "ta",
+    "orig_json": "565/ml-ta.json",
+    "annotator": "mn-dev"
+  },
+  "pair_046": {
+    "image_id": "240",
+    "src_lang": "eo",
+    "tgt_lang": "is",
+    "orig_json": "240/eo-is.json",
+    "annotator": "mn-dev"
+  },
+  "pair_047": {
+    "image_id": "548",
+    "src_lang": "as",
+    "tgt_lang": "eo",
+    "orig_json": "548/as-eo.json",
+    "annotator": "mn-dev"
+  },
+  "pair_048": {
+    "image_id": "352",
+    "src_lang": "es",
+    "tgt_lang": "ur",
+    "orig_json": "352/es-ur.json",
+    "annotator": "mn-dev"
+  },
+  "pair_049": {
+    "image_id": "2426",
+    "src_lang": "en",
+    "tgt_lang": "mkd",
+    "orig_json": "2426/en-mkd.json",
+    "annotator": "mn-dev"
+  },
+  "pair_050": {
+    "image_id": "2540",
+    "src_lang": "en",
+    "tgt_lang": "pa",
+    "orig_json": "2540/en-pa.json",
+    "annotator": "mn-dev"
+  },
+  "pair_051": {
+    "image_id": "821",
+    "src_lang": "bg",
+    "tgt_lang": "zh_hans",
+    "orig_json": "821/bg-zh_hans.json",
+    "annotator": "su-dev"
+  },
+  "pair_052": {
+    "image_id": "248",
+    "src_lang": "mkd",
+    "tgt_lang": "ml",
+    "orig_json": "248/mkd-ml.json",
+    "annotator": "su-dev"
+  },
+  "pair_053": {
+    "image_id": "2645",
+    "src_lang": "pa",
+    "tgt_lang": "sat",
+    "orig_json": "2645/pa-sat.json",
+    "annotator": "su-dev"
+  },
+  "pair_054": {
+    "image_id": "1007",
+    "src_lang": "es",
+    "tgt_lang": "pt",
+    "orig_json": "1007/es-pt.json",
+    "annotator": "su-dev"
+  },
+  "pair_055": {
+    "image_id": "1115",
+    "src_lang": "gu",
+    "tgt_lang": "ml",
+    "orig_json": "1115/gu-ml.json",
+    "annotator": "su-dev"
+  },
+  "pair_056": {
+    "image_id": "3052",
+    "src_lang": "es",
+    "tgt_lang": "ru",
+    "orig_json": "3052/es-ru.json",
+    "annotator": "su-dev"
+  },
+  "pair_057": {
+    "image_id": "454",
+    "src_lang": "br",
+    "tgt_lang": "pt",
+    "orig_json": "454/br-pt.json",
+    "annotator": "su-dev"
+  },
+  "pair_058": {
+    "image_id": "981",
+    "src_lang": "ml",
+    "tgt_lang": "sat",
+    "orig_json": "981/ml-sat.json",
+    "annotator": "su-dev"
+  },
+  "pair_059": {
+    "image_id": "248",
+    "src_lang": "km",
+    "tgt_lang": "sv",
+    "orig_json": "248/km-sv.json",
+    "annotator": "su-dev"
+  },
+  "pair_060": {
+    "image_id": "548",
+    "src_lang": "hu",
+    "tgt_lang": "tr",
+    "orig_json": "548/hu-tr.json",
+    "annotator": "su-dev"
+  },
+  "pair_061": {
+    "image_id": "819",
+    "src_lang": "kn",
+    "tgt_lang": "te",
+    "orig_json": "819/kn-te.json",
+    "annotator": "su-dev"
+  },
+  "pair_062": {
+    "image_id": "1120",
+    "src_lang": "ar",
+    "tgt_lang": "pa",
+    "orig_json": "1120/ar-pa.json",
+    "annotator": "su-dev"
+  },
+  "pair_063": {
+    "image_id": "248",
+    "src_lang": "be",
+    "tgt_lang": "is",
+    "orig_json": "248/be-is.json",
+    "annotator": "su-dev"
+  },
+  "pair_064": {
+    "image_id": "72",
+    "src_lang": "en",
+    "tgt_lang": "ka",
+    "orig_json": "72/en-ka.json",
+    "annotator": "su-dev"
+  },
+  "pair_065": {
+    "image_id": "240",
+    "src_lang": "cs",
+    "tgt_lang": "eu",
+    "orig_json": "240/cs-eu.json",
+    "annotator": "su-dev"
+  },
+  "pair_066": {
+    "image_id": "212",
+    "src_lang": "eo",
+    "tgt_lang": "es",
+    "orig_json": "212/eo-es.json",
+    "annotator": "su-dev"
+  },
+  "pair_067": {
+    "image_id": "2421",
+    "src_lang": "af",
+    "tgt_lang": "en",
+    "orig_json": "2421/af-en.json",
+    "annotator": "su-dev"
+  },
+  "pair_068": {
+    "image_id": "985",
+    "src_lang": "te",
+    "tgt_lang": "zh_hant",
+    "orig_json": "985/te-zh_hant.json",
+    "annotator": "su-dev"
+  },
+  "pair_069": {
+    "image_id": "212",
+    "src_lang": "eo",
+    "tgt_lang": "eu",
+    "orig_json": "212/eo-eu.json",
+    "annotator": "su-dev"
+  },
+  "pair_070": {
+    "image_id": "240",
+    "src_lang": "mr",
+    "tgt_lang": "tr",
+    "orig_json": "240/mr-tr.json",
+    "annotator": "su-dev"
+  },
+  "pair_071": {
+    "image_id": "352",
+    "src_lang": "as",
+    "tgt_lang": "gu",
+    "orig_json": "352/as-gu.json",
+    "annotator": "su-dev"
+  },
+  "pair_072": {
+    "image_id": "248",
+    "src_lang": "is",
+    "tgt_lang": "tl",
+    "orig_json": "248/is-tl.json",
+    "annotator": "su-dev"
+  },
+  "pair_073": {
+    "image_id": "2645",
+    "src_lang": "bn",
+    "tgt_lang": "pa",
+    "orig_json": "2645/bn-pa.json",
+    "annotator": "su-dev"
+  },
+  "pair_074": {
+    "image_id": "72",
+    "src_lang": "en",
+    "tgt_lang": "uk",
+    "orig_json": "72/en-uk.json",
+    "annotator": "su-dev"
+  },
+  "pair_075": {
+    "image_id": "747",
+    "src_lang": "fi",
+    "tgt_lang": "fr",
+    "orig_json": "747/fi-fr.json",
+    "annotator": "su-dev"
+  },
+  "pair_076": {
+    "image_id": "248",
+    "src_lang": "bs",
+    "tgt_lang": "tr",
+    "orig_json": "248/bs-tr.json",
+    "annotator": "su-dev"
+  },
+  "pair_077": {
+    "image_id": "65",
+    "src_lang": "de",
+    "tgt_lang": "zh",
+    "orig_json": "65/de-zh.json",
+    "annotator": "su-dev"
+  },
+  "pair_078": {
+    "image_id": "1669",
+    "src_lang": "eo",
+    "tgt_lang": "fr",
+    "orig_json": "1669/eo-fr.json",
+    "annotator": "su-dev"
+  },
+  "pair_079": {
+    "image_id": "821",
+    "src_lang": "ca",
+    "tgt_lang": "zh_hans",
+    "orig_json": "821/ca-zh_hans.json",
+    "annotator": "su-dev"
+  },
+  "pair_080": {
+    "image_id": "65",
+    "src_lang": "de",
+    "tgt_lang": "fr",
+    "orig_json": "65/de-fr.json",
+    "annotator": "su-dev"
+  },
+  "pair_081": {
+    "image_id": "728",
+    "src_lang": "de",
+    "tgt_lang": "mkd",
+    "orig_json": "728/de-mkd.json",
+    "annotator": "su-dev"
+  },
+  "pair_082": {
+    "image_id": "522",
+    "src_lang": "en",
+    "tgt_lang": "ko",
+    "orig_json": "522/en-ko.json",
+    "annotator": "su-dev"
+  },
+  "pair_083": {
+    "image_id": "240",
+    "src_lang": "bg",
+    "tgt_lang": "zh_hant",
+    "orig_json": "240/bg-zh_hant.json",
+    "annotator": "su-dev"
+  },
+  "pair_084": {
+    "image_id": "3593",
+    "src_lang": "es",
+    "tgt_lang": "la",
+    "orig_json": "3593/es-la.json",
+    "annotator": "su-dev"
+  },
+  "pair_085": {
+    "image_id": "985",
+    "src_lang": "ca",
+    "tgt_lang": "fa",
+    "orig_json": "985/ca-fa.json",
+    "annotator": "su-dev"
+  },
+  "pair_086": {
+    "image_id": "2788",
+    "src_lang": "de",
+    "tgt_lang": "en",
+    "orig_json": "2788/de-en.json",
+    "annotator": "su-dev"
+  },
+  "pair_087": {
+    "image_id": "72",
+    "src_lang": "en",
+    "tgt_lang": "pt",
+    "orig_json": "72/en-pt.json",
+    "annotator": "su-dev"
+  },
+  "pair_088": {
+    "image_id": "433",
+    "src_lang": "da",
+    "tgt_lang": "tr",
+    "orig_json": "433/da-tr.json",
+    "annotator": "su-dev"
+  },
+  "pair_089": {
+    "image_id": "747",
+    "src_lang": "af",
+    "tgt_lang": "it",
+    "orig_json": "747/af-it.json",
+    "annotator": "su-dev"
+  },
+  "pair_090": {
+    "image_id": "983",
+    "src_lang": "nl",
+    "tgt_lang": "ta",
+    "orig_json": "983/nl-ta.json",
+    "annotator": "su-dev"
+  },
+  "pair_091": {
+    "image_id": "548",
+    "src_lang": "eu",
+    "tgt_lang": "ja",
+    "orig_json": "548/eu-ja.json",
+    "annotator": "su-dev"
+  },
+  "pair_092": {
+    "image_id": "454",
+    "src_lang": "en",
+    "tgt_lang": "pl",
+    "orig_json": "454/en-pl.json",
+    "annotator": "su-dev"
+  },
+  "pair_093": {
+    "image_id": "983",
+    "src_lang": "cs",
+    "tgt_lang": "fr",
+    "orig_json": "983/cs-fr.json",
+    "annotator": "su-dev"
+  },
+  "pair_094": {
+    "image_id": "248",
+    "src_lang": "ml",
+    "tgt_lang": "tr",
+    "orig_json": "248/ml-tr.json",
+    "annotator": "su-dev"
+  },
+  "pair_095": {
+    "image_id": "235",
+    "src_lang": "fa",
+    "tgt_lang": "pl",
+    "orig_json": "235/fa-pl.json",
+    "annotator": "su-dev"
+  },
+  "pair_096": {
+    "image_id": "3007",
+    "src_lang": "gu",
+    "tgt_lang": "mr",
+    "orig_json": "3007/gu-mr.json",
+    "annotator": "su-dev"
+  },
+  "pair_097": {
+    "image_id": "248",
+    "src_lang": "is",
+    "tgt_lang": "ml",
+    "orig_json": "248/is-ml.json",
+    "annotator": "su-dev"
+  },
+  "pair_098": {
+    "image_id": "983",
+    "src_lang": "fr",
+    "tgt_lang": "sv",
+    "orig_json": "983/fr-sv.json",
+    "annotator": "su-dev"
+  },
+  "pair_099": {
+    "image_id": "2694",
+    "src_lang": "es",
+    "tgt_lang": "pt",
+    "orig_json": "2694/es-pt.json",
+    "annotator": "su-dev"
+  },
+  "pair_100": {
+    "image_id": "454",
+    "src_lang": "ca",
+    "tgt_lang": "en",
+    "orig_json": "454/ca-en.json",
+    "annotator": "su-dev"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "image_id": "548",
+  "language": "ja",
+  "png": {
+    "size": {
+      "width": 900.0,
+      "height": 900.0
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Dyson_Sphere_Diagram-ja.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC0",
+      "author": "Mage Whopper"
+    }
+  },
+  "boxes": [
+    {
+      "id": "6",
+      "x": 462.93,
+      "y": 189.25,
+      "w": 24.94,
+      "h": 193.31,
+      "text": "半径 1.5×10 m"
+    },
+    {
+      "id": "5",
+      "x": 467.31,
+      "y": 410.47,
+      "w": 53.16,
+      "h": 25.16,
+      "text": "太陽"
+    },
+    {
+      "id": "3",
+      "x": 330.2,
+      "y": 441.25,
+      "w": 53.38,
+      "h": 24.39,
+      "text": "金星"
+    },
+    {
+      "id": "4",
+      "x": 501.27,
+      "y": 476.88,
+      "w": 53.27,
+      "h": 24.5,
+      "text": "水星"
+    },
+    {
+      "id": "1",
+      "x": 413.21,
+      "y": 662.62,
+      "w": 142.64,
+      "h": 57.71,
+      "text": "ダイソン球 3 m 厚"
+    },
+    {
+      "id": "2",
+      "x": 84.47,
+      "y": 806.84,
+      "w": 138.66,
+      "h": 26.27,
+      "text": "赤外線放射"
+    }
+  ],
+  "comment": ""
+}

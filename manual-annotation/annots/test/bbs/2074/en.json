@@ -1,0 +1,171 @@
+{
+  "image_id": "2074",
+  "language": "en",
+  "png": {
+    "size": {
+      "width": 1745,
+      "height": 1592
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:1941-1943_Axis_occupation_of_Yugoslavia_map_-_en.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Hellerick"
+    }
+  },
+  "boxes": [
+    {
+      "id": "80",
+      "x": 85.0,
+      "y": 6.0,
+      "w": 239.0,
+      "h": 108.0,
+      "text": "GERMAN EMPIRE"
+    },
+    {
+      "id": "77",
+      "x": 748.11,
+      "y": 83.74,
+      "w": 281.18,
+      "h": 44.28,
+      "text": "HUNGARY"
+    },
+    {
+      "id": "89",
+      "x": 209.88,
+      "y": 126.99,
+      "w": 214.89,
+      "h": 132.75,
+      "text": "(annexed by Germany)"
+    },
+    {
+      "id": "79",
+      "x": 1405.59,
+      "y": 268.54,
+      "w": 277.97,
+      "h": 113.24,
+      "text": "ROMANIA"
+    },
+    {
+      "id": "92",
+      "x": 178.0,
+      "y": 281.0,
+      "w": 171.0,
+      "h": 103.0,
+      "text": "(annexed by Italy)"
+    },
+    {
+      "id": "90",
+      "x": 901.85,
+      "y": 297.03,
+      "w": 217.94,
+      "h": 146.87,
+      "text": "(annexed by Hungary)"
+    },
+    {
+      "id": "86",
+      "x": 1167.84,
+      "y": 367.22,
+      "w": 107.2,
+      "h": 167.51,
+      "text": "Banat"
+    },
+    {
+      "id": "94",
+      "x": 841.39,
+      "y": 461.77,
+      "w": 369.94,
+      "h": 241.38,
+      "text": "(occupied by Germany)"
+    },
+    {
+      "id": "85",
+      "x": 372.44,
+      "y": 523.43,
+      "w": 509.71,
+      "h": 108.72,
+      "text": "INDEPENDENT STATE OF CROATIA"
+    },
+    {
+      "id": "63",
+      "x": 1201.3,
+      "y": 735.47,
+      "w": 200.89,
+      "h": 44.28,
+      "text": "SERBIA"
+    },
+    {
+      "id": "88",
+      "x": 236.71,
+      "y": 809.87,
+      "w": 253.22,
+      "h": 243.1,
+      "text": "(annexed by Italy)"
+    },
+    {
+      "id": "96",
+      "x": 659.0,
+      "y": 824.0,
+      "w": 336.0,
+      "h": 113.0,
+      "text": "(occupied by Italy)"
+    },
+    {
+      "id": "81",
+      "x": 1675.84,
+      "y": 893.65,
+      "w": 44.28,
+      "h": 293.1,
+      "text": "BULGARIA"
+    },
+    {
+      "id": "83",
+      "x": 896.24,
+      "y": 951.84,
+      "w": 225.36,
+      "h": 109.22,
+      "text": "MONTE- NEGRO"
+    },
+    {
+      "id": "95",
+      "x": 1159.45,
+      "y": 1027.57,
+      "w": 128.0,
+      "h": 375.76,
+      "text": "(annexed to Albania)"
+    },
+    {
+      "id": "87",
+      "x": 1395.3,
+      "y": 1167.84,
+      "w": 139.37,
+      "h": 213.52,
+      "text": "(annexed by Bulgaria)"
+    },
+    {
+      "id": "84",
+      "x": 1070.07,
+      "y": 1175.81,
+      "w": 146.87,
+      "h": 385.0,
+      "text": "ALBANIA (Italian protectorate)"
+    },
+    {
+      "id": "78",
+      "x": 146.53,
+      "y": 1289.04,
+      "w": 199.76,
+      "h": 179.0,
+      "text": "I T A L Y"
+    },
+    {
+      "id": "91",
+      "x": 1413.58,
+      "y": 1447.65,
+      "w": 293.61,
+      "h": 121.16,
+      "text": "G R E E C E"
+    }
+  ],
+  "comment": ""
+}

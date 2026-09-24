@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "mkd",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-mk.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 446.2,
+      "y": 35.31,
+      "w": 171.93,
+      "h": 37.09,
+      "text": "јајцеводи"
+    },
+    {
+      "id": "5",
+      "x": 467.65,
+      "y": 87.02,
+      "w": 129.02,
+      "h": 37.09,
+      "text": "јајници"
+    },
+    {
+      "id": "4",
+      "x": 479.92,
+      "y": 138.67,
+      "w": 103.5,
+      "h": 21.7,
+      "text": "матка"
+    },
+    {
+      "id": "1",
+      "x": 341.5,
+      "y": 326.84,
+      "w": 77.44,
+      "h": 29.19,
+      "text": "грло"
+    },
+    {
+      "id": "2",
+      "x": 321.45,
+      "y": 418.92,
+      "w": 120.09,
+      "h": 21.7,
+      "text": "вагина"
+    },
+    {
+      "id": "6",
+      "x": 321.19,
+      "y": 560.39,
+      "w": 101.64,
+      "h": 29.66,
+      "text": "вулва"
+    }
+  ],
+  "comment": ""
+}

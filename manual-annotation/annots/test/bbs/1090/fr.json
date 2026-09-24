@@ -1,0 +1,59 @@
+{
+  "image_id": "1090",
+  "language": "fr",
+  "png": {
+    "size": {
+      "width": 2044.63,
+      "height": 1861
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Map_of_region_of_Campania,_Italy,_with_provinces-fr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "\nVonvikken"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 687.72,
+      "y": 161.67,
+      "w": 519.95,
+      "h": 366.7,
+      "text": "Benevento"
+    },
+    {
+      "id": "1",
+      "x": 81.14,
+      "y": 336.16,
+      "w": 521.13,
+      "h": 106.46,
+      "text": "Caserte"
+    },
+    {
+      "id": "3",
+      "x": 897.35,
+      "y": 639.58,
+      "w": 641.75,
+      "h": 132.18,
+      "text": "Avellino"
+    },
+    {
+      "id": "5",
+      "x": 350.94,
+      "y": 745.68,
+      "w": 392.85,
+      "h": 117.29,
+      "text": "Naples"
+    },
+    {
+      "id": "4",
+      "x": 1176.89,
+      "y": 931.62,
+      "w": 620.44,
+      "h": 803.94,
+      "text": "Salerne"
+    }
+  ],
+  "comment": ""
+}

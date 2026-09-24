@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "ru",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-ru.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 354.64,
+      "y": 26.58,
+      "w": 357.55,
+      "h": 37.76,
+      "text": "Фаллопиевы трубы"
+    },
+    {
+      "id": "1",
+      "x": 456.5,
+      "y": 84.56,
+      "w": 153.35,
+      "h": 28.66,
+      "text": "Яичники"
+    },
+    {
+      "id": "5",
+      "x": 478.03,
+      "y": 133.53,
+      "w": 109.52,
+      "h": 29.13,
+      "text": "Матка"
+    },
+    {
+      "id": "2",
+      "x": 185.07,
+      "y": 323.57,
+      "w": 234.47,
+      "h": 29.13,
+      "text": "Шейка матки"
+    },
+    {
+      "id": "3",
+      "x": 240.99,
+      "y": 415.66,
+      "w": 204.23,
+      "h": 34.56,
+      "text": "Влагалище"
+    },
+    {
+      "id": "6",
+      "x": 297.44,
+      "y": 557.13,
+      "w": 128.09,
+      "h": 37.09,
+      "text": "Вульва"
+    }
+  ],
+  "comment": ""
+}

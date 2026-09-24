@@ -1,0 +1,83 @@
+{
+  "image_id": "179",
+  "language": "ca",
+  "png": {
+    "size": {
+      "width": 686.63,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Diagrama_d%27una_c%C3%A8l%C2%B7lula_procariota.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats. Translated by László Németh."
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 367.8,
+      "y": 21.08,
+      "w": 77.99,
+      "h": 13.82,
+      "text": "Citoplasma"
+    },
+    {
+      "id": "3",
+      "x": 264.55,
+      "y": 26.05,
+      "w": 75.9,
+      "h": 11.14,
+      "text": "Ribosomes"
+    },
+    {
+      "id": "1",
+      "x": 97.42,
+      "y": 29.61,
+      "w": 98.04,
+      "h": 11.14,
+      "text": "Paret cel·lular"
+    },
+    {
+      "id": "5",
+      "x": 519.18,
+      "y": 55.09,
+      "w": 102.77,
+      "h": 14.74,
+      "text": "Flagel bacterià"
+    },
+    {
+      "id": "2",
+      "x": 193.44,
+      "y": 64.22,
+      "w": 73.1,
+      "h": 10.68,
+      "text": "Mesosoma"
+    },
+    {
+      "id": "8",
+      "x": 89.0,
+      "y": 64.33,
+      "w": 54.77,
+      "h": 14.66,
+      "text": "Càpsula"
+    },
+    {
+      "id": "6",
+      "x": 27.92,
+      "y": 103.59,
+      "w": 116.73,
+      "h": 13.82,
+      "text": "ADN (nucleoide)"
+    },
+    {
+      "id": "7",
+      "x": 2.83,
+      "y": 132.62,
+      "w": 147.27,
+      "h": 13.94,
+      "text": "Membrana plasmàtica"
+    }
+  ],
+  "comment": ""
+}

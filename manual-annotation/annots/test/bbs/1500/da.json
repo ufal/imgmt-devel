@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "da",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-da.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "3",
+      "x": 423.75,
+      "y": 23.65,
+      "w": 216.47,
+      "h": 37.09,
+      "text": "Æggeledere"
+    },
+    {
+      "id": "1",
+      "x": 421.53,
+      "y": 76.79,
+      "w": 220.9,
+      "h": 37.09,
+      "text": "Æggestokke"
+    },
+    {
+      "id": "4",
+      "x": 451.43,
+      "y": 129.92,
+      "w": 162.3,
+      "h": 29.13,
+      "text": "Livmoder"
+    },
+    {
+      "id": "6",
+      "x": 184.84,
+      "y": 326.54,
+      "w": 233.67,
+      "h": 29.13,
+      "text": "Livmoderhals"
+    },
+    {
+      "id": "2",
+      "x": 326.01,
+      "y": 422.38,
+      "w": 119.83,
+      "h": 37.09,
+      "text": "Vagina"
+    },
+    {
+      "id": "5",
+      "x": 316.16,
+      "y": 561.48,
+      "w": 110.08,
+      "h": 29.64,
+      "text": "Skede"
+    }
+  ],
+  "comment": ""
+}

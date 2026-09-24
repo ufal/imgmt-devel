@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "tl",
+  "png": {
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=tl",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "8",
+      "x": 399.91,
+      "y": 97.67,
+      "w": 172.09,
+      "h": 53.74,
+      "text": "Buhay"
+    },
+    {
+      "id": "7",
+      "x": 364.44,
+      "y": 280.37,
+      "w": 241.86,
+      "h": 53.74,
+      "text": "Dominyo"
+    },
+    {
+      "id": "6",
+      "x": 362.99,
+      "y": 465.97,
+      "w": 243.19,
+      "h": 53.74,
+      "text": "Kingdom"
+    },
+    {
+      "id": "5",
+      "x": 383.79,
+      "y": 648.67,
+      "w": 201.49,
+      "h": 53.74,
+      "text": "Phylum"
+    },
+    {
+      "id": "4",
+      "x": 409.65,
+      "y": 833.58,
+      "w": 149.23,
+      "h": 42.92,
+      "text": "Class"
+    },
+    {
+      "id": "3",
+      "x": 401.42,
+      "y": 1019.18,
+      "w": 164.37,
+      "h": 42.92,
+      "text": "Orden"
+    },
+    {
+      "id": "2",
+      "x": 396.69,
+      "y": 1196.77,
+      "w": 178.52,
+      "h": 53.74,
+      "text": "Family"
+    },
+    {
+      "id": "1",
+      "x": 396.84,
+      "y": 1381.68,
+      "w": 174.9,
+      "h": 42.92,
+      "text": "Genus"
+    },
+    {
+      "id": "9",
+      "x": 376.77,
+      "y": 1565.1,
+      "w": 214.37,
+      "h": 53.68,
+      "text": "Species"
+    }
+  ],
+  "comment": ""
+}

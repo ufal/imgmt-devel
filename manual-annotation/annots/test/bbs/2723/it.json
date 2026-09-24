@@ -1,0 +1,114 @@
+{
+  "image_id": "2723",
+  "language": "it",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Kashmir_map.svg",
+    "size": {
+      "width": 8271.93,
+      "height": 6495
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Planemad"
+    }
+  },
+  "boxes": [
+    {
+      "id": "5",
+      "x": 113.14,
+      "y": 123.95,
+      "w": 628.76,
+      "h": 416.97,
+      "text": "Tagikistan"
+    },
+    {
+      "id": "4",
+      "x": 951.69,
+      "y": 461.92,
+      "w": 758.44,
+      "h": 131.25,
+      "text": "Afghanistan"
+    },
+    {
+      "id": "3",
+      "x": 5371.97,
+      "y": 693.51,
+      "w": 948.27,
+      "h": 347.13,
+      "text": "Cina"
+    },
+    {
+      "id": "7",
+      "x": 4198.08,
+      "y": 1284.61,
+      "w": 1171.95,
+      "h": 843.88,
+      "text": "Valle Shaksgam"
+    },
+    {
+      "id": "6",
+      "x": 1902.45,
+      "y": 2043.0,
+      "w": 1785.55,
+      "h": 236.84,
+      "text": "Gilgit-Baltistan"
+    },
+    {
+      "id": "12",
+      "x": 4203.83,
+      "y": 2465.0,
+      "w": 1506.35,
+      "h": 496.29,
+      "text": "Giacciaio del Siachen"
+    },
+    {
+      "id": "1",
+      "x": 214.13,
+      "y": 2645.28,
+      "w": 1842.7,
+      "h": 356.11,
+      "text": "Pakistan"
+    },
+    {
+      "id": "11",
+      "x": 6279.16,
+      "y": 2663.01,
+      "w": 1265.2,
+      "h": 189.92,
+      "text": "Aksai Chin"
+    },
+    {
+      "id": "10",
+      "x": 4691.64,
+      "y": 3976.81,
+      "w": 838.56,
+      "h": 189.92,
+      "text": "Ladakh"
+    },
+    {
+      "id": "8",
+      "x": 1362.0,
+      "y": 4009.86,
+      "w": 979.3,
+      "h": 496.29,
+      "text": "Azad Kashmir"
+    },
+    {
+      "id": "9",
+      "x": 2532.8,
+      "y": 4264.14,
+      "w": 979.3,
+      "h": 794.64,
+      "text": "Jammu e Kashmir"
+    },
+    {
+      "id": "2",
+      "x": 3947.17,
+      "y": 5693.66,
+      "w": 1102.2,
+      "h": 356.11,
+      "text": "India"
+    }
+  ]
+}

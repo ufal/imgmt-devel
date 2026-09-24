@@ -1,0 +1,43 @@
+{
+  "image_id": "3213",
+  "language": "ca",
+  "png": {
+    "size": {
+      "width": 158,
+      "height": 158
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Function_machine2.svg?lang=ca",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Wvbailey (talk)"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 2.81,
+      "y": 2.77,
+      "w": 14.27,
+      "h": 1.84,
+      "text": "ENTRADA x"
+    },
+    {
+      "id": "2",
+      "x": 7.22,
+      "y": 13.2,
+      "w": 12.27,
+      "h": 2.57,
+      "text": "FUNCIÓ f:"
+    },
+    {
+      "id": "3",
+      "x": 12.9,
+      "y": 24.57,
+      "w": 16.88,
+      "h": 2.44,
+      "text": "SORTIDA f(x)"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,91 @@
+{
+  "image_id": "179",
+  "language": "ro",
+  "png": {
+    "size": {
+      "width": 653.75,
+      "height": 532
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Average_prokaryote_cell_-_ro.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Mariana Ruiz LadyofHats. Translated by László Németh."
+    }
+  },
+  "boxes": [
+    {
+      "id": "7",
+      "x": 200.0,
+      "y": 23.0,
+      "w": 79.0,
+      "h": 20.0,
+      "text": ""
+    },
+    {
+      "id": "6",
+      "x": 140.0,
+      "y": 48.0,
+      "w": 139.0,
+      "h": 18.0,
+      "text": "Perete celular"
+    },
+    {
+      "id": "2",
+      "x": 68.07,
+      "y": 78.4,
+      "w": 205.83,
+      "h": 19.36,
+      "text": "Membrană plasmatică"
+    },
+    {
+      "id": "3",
+      "x": 85.58,
+      "y": 119.85,
+      "w": 103.95,
+      "h": 19.63,
+      "text": "Citoplasmă"
+    },
+    {
+      "id": "1",
+      "x": 36.6,
+      "y": 160.67,
+      "w": 85.15,
+      "h": 15.4,
+      "text": "Ribozomi"
+    },
+    {
+      "id": "4",
+      "x": 28.0,
+      "y": 184.0,
+      "w": 79.0,
+      "h": 24.0,
+      "text": "Plasmid"
+    },
+    {
+      "id": "5",
+      "x": 27.0,
+      "y": 219.0,
+      "w": 30.0,
+      "h": 21.0,
+      "text": "Pili"
+    },
+    {
+      "id": "8",
+      "x": 473.0,
+      "y": 429.0,
+      "w": 62.0,
+      "h": 25.0,
+      "text": "Flagel"
+    },
+    {
+      "id": "9",
+      "x": 444.0,
+      "y": 460.0,
+      "w": 212.0,
+      "h": 26.0,
+      "text": "Nucleoid (ADN circular)"
+    }
+  ],
+  "comment": ""
+}

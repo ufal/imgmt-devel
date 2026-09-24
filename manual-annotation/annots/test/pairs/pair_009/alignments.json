@@ -1,0 +1,26 @@
+{
+  "image_id": "32",
+  "src_lang": "de",
+  "tgt_lang": "it",
+  "alignment_method": "svg_switch",
+  "alignments": [
+    {
+      "src_box": "1",
+      "tgt_box": "1"
+    },
+    {
+      "src_box": "2",
+      "tgt_box": "2"
+    },
+    {
+      "src_box": "3",
+      "tgt_box": "3"
+    },
+    {
+      "src_box": "4",
+      "tgt_box": "4"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": ""
+}

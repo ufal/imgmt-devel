@@ -1,0 +1,90 @@
+{
+  "image_id": "248",
+  "language": "id",
+  "png": {
+    "wikimedia_url": "https://commons.wikimedia.org/w/index.php?title=File:Biological_classification_L_Pengo_vflip.svg&lang=id",
+    "size": {
+      "width": 696.0,
+      "height": 1740
+    },
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 338.8,
+      "y": 97.68,
+      "w": 291.42,
+      "h": 52.96,
+      "text": "Kehidupan"
+    },
+    {
+      "id": "2",
+      "x": 382.15,
+      "y": 280.38,
+      "w": 204.59,
+      "h": 42.2,
+      "text": "Domain"
+    },
+    {
+      "id": "3",
+      "x": 366.12,
+      "y": 465.98,
+      "w": 236.79,
+      "h": 53.72,
+      "text": "Kerajaan"
+    },
+    {
+      "id": "4",
+      "x": 411.25,
+      "y": 648.68,
+      "w": 146.61,
+      "h": 42.2,
+      "text": "Filum"
+    },
+    {
+      "id": "5",
+      "x": 411.25,
+      "y": 834.28,
+      "w": 147.63,
+      "h": 42.2,
+      "text": "Kelas"
+    },
+    {
+      "id": "6",
+      "x": 417.55,
+      "y": 1019.17,
+      "w": 133.96,
+      "h": 42.93,
+      "text": "Ordo"
+    },
+    {
+      "id": "7",
+      "x": 404.78,
+      "y": 1196.78,
+      "w": 159.33,
+      "h": 42.2,
+      "text": "Famili"
+    },
+    {
+      "id": "8",
+      "x": 396.83,
+      "y": 1381.67,
+      "w": 174.91,
+      "h": 42.93,
+      "text": "Genus"
+    },
+    {
+      "id": "9",
+      "x": 376.77,
+      "y": 1565.1,
+      "w": 214.36,
+      "h": 53.67,
+      "text": "Spesies"
+    }
+  ]
+}

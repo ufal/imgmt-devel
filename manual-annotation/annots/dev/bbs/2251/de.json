@@ -1,0 +1,82 @@
+{
+  "image_id": "2251",
+  "language": "de",
+  "png": {
+    "size": {
+      "width": 2109.38,
+      "height": 1875
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Hmong-Mien-de.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "ArnoldPlaton"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 479.98,
+      "y": 51.16,
+      "w": 1146.0,
+      "h": 105.66,
+      "text": "Hmong-Mien-Sprachen"
+    },
+    {
+      "id": "2",
+      "x": 991.62,
+      "y": 1119.61,
+      "w": 209.11,
+      "h": 40.97,
+      "text": "Vietnam"
+    },
+    {
+      "id": "3",
+      "x": 1716.12,
+      "y": 651.47,
+      "w": 200.48,
+      "h": 68.25,
+      "text": "Mien"
+    },
+    {
+      "id": "4",
+      "x": 441.96,
+      "y": 508.83,
+      "w": 309.84,
+      "h": 86.88,
+      "text": "Hmong"
+    },
+    {
+      "id": "5",
+      "x": 1028.13,
+      "y": 1545.73,
+      "w": 128.44,
+      "h": 40.97,
+      "text": "Laos"
+    },
+    {
+      "id": "6",
+      "x": 131.6,
+      "y": 1102.83,
+      "w": 249.35,
+      "h": 52.13,
+      "text": "Myanmar"
+    },
+    {
+      "id": "7",
+      "x": 831.33,
+      "y": 299.93,
+      "w": 530.72,
+      "h": 52.1,
+      "text": "Volksrepublik China"
+    },
+    {
+      "id": "8",
+      "x": 635.84,
+      "y": 1637.41,
+      "w": 227.63,
+      "h": 40.97,
+      "text": "Thailand"
+    }
+  ]
+}

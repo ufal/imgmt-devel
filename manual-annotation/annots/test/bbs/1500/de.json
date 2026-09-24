@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "de",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-de.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 459.47,
+      "y": 33.84,
+      "w": 149.14,
+      "h": 36.28,
+      "text": "Eileiter"
+    },
+    {
+      "id": "2",
+      "x": 480.98,
+      "y": 83.94,
+      "w": 106.31,
+      "h": 36.94,
+      "text": "Ovar"
+    },
+    {
+      "id": "3",
+      "x": 462.79,
+      "y": 134.79,
+      "w": 141.02,
+      "h": 36.3,
+      "text": "Uterus"
+    },
+    {
+      "id": "4",
+      "x": 349.23,
+      "y": 317.75,
+      "w": 134.37,
+      "h": 36.28,
+      "text": "Zervix"
+    },
+    {
+      "id": "5",
+      "x": 301.24,
+      "y": 398.22,
+      "w": 149.22,
+      "h": 46.19,
+      "text": "Vagina"
+    },
+    {
+      "id": "6",
+      "x": 307.3,
+      "y": 553.2,
+      "w": 120.54,
+      "h": 36.28,
+      "text": "Vulva"
+    }
+  ],
+  "comment": ""
+}

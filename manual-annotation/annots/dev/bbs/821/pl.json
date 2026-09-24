@@ -1,0 +1,83 @@
+{
+  "image_id": "821",
+  "language": "pl",
+  "png": {
+    "size": {
+      "width": 232,
+      "height": 299
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Illu_conducting_passages_pl.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Lord Akryl"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 19.83,
+      "y": 17.38,
+      "w": 125.45,
+      "h": 11.13,
+      "text": "Górne drogi oddechowe"
+    },
+    {
+      "id": "2",
+      "x": 25.49,
+      "y": 43.05,
+      "w": 72.33,
+      "h": 8.63,
+      "text": "Jama nosowa"
+    },
+    {
+      "id": "3",
+      "x": 25.41,
+      "y": 80.39,
+      "w": 34.52,
+      "h": 8.78,
+      "text": "Gardło"
+    },
+    {
+      "id": "4",
+      "x": 25.74,
+      "y": 106.83,
+      "w": 26.65,
+      "h": 8.68,
+      "text": "Krtań"
+    },
+    {
+      "id": "5",
+      "x": 20.12,
+      "y": 135.64,
+      "w": 123.19,
+      "h": 10.98,
+      "text": "Dolne drogi oddechowe"
+    },
+    {
+      "id": "6",
+      "x": 25.74,
+      "y": 161.22,
+      "w": 47.99,
+      "h": 8.62,
+      "text": "Tchawica"
+    },
+    {
+      "id": "7",
+      "x": 25.34,
+      "y": 192.67,
+      "w": 45.71,
+      "h": 8.79,
+      "text": "Oskrzela"
+    },
+    {
+      "id": "8",
+      "x": 25.74,
+      "y": 228.56,
+      "w": 28.24,
+      "h": 8.62,
+      "text": "Płuca"
+    }
+  ],
+  "comment": ""
+}

@@ -1,0 +1,86 @@
+{
+  "image_id": "2074",
+  "src_lang": "en",
+  "tgt_lang": "hr",
+  "alignment_method": "unambiguous_spatial_method",
+  "alignments": [
+    {
+      "src_box": "80",
+      "tgt_box": "4"
+    },
+    {
+      "src_box": "77",
+      "tgt_box": "59"
+    },
+    {
+      "src_box": "89",
+      "tgt_box": "58"
+    },
+    {
+      "src_box": "79",
+      "tgt_box": "41"
+    },
+    {
+      "src_box": "90",
+      "tgt_box": "52"
+    },
+    {
+      "src_box": "86",
+      "tgt_box": "48"
+    },
+    {
+      "src_box": "94",
+      "tgt_box": "56"
+    },
+    {
+      "src_box": "85",
+      "tgt_box": "47"
+    },
+    {
+      "src_box": "63",
+      "tgt_box": "44"
+    },
+    {
+      "src_box": "88",
+      "tgt_box": "50"
+    },
+    {
+      "src_box": "96",
+      "tgt_box": "55"
+    },
+    {
+      "src_box": "92",
+      "tgt_box": "54"
+    },
+    {
+      "src_box": "81",
+      "tgt_box": "43"
+    },
+    {
+      "src_box": "83",
+      "tgt_box": "45"
+    },
+    {
+      "src_box": "95",
+      "tgt_box": "57"
+    },
+    {
+      "src_box": "87",
+      "tgt_box": "49"
+    },
+    {
+      "src_box": "84",
+      "tgt_box": "46"
+    },
+    {
+      "src_box": "78",
+      "tgt_box": "40"
+    },
+    {
+      "src_box": "91",
+      "tgt_box": "53"
+    }
+  ],
+  "images_identical": "identical",
+  "comment": "Both SVGs included more languages"
+}

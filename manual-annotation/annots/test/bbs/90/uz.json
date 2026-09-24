@@ -1,0 +1,35 @@
+{
+  "image_id": "90",
+  "language": "uz",
+  "png": {
+    "size": {
+      "width": 868.5,
+      "height": 864
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Aldebaran-Sun_comparison-uz.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "Public domain",
+      "author": "Judithhh 11"
+    }
+  },
+  "boxes": [
+    {
+      "id": "2",
+      "x": 499.24,
+      "y": 122.46,
+      "w": 167.03,
+      "h": 44.32,
+      "text": "Quyosh"
+    },
+    {
+      "id": "1",
+      "x": 151.34,
+      "y": 431.83,
+      "w": 228.04,
+      "h": 35.74,
+      "text": "Aldebaran"
+    }
+  ],
+  "comment": ""
+}

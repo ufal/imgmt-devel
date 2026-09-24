@@ -1,0 +1,91 @@
+{
+  "image_id": "248",
+  "language": "tr",
+  "png": {
+    "size": {
+      "width": 678.31,
+      "height": 1740
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Biological_classification_L_Pengo_vflip-tr.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Giac83"
+    }
+  },
+  "boxes": [
+    {
+      "id": "1",
+      "x": 368.23,
+      "y": 76.85,
+      "w": 214.76,
+      "h": 55.06,
+      "text": "Yaşam"
+    },
+    {
+      "id": "2",
+      "x": 338.77,
+      "y": 251.09,
+      "w": 281.56,
+      "h": 56.45,
+      "text": "Üst âlem"
+    },
+    {
+      "id": "3",
+      "x": 396.13,
+      "y": 435.18,
+      "w": 162.2,
+      "h": 59.6,
+      "text": "Âlem"
+    },
+    {
+      "id": "4",
+      "x": 400.26,
+      "y": 636.34,
+      "w": 158.78,
+      "h": 57.01,
+      "text": "Şube"
+    },
+    {
+      "id": "5",
+      "x": 408.2,
+      "y": 823.67,
+      "w": 146.96,
+      "h": 45.89,
+      "text": "Sınıf"
+    },
+    {
+      "id": "6",
+      "x": 377.88,
+      "y": 1011.21,
+      "w": 195.94,
+      "h": 45.68,
+      "text": "Takım"
+    },
+    {
+      "id": "7",
+      "x": 353.9,
+      "y": 1198.09,
+      "w": 248.17,
+      "h": 56.68,
+      "text": "Familya"
+    },
+    {
+      "id": "8",
+      "x": 412.65,
+      "y": 1385.69,
+      "w": 134.9,
+      "h": 45.71,
+      "text": "Cins"
+    },
+    {
+      "id": "9",
+      "x": 425.45,
+      "y": 1572.96,
+      "w": 109.38,
+      "h": 45.71,
+      "text": "Tür"
+    }
+  ],
+  "comment": ""
+}

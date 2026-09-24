@@ -1,0 +1,67 @@
+{
+  "image_id": "1500",
+  "language": "pl",
+  "png": {
+    "size": {
+      "width": 1064.98,
+      "height": 627
+    },
+    "wikimedia_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-pl.svg",
+    "licensing": {
+      "license": "CC BY-SA 4.0",
+      "original_license": "CC BY-SA 3.0",
+      "author": "Jmarchn"
+    }
+  },
+  "boxes": [
+    {
+      "id": "4",
+      "x": 453.67,
+      "y": 23.31,
+      "w": 165.44,
+      "h": 37.09,
+      "text": "Jajowody"
+    },
+    {
+      "id": "1",
+      "x": 481.67,
+      "y": 78.7,
+      "w": 107.4,
+      "h": 37.09,
+      "text": "Jajniki"
+    },
+    {
+      "id": "5",
+      "x": 473.66,
+      "y": 129.59,
+      "w": 122.15,
+      "h": 29.13,
+      "text": "Macica"
+    },
+    {
+      "id": "7",
+      "x": 295.0,
+      "y": 287.0,
+      "w": 134.0,
+      "h": 98.0,
+      "text": "Szyjka macicy"
+    },
+    {
+      "id": "3",
+      "x": 309.76,
+      "y": 419.19,
+      "w": 137.66,
+      "h": 29.13,
+      "text": "Pochwa"
+    },
+    {
+      "id": "6",
+      "x": 334.67,
+      "y": 555.49,
+      "w": 91.3,
+      "h": 29.64,
+      "text": "Srom"
+    }
+  ],
+  "comment": ""
+}
