@@ -16,14 +16,22 @@ The experiment scripts depend on two directories outside this repository: `img-m
 workspace/
 ├── imgmt-devel/
 │   └── experiments/text-image-transl/
+│       └── eval/imgmt_eval.py
 ├── img-mt_dataset/
-│   └── data/{train,dev,test}/
+│   ├── data/{train,dev,test}/
+│   └── eval/imgmt_eval.py
 └── AnyTrans-extended/
     ├── main_code.py
     └── venv/bin/python3
 ```
 
 `TIT_experiments.py` reads the dataset from its `DATA_PATH` variable and writes results under `OUTPUT_PATH`. `AnyTrans_experiments.py` uses `DATA_DIR` and `OUTPUT_PATH`, plus `PIPELINE_PYTHON` and `ANYTRANS_MAIN_CODE` variables to find the separate AnyTrans environment and entry point. These paths are resolved relative to the experiment script directory. If your checkouts have a different layout, update the corresponding constants at the top of the scripts before running them.
+
+### Setting up the evaluation script
+
+Both experiment scripts import `eval.imgmt_eval` from this directory. Before running them, copy `imgmt_eval.py` from the dataset repository into `imgmt-devel/experiments/text-image-transl/eval/`.
+
+Only `imgmt_eval.py` is needed from the dataset repository's `eval/` directory. Install the experiment environment's `requirements.txt` below so its evaluation dependencies are available.
 
 Each dataset split contains numbered image groups. For an English to Hungarian example, the scripts expect `img-mt_dataset/data/test/2265/png-base/en.png` and a reference file such as `img-mt_dataset/data/test/2265/en-hu.json`. Both experiment scripts use English as the source language and process every available English language pair in each selected group. `--limit` counts image groups, not language pairs.
 
